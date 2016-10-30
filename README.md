@@ -11,3 +11,12 @@
   2. connect_api.py
   3. reaponse_xml_processor.py
 3. csv_reader_processor is the main function. It reads the CSV file for VIN Numbers and connects with the API to extract the make, model and year of that vehicle. The details are then recorded on a separate CSV.
+
+##General Instruction to run Python code:
+1. Navigate to the respective main function location.
+2. execute the below command
+  1. python .\<file_name>.py
+  
+  
+  
+#Thanks for using my Code.
