@@ -9,7 +9,6 @@ year,month,vtype,make,make
 2015,12,02 - Automobile,HONDA,10
 2016,1,02 - Automobile,FORD,8
 2016,1,02 - Automobile,HONDA,8
-2016,1,02 - Automobile,MAZDA,2
 2016,2,02 - Automobile,LEXUS,1
 2016,2,02 - Automobile,MERZ,3
 2016,2,02 - Automobile,TOYOTA,1
@@ -19,58 +18,57 @@ year,month,vtype,make,make
 2016,3,01 - Motorcycle,HOND,3
 2016,3,01 - Motorcycle,HONDA,8
 2016,3,01 - Motorcycle,KAWASAKI,1
-2016,3,01 - Motorcycle,KIA,1
 2016,3,01 - Motorcycle,LEXUS,1
 2016,3,01 - Motorcycle,TESLA,1
 2016,3,01 - Motorcycle,TOYOTA,3
 2016,3,01 - Motorcycle,TOYT,1
 2016,3,01 - Motorcycle,YAMA,3
-2016,3,02 - Automobile,ACUR,59
-2016,3,02 - Automobile,ACURA,112
-2016,3,02 - Automobile,AUDI,54
-2016,3,02 - Automobile,BENTLEY,4
-2016,3,02 - Automobile,BMW,179
+2016,3,02 - Automobile,ACUR,52
+2016,3,02 - Automobile,ACURA,97
+2016,3,02 - Automobile,AUDI,44
+2016,3,02 - Automobile,BENTLEY,3
+2016,3,02 - Automobile,BMW,163
 2016,3,02 - Automobile,BUIC,8
-2016,3,02 - Automobile,BUICK,12
-2016,3,02 - Automobile,CADI,10
-2016,3,02 - Automobile,CADILAC,2
-2016,3,02 - Automobile,CADILLAC,26
+2016,3,02 - Automobile,BUICK,11
+2016,3,02 - Automobile,CADI,8
+2016,3,02 - Automobile,CADILAC,1
+2016,3,02 - Automobile,CADILLAC,23
 2016,3,02 - Automobile,CARR,2
-2016,3,02 - Automobile,CHEV,207
+2016,3,02 - Automobile,CHEV,186
 2016,3,02 - Automobile,CHEVEROLET,6
-2016,3,02 - Automobile,CHEVROLET,120
+2016,3,02 - Automobile,CHEVROLET,110
 2016,3,02 - Automobile,CHEVU,1
-2016,3,02 - Automobile,CHEVY,144
-2016,3,02 - Automobile,CHRY,38
+2016,3,02 - Automobile,CHEVY,135
+2016,3,02 - Automobile,CHRY,37
 2016,3,02 - Automobile,CHRYS,2
-2016,3,02 - Automobile,CHRYSLER,33
+2016,3,02 - Automobile,CHRYSLER,31
 2016,3,02 - Automobile,CHRYSTLER,11
 2016,3,02 - Automobile,CIDI,2
-2016,3,02 - Automobile,COOPER,2
+2016,3,02 - Automobile,COOPER,1
 2016,3,02 - Automobile,DATS,5
-2016,3,02 - Automobile,DODG,37
-2016,3,02 - Automobile,DODGE,195
+2016,3,02 - Automobile,DODG,31
+2016,3,02 - Automobile,DODGE,181
 2016,3,02 - Automobile,FIAT,2
-2016,3,02 - Automobile,FORD,427
+2016,3,02 - Automobile,FORD,389
 2016,3,02 - Automobile,GEO,3
-2016,3,02 - Automobile,GMC,61
+2016,3,02 - Automobile,GMC,57
 2016,3,02 - Automobile,GREEN,1
 2016,3,02 - Automobile,HARL,1
 2016,3,02 - Automobile,HON,1
 2016,3,02 - Automobile,HONA,4
 2016,3,02 - Automobile,HONADA,2
-2016,3,02 - Automobile,HOND,226
-2016,3,02 - Automobile,HONDA,623
-2016,3,02 - Automobile,HYUN,98
+2016,3,02 - Automobile,HOND,194
+2016,3,02 - Automobile,HONDA,564
+2016,3,02 - Automobile,HYUN,82
 2016,3,02 - Automobile,HYUNAI,1
-2016,3,02 - Automobile,HYUND,5
-2016,3,02 - Automobile,HYUNDAI,96
+2016,3,02 - Automobile,HYUND,4
+2016,3,02 - Automobile,HYUNDAI,88
 2016,3,02 - Automobile,HYUNDAU,1
 2016,3,02 - Automobile,INF,1
-2016,3,02 - Automobile,INFI,21
+2016,3,02 - Automobile,INFI,19
 2016,3,02 - Automobile,INFIN,3
 2016,3,02 - Automobile,INFININTI,1
-2016,3,02 - Automobile,INFINITI,39
+2016,3,02 - Automobile,INFINITI,37
 2016,3,02 - Automobile,INFINITY,3
 2016,3,02 - Automobile,INFINTE,3
 2016,3,02 - Automobile,INFINTY,5
@@ -80,97 +78,95 @@ year,month,vtype,make,make
 2016,3,02 - Automobile,ISUZO,1
 2016,3,02 - Automobile,ISUZU,7
 2016,3,02 - Automobile,JAG,4
-2016,3,02 - Automobile,JAGU,9
-2016,3,02 - Automobile,JAGUAR,7
-2016,3,02 - Automobile,JEEP,80
+2016,3,02 - Automobile,JAGU,8
+2016,3,02 - Automobile,JAGUAR,5
+2016,3,02 - Automobile,JEEP,70
 2016,3,02 - Automobile,KENW,1
-2016,3,02 - Automobile,KIA,94
+2016,3,02 - Automobile,KIA,89
 2016,3,02 - Automobile,LAND ROVER,7
 2016,3,02 - Automobile,LANDROVER,1
-2016,3,02 - Automobile,LEXS,14
-2016,3,02 - Automobile,LEXU,14
-2016,3,02 - Automobile,LEXUS,78
-2016,3,02 - Automobile,LINC,11
-2016,3,02 - Automobile,LINCOLN,29
-2016,3,02 - Automobile,LNDR,2
+2016,3,02 - Automobile,LEXS,12
+2016,3,02 - Automobile,LEXU,13
+2016,3,02 - Automobile,LEXUS,70
+2016,3,02 - Automobile,LINC,9
+2016,3,02 - Automobile,LINCOLN,26
+2016,3,02 - Automobile,LNDR,1
 2016,3,02 - Automobile,LOTU,1
 2016,3,02 - Automobile,MADZ,1
 2016,3,02 - Automobile,MASERATTI,3
-2016,3,02 - Automobile,MAZD,38
-2016,3,02 - Automobile,MAZDA,91
+2016,3,02 - Automobile,MAZD,35
+2016,3,02 - Automobile,MAZDA,83
 2016,3,02 - Automobile,MBENZ,1
-2016,3,02 - Automobile,MERC,22
-2016,3,02 - Automobile,MERCEDES,30
+2016,3,02 - Automobile,MERC,19
+2016,3,02 - Automobile,MERCEDES,27
 2016,3,02 - Automobile,MERCEDES BENZ,1
 2016,3,02 - Automobile,MERCEDES-BENZ,1
 2016,3,02 - Automobile,MERCEDEZ,8
 2016,3,02 - Automobile,MERCURY,5
-2016,3,02 - Automobile,MERZ,103
-2016,3,02 - Automobile,MINI,10
-2016,3,02 - Automobile,MINI COOPER,3
+2016,3,02 - Automobile,MERZ,98
+2016,3,02 - Automobile,MINI,9
+2016,3,02 - Automobile,MINI COOPER,2
 2016,3,02 - Automobile,MIST,1
 2016,3,02 - Automobile,MITI,2
-2016,3,02 - Automobile,MITS,28
-2016,3,02 - Automobile,MITSUBISHI,36
+2016,3,02 - Automobile,MITS,25
+2016,3,02 - Automobile,MITSUBISHI,30
 2016,3,02 - Automobile,MITZ,1
 2016,3,02 - Automobile,MNNI,1
 2016,3,02 - Automobile,NERCEDEZ,2
-2016,3,02 - Automobile,NISS,134
+2016,3,02 - Automobile,NISS,122
 2016,3,02 - Automobile,NISSAM,2
-2016,3,02 - Automobile,NISSAN,273
+2016,3,02 - Automobile,NISSAN,256
 2016,3,02 - Automobile,NISSIAN,1
 2016,3,02 - Automobile,OLDS,8
 2016,3,02 - Automobile,OLDSMOBILE,1
 2016,3,02 - Automobile,PLYM,1
 2016,3,02 - Automobile,PLYMOUTH,1
-2016,3,02 - Automobile,PONT,8
-2016,3,02 - Automobile,PONTIAC,9
+2016,3,02 - Automobile,PONT,6
+2016,3,02 - Automobile,PONTIAC,6
 2016,3,02 - Automobile,PORS,2
 2016,3,02 - Automobile,PORSCHE,2
 2016,3,02 - Automobile,RANFE ROVER,2
-2016,3,02 - Automobile,RANGE ROVER,4
-2016,3,02 - Automobile,ROLS,2
+2016,3,02 - Automobile,RANGE ROVER,2
 2016,3,02 - Automobile,SAA,3
-2016,3,02 - Automobile,SAAB,6
+2016,3,02 - Automobile,SAAB,4
 2016,3,02 - Automobile,SAT,2
 2016,3,02 - Automobile,SATR,1
-2016,3,02 - Automobile,SATU,12
-2016,3,02 - Automobile,SATURN,19
-2016,3,02 - Automobile,SCIO,3
-2016,3,02 - Automobile,SCION,25
-2016,3,02 - Automobile,STRN,5
-2016,3,02 - Automobile,SUBA,31
-2016,3,02 - Automobile,SUBARU,61
-2016,3,02 - Automobile,SUBU,3
+2016,3,02 - Automobile,SATU,11
+2016,3,02 - Automobile,SATURN,18
+2016,3,02 - Automobile,SCIO,2
+2016,3,02 - Automobile,SCION,23
+2016,3,02 - Automobile,STRN,4
+2016,3,02 - Automobile,SUBA,27
+2016,3,02 - Automobile,SUBARU,54
+2016,3,02 - Automobile,SUBU,2
 2016,3,02 - Automobile,SUZU,1
 2016,3,02 - Automobile,TESL,1
 2016,3,02 - Automobile,TIYT,3
-2016,3,02 - Automobile,TOTY,1
-2016,3,02 - Automobile,TOY,10
-2016,3,02 - Automobile,TOYO,10
-2016,3,02 - Automobile,TOYOA,3
+2016,3,02 - Automobile,TOY,8
+2016,3,02 - Automobile,TOYO,8
+2016,3,02 - Automobile,TOYOA,1
 2016,3,02 - Automobile,TOYOT,5
-2016,3,02 - Automobile,TOYOTA,723
+2016,3,02 - Automobile,TOYOTA,647
 2016,3,02 - Automobile,TOYOYA,2
-2016,3,02 - Automobile,TOYT,435
-2016,3,02 - Automobile,VOLK,59
-2016,3,02 - Automobile,VOLKS,16
+2016,3,02 - Automobile,TOYT,376
+2016,3,02 - Automobile,VOLK,54
+2016,3,02 - Automobile,VOLKS,15
 2016,3,02 - Automobile,VOLKS WAGON,3
 2016,3,02 - Automobile,VOLKSWAGEN,19
-2016,3,02 - Automobile,VOLKSWAGON,22
+2016,3,02 - Automobile,VOLKSWAGON,16
 2016,3,02 - Automobile,VOLKWAGEN,1
-2016,3,02 - Automobile,VOLV,16
-2016,3,02 - Automobile,VOLVO,21
+2016,3,02 - Automobile,VOLV,13
+2016,3,02 - Automobile,VOLVO,18
 2016,3,02 - Automobile,VOLVO 4DR,1
-2016,3,02 - Automobile,VW,20
+2016,3,02 - Automobile,VW,19
 2016,3,03 - Station Wagon,AUDI,1
 2016,3,03 - Station Wagon,BUICK,4
 2016,3,03 - Station Wagon,CHER,1
 2016,3,03 - Station Wagon,CHEV,1
 2016,3,03 - Station Wagon,CHEVY,1
 2016,3,03 - Station Wagon,CHRYSLER,2
-2016,3,03 - Station Wagon,DODGE,5
-2016,3,03 - Station Wagon,FORD,8
+2016,3,03 - Station Wagon,DODGE,4
+2016,3,03 - Station Wagon,FORD,7
 2016,3,03 - Station Wagon,HOND,11
 2016,3,03 - Station Wagon,HONDA,10
 2016,3,03 - Station Wagon,HYUNDAI,2
@@ -178,30 +174,28 @@ year,month,vtype,make,make
 2016,3,03 - Station Wagon,JEEP,3
 2016,3,03 - Station Wagon,MAZDA,1
 2016,3,03 - Station Wagon,MD,3
-2016,3,03 - Station Wagon,MERCURY,1
 2016,3,03 - Station Wagon,MERZ,3
 2016,3,03 - Station Wagon,NISS,1
 2016,3,03 - Station Wagon,SUBA,1
-2016,3,03 - Station Wagon,SUBARU,2
-2016,3,03 - Station Wagon,TOYOTA,3
+2016,3,03 - Station Wagon,SUBARU,1
+2016,3,03 - Station Wagon,TOYOTA,2
 2016,3,03 - Station Wagon,TOYT,5
 2016,3,03 - Station Wagon,VOLK,1
-2016,3,03 - Station Wagon,VOLKSWAGON,1
 2016,3,03 - Station Wagon,VOLV,1
 2016,3,04 - Limousine,MAZDA,1
 2016,3,05 - Light Duty Truck,ACUR,2
 2016,3,05 - Light Duty Truck,CADI,1
-2016,3,05 - Light Duty Truck,CHEV,25
-2016,3,05 - Light Duty Truck,CHEVROLET,10
-2016,3,05 - Light Duty Truck,CHEVY,4
+2016,3,05 - Light Duty Truck,CHEV,22
+2016,3,05 - Light Duty Truck,CHEVROLET,6
+2016,3,05 - Light Duty Truck,CHEVY,3
 2016,3,05 - Light Duty Truck,CHRYSLER,2
 2016,3,05 - Light Duty Truck,DODG,1
 2016,3,05 - Light Duty Truck,DODGE,3
-2016,3,05 - Light Duty Truck,FORD,54
-2016,3,05 - Light Duty Truck,GMC,19
+2016,3,05 - Light Duty Truck,FORD,50
+2016,3,05 - Light Duty Truck,GMC,18
 2016,3,05 - Light Duty Truck,HINO,1
 2016,3,05 - Light Duty Truck,HOND,2
-2016,3,05 - Light Duty Truck,HONDA,10
+2016,3,05 - Light Duty Truck,HONDA,8
 2016,3,05 - Light Duty Truck,HYUN,2
 2016,3,05 - Light Duty Truck,INTL,1
 2016,3,05 - Light Duty Truck,ISUZ,1
@@ -214,22 +208,22 @@ year,month,vtype,make,make
 2016,3,05 - Light Duty Truck,MAZ,1
 2016,3,05 - Light Duty Truck,MAZD,1
 2016,3,05 - Light Duty Truck,MAZDA,1
-2016,3,05 - Light Duty Truck,MERC,3
+2016,3,05 - Light Duty Truck,MERC,2
 2016,3,05 - Light Duty Truck,MERZ,2
 2016,3,05 - Light Duty Truck,NISS,2
-2016,3,05 - Light Duty Truck,NISSAN,6
+2016,3,05 - Light Duty Truck,NISSAN,4
 2016,3,05 - Light Duty Truck,PLYM,1
 2016,3,05 - Light Duty Truck,PORSCHE,1
 2016,3,05 - Light Duty Truck,SATU,1
 2016,3,05 - Light Duty Truck,SUB,1
 2016,3,05 - Light Duty Truck,SUBA,1
-2016,3,05 - Light Duty Truck,SUBARU,4
+2016,3,05 - Light Duty Truck,SUBARU,3
 2016,3,05 - Light Duty Truck,TOYOT,2
-2016,3,05 - Light Duty Truck,TOYOTA,28
-2016,3,05 - Light Duty Truck,TOYT,12
-2016,3,06 - Heavy Duty Truck,BUIC,3
+2016,3,05 - Light Duty Truck,TOYOTA,27
+2016,3,05 - Light Duty Truck,TOYT,11
+2016,3,06 - Heavy Duty Truck,BUIC,2
 2016,3,06 - Heavy Duty Truck,CHEV,5
-2016,3,06 - Heavy Duty Truck,FORD,16
+2016,3,06 - Heavy Duty Truck,FORD,9
 2016,3,06 - Heavy Duty Truck,FRHT,2
 2016,3,06 - Heavy Duty Truck,GMC,3
 2016,3,06 - Heavy Duty Truck,HINO,2
@@ -238,7 +232,7 @@ year,month,vtype,make,make
 2016,3,06 - Heavy Duty Truck,INTERNATIONAL,1
 2016,3,06 - Heavy Duty Truck,ISU,1
 2016,3,06 - Heavy Duty Truck,MACK,1
-2016,3,06 - Heavy Duty Truck,MITZ,2
+2016,3,06 - Heavy Duty Truck,MITZ,1
 2016,3,07 - Truck/Road Tractor,ISU,1
 2016,3,07 - Truck/Road Tractor,PTRB,1
 2016,3,08 - Recreational Vehicle,ACURA,1
@@ -246,10 +240,9 @@ year,month,vtype,make,make
 2016,3,08 - Recreational Vehicle,DODGE,1
 2016,3,08 - Recreational Vehicle,FORD,3
 2016,3,08 - Recreational Vehicle,HONDA,1
-2016,3,08 - Recreational Vehicle,JEEP,2
+2016,3,08 - Recreational Vehicle,JEEP,1
 2016,3,08 - Recreational Vehicle,LEXUS,1
 2016,3,08 - Recreational Vehicle,MERZ,1
-2016,3,08 - Recreational Vehicle,SATURN,1
 2016,3,08 - Recreational Vehicle,TOYOTA,2
 2016,3,10 - Transit Bus,FORD,1
 2016,3,10 - Transit Bus,ORION,1
@@ -258,8 +251,7 @@ year,month,vtype,make,make
 2016,3,20 - Commercial Rig,FRHT,1
 2016,3,25 - Utility Trailer,CARR,9
 2016,3,25 - Utility Trailer,MAST,1
-2016,3,25 - Utility Trailer,TOBR,5
-2016,3,25 - Utility Trailer,UTIL,4
+2016,3,25 - Utility Trailer,UTIL,1
 2016,3,28 - Other,AMERICANA,6
 2016,3,28 - Other,BMW,1
 2016,3,28 - Other,CHEV,2
@@ -267,7 +259,7 @@ year,month,vtype,make,make
 2016,3,28 - Other,CHRYSLER,2
 2016,3,28 - Other,DODG,1
 2016,3,28 - Other,DODGE,3
-2016,3,28 - Other,FORD,18
+2016,3,28 - Other,FORD,17
 2016,3,28 - Other,GMC,1
 2016,3,28 - Other,HOND,1
 2016,3,28 - Other,HONDA,7
@@ -282,11 +274,10 @@ year,month,vtype,make,make
 2016,3,28 - Other,TOYT,4
 2016,3,29 - Unknown,XX,1
 2016,4,01 - Motorcycle,ACUR,1
-2016,4,01 - Motorcycle,ACURA,1
-2016,4,01 - Motorcycle,BMW,10
+2016,4,01 - Motorcycle,BMW,9
 2016,4,01 - Motorcycle,BUEL,4
 2016,4,01 - Motorcycle,CADI,1
-2016,4,01 - Motorcycle,CHEVROLET,3
+2016,4,01 - Motorcycle,CHEVROLET,2
 2016,4,01 - Motorcycle,CHEVY,8
 2016,4,01 - Motorcycle,CHRY,1
 2016,4,01 - Motorcycle,DATS,1
@@ -305,51 +296,49 @@ year,month,vtype,make,make
 2016,4,01 - Motorcycle,KAWASAKI,2
 2016,4,01 - Motorcycle,KAWI,2
 2016,4,01 - Motorcycle,KAWK,5
-2016,4,01 - Motorcycle,KAWSAKI,2
+2016,4,01 - Motorcycle,KAWSAKI,1
 2016,4,01 - Motorcycle,MAZDA,3
 2016,4,01 - Motorcycle,MERCEDEZ,3
-2016,4,01 - Motorcycle,MITS,1
 2016,4,01 - Motorcycle,MITSUBISHI,1
-2016,4,01 - Motorcycle,NISS,9
-2016,4,01 - Motorcycle,PONT,1
+2016,4,01 - Motorcycle,NISS,6
 2016,4,01 - Motorcycle,PONTIAC,1
 2016,4,01 - Motorcycle,SATURN,2
 2016,4,01 - Motorcycle,SUBARU,1
 2016,4,01 - Motorcycle,SUZI,2
 2016,4,01 - Motorcycle,SUZU,1
 2016,4,01 - Motorcycle,SUZUKI,2
-2016,4,01 - Motorcycle,TOYOTA,16
-2016,4,01 - Motorcycle,TOYT,13
+2016,4,01 - Motorcycle,TOYOTA,14
+2016,4,01 - Motorcycle,TOYT,12
 2016,4,01 - Motorcycle,VOLKSWAGON,3
 2016,4,01 - Motorcycle,VOLKWAGEN,1
 2016,4,01 - Motorcycle,YAMAHA,14
 2016,4,02 - Automobile,4X4,3
-2016,4,02 - Automobile,ACUR,165
-2016,4,02 - Automobile,ACURA,366
+2016,4,02 - Automobile,ACUR,151
+2016,4,02 - Automobile,ACURA,336
 2016,4,02 - Automobile,AMGE,1
 2016,4,02 - Automobile,ATWO,6
-2016,4,02 - Automobile,AUDI,158
-2016,4,02 - Automobile,BMW,499
+2016,4,02 - Automobile,AUDI,141
+2016,4,02 - Automobile,BMW,449
 2016,4,02 - Automobile,BUIC,33
-2016,4,02 - Automobile,BUICK,104
+2016,4,02 - Automobile,BUICK,99
 2016,4,02 - Automobile,CAD,1
-2016,4,02 - Automobile,CADI,55
+2016,4,02 - Automobile,CADI,52
 2016,4,02 - Automobile,CADILAC,13
-2016,4,02 - Automobile,CADILLAC,68
-2016,4,02 - Automobile,CHEV,435
+2016,4,02 - Automobile,CADILLAC,59
+2016,4,02 - Automobile,CHEV,374
 2016,4,02 - Automobile,CHEVERLOT,2
 2016,4,02 - Automobile,CHEVEROLET,1
 2016,4,02 - Automobile,CHEVOLET,1
-2016,4,02 - Automobile,CHEVORLET,6
-2016,4,02 - Automobile,CHEVROLET,355
+2016,4,02 - Automobile,CHEVORLET,4
+2016,4,02 - Automobile,CHEVROLET,335
 2016,4,02 - Automobile,CHEVT,1
-2016,4,02 - Automobile,CHEVY,357
+2016,4,02 - Automobile,CHEVY,337
 2016,4,02 - Automobile,CHEVY VAN,1
 2016,4,02 - Automobile,CHRV,3
-2016,4,02 - Automobile,CHRY,111
+2016,4,02 - Automobile,CHRY,96
 2016,4,02 - Automobile,CHRYA,1
-2016,4,02 - Automobile,CHRYS,8
-2016,4,02 - Automobile,CHRYSLER,119
+2016,4,02 - Automobile,CHRYS,6
+2016,4,02 - Automobile,CHRYSLER,109
 2016,4,02 - Automobile,CHRYSTLER,13
 2016,4,02 - Automobile,CHYR,1
 2016,4,02 - Automobile,CHYSLER,2
@@ -358,158 +347,153 @@ year,month,vtype,make,make
 2016,4,02 - Automobile,CRY,2
 2016,4,02 - Automobile,CRYSLER,6
 2016,4,02 - Automobile,DAEWOO,5
-2016,4,02 - Automobile,DODE,1
-2016,4,02 - Automobile,DODG,150
-2016,4,02 - Automobile,DODGE,382
+2016,4,02 - Automobile,DODG,135
+2016,4,02 - Automobile,DODGE,353
 2016,4,02 - Automobile,E350,1
 2016,4,02 - Automobile,FIAT,5
-2016,4,02 - Automobile,FORD,1098
-2016,4,02 - Automobile,FORK,1
+2016,4,02 - Automobile,FORD,1007
 2016,4,02 - Automobile,GEO,12
-2016,4,02 - Automobile,GMC,157
-2016,4,02 - Automobile,HAUL,6
+2016,4,02 - Automobile,GMC,146
+2016,4,02 - Automobile,HAUL,5
 2016,4,02 - Automobile,HCRY,2
 2016,4,02 - Automobile,HINDA,1
 2016,4,02 - Automobile,HOBDA,1
 2016,4,02 - Automobile,HODA,6
 2016,4,02 - Automobile,HODNA,2
-2016,4,02 - Automobile,HON,2
+2016,4,02 - Automobile,HON,1
 2016,4,02 - Automobile,HONA,1
-2016,4,02 - Automobile,HOND,663
-2016,4,02 - Automobile,HONDA,1910
-2016,4,02 - Automobile,HONS,1
+2016,4,02 - Automobile,HOND,553
+2016,4,02 - Automobile,HONDA,1755
 2016,4,02 - Automobile,HUDS,1
 2016,4,02 - Automobile,HUMM,4
 2016,4,02 - Automobile,HUMMER,1
 2016,4,02 - Automobile,HUND,1
-2016,4,02 - Automobile,HUYNDAI,1
 2016,4,02 - Automobile,HYANDAI,1
 2016,4,02 - Automobile,HYN,4
-2016,4,02 - Automobile,HYNU,1
 2016,4,02 - Automobile,HYUD,1
 2016,4,02 - Automobile,HYUDAI,1
-2016,4,02 - Automobile,HYUN,264
-2016,4,02 - Automobile,HYUND,14
-2016,4,02 - Automobile,HYUNDAI,320
+2016,4,02 - Automobile,HYUN,231
+2016,4,02 - Automobile,HYUND,13
+2016,4,02 - Automobile,HYUNDAI,297
 2016,4,02 - Automobile,HYUNDAI`,4
-2016,4,02 - Automobile,HYUNDIA,6
+2016,4,02 - Automobile,HYUNDIA,5
 2016,4,02 - Automobile,INF,4
-2016,4,02 - Automobile,INFI,78
+2016,4,02 - Automobile,INFI,70
 2016,4,02 - Automobile,INFIINITI,1
 2016,4,02 - Automobile,INFIN,1
-2016,4,02 - Automobile,INFINITI,92
-2016,4,02 - Automobile,INFINITY,32
+2016,4,02 - Automobile,INFINITI,89
+2016,4,02 - Automobile,INFINITY,27
 2016,4,02 - Automobile,INFINTY,1
-2016,4,02 - Automobile,INIFI,3
+2016,4,02 - Automobile,INIFI,1
 2016,4,02 - Automobile,INTL,1
 2016,4,02 - Automobile,ISU,2
 2016,4,02 - Automobile,ISUZ,2
-2016,4,02 - Automobile,ISUZU,9
+2016,4,02 - Automobile,ISUZU,8
 2016,4,02 - Automobile,JAG,1
-2016,4,02 - Automobile,JAGU,6
-2016,4,02 - Automobile,JAGUAR,17
-2016,4,02 - Automobile,JEEP,353
-2016,4,02 - Automobile,KIA,211
+2016,4,02 - Automobile,JAGU,4
+2016,4,02 - Automobile,JAGUAR,15
+2016,4,02 - Automobile,JEEP,305
+2016,4,02 - Automobile,KIA,178
 2016,4,02 - Automobile,LAND,1
 2016,4,02 - Automobile,LAND  ROVER,1
-2016,4,02 - Automobile,LAND ROVER,12
+2016,4,02 - Automobile,LAND ROVER,11
 2016,4,02 - Automobile,LANDROVE,1
 2016,4,02 - Automobile,LANDROVER,7
 2016,4,02 - Automobile,LEX,3
 2016,4,02 - Automobile,LEXIS,1
-2016,4,02 - Automobile,LEXS,68
+2016,4,02 - Automobile,LEXS,60
 2016,4,02 - Automobile,LEXSUS,2
-2016,4,02 - Automobile,LEXU,53
-2016,4,02 - Automobile,LEXUS,289
+2016,4,02 - Automobile,LEXU,49
+2016,4,02 - Automobile,LEXUS,266
 2016,4,02 - Automobile,LICOLN,2
-2016,4,02 - Automobile,LINC,27
+2016,4,02 - Automobile,LINC,25
 2016,4,02 - Automobile,LINCOL,4
-2016,4,02 - Automobile,LINCOLN,62
+2016,4,02 - Automobile,LINCOLN,59
 2016,4,02 - Automobile,LND,1
-2016,4,02 - Automobile,LNDR,16
+2016,4,02 - Automobile,LNDR,13
 2016,4,02 - Automobile,LNDROVER,1
 2016,4,02 - Automobile,MADZA,2
 2016,4,02 - Automobile,MASE,1
-2016,4,02 - Automobile,MASERATI,12
+2016,4,02 - Automobile,MASERATI,10
 2016,4,02 - Automobile,MASERATTI,1
 2016,4,02 - Automobile,MAZ,1
-2016,4,02 - Automobile,MAZADA,2
-2016,4,02 - Automobile,MAZD,84
-2016,4,02 - Automobile,MAZDA,255
+2016,4,02 - Automobile,MAZADA,1
+2016,4,02 - Automobile,MAZD,77
+2016,4,02 - Automobile,MAZDA,242
 2016,4,02 - Automobile,MEBE,1
 2016,4,02 - Automobile,MER,3
-2016,4,02 - Automobile,MERC,35
+2016,4,02 - Automobile,MERC,28
 2016,4,02 - Automobile,MERC BENZ,2
 2016,4,02 - Automobile,MERCADES,1
 2016,4,02 - Automobile,MERCEDEA,1
-2016,4,02 - Automobile,MERCEDES,157
+2016,4,02 - Automobile,MERCEDES,145
 2016,4,02 - Automobile,MERCEDES BENZ,6
-2016,4,02 - Automobile,MERCEDEZ,18
+2016,4,02 - Automobile,MERCEDEZ,17
 2016,4,02 - Automobile,MERCEDEZ BENZ,1
 2016,4,02 - Automobile,MERCEDS,3
-2016,4,02 - Automobile,MERCURY,64
+2016,4,02 - Automobile,MERCURY,61
 2016,4,02 - Automobile,MERSEDEZ,2
-2016,4,02 - Automobile,MERZ,289
+2016,4,02 - Automobile,MERZ,247
 2016,4,02 - Automobile,MERZ BENZ,2
-2016,4,02 - Automobile,MINI,41
+2016,4,02 - Automobile,MINI,36
 2016,4,02 - Automobile,MINI COOPER,2
 2016,4,02 - Automobile,MISUBISHI,1
-2016,4,02 - Automobile,MITS,101
+2016,4,02 - Automobile,MITS,87
 2016,4,02 - Automobile,MITSU,1
 2016,4,02 - Automobile,MITSUB,1
-2016,4,02 - Automobile,MITSUBISHI,96
+2016,4,02 - Automobile,MITSUBISHI,89
 2016,4,02 - Automobile,MITSUBISUI,6
 2016,4,02 - Automobile,MITSUBUSHI,4
 2016,4,02 - Automobile,MITUBISHI,1
 2016,4,02 - Automobile,MITZ,5
-2016,4,02 - Automobile,MNNI,10
+2016,4,02 - Automobile,MNNI,9
 2016,4,02 - Automobile,NARD,2
 2016,4,02 - Automobile,NIAASAN,5
 2016,4,02 - Automobile,NIS,1
 2016,4,02 - Automobile,NISAN,2
-2016,4,02 - Automobile,NISS,393
+2016,4,02 - Automobile,NISS,347
 2016,4,02 - Automobile,NISSA,2
 2016,4,02 - Automobile,NISSAM,1
-2016,4,02 - Automobile,NISSAN,958
-2016,4,02 - Automobile,NISSIAN,4
+2016,4,02 - Automobile,NISSAN,880
+2016,4,02 - Automobile,NISSIAN,1
 2016,4,02 - Automobile,NNISS,1
-2016,4,02 - Automobile,OLDS,12
+2016,4,02 - Automobile,OLDS,11
 2016,4,02 - Automobile,PLYM,1
 2016,4,02 - Automobile,PLYMOUTH,1
 2016,4,02 - Automobile,POMTIAC,2
 2016,4,02 - Automobile,PON,2
 2016,4,02 - Automobile,PONITAC,1
-2016,4,02 - Automobile,PONT,34
-2016,4,02 - Automobile,PONTIAC,53
-2016,4,02 - Automobile,PORS,15
-2016,4,02 - Automobile,PORSCHE,19
+2016,4,02 - Automobile,PONT,25
+2016,4,02 - Automobile,PONTIAC,47
+2016,4,02 - Automobile,PORS,12
+2016,4,02 - Automobile,PORSCHE,18
 2016,4,02 - Automobile,PORSHE,1
 2016,4,02 - Automobile,RAM,5
-2016,4,02 - Automobile,RANG,7
-2016,4,02 - Automobile,RANGE ROVER,12
+2016,4,02 - Automobile,RANG,6
+2016,4,02 - Automobile,RANGE ROVER,8
 2016,4,02 - Automobile,RANGROV,1
 2016,4,02 - Automobile,SAA,2
-2016,4,02 - Automobile,SAAB,8
+2016,4,02 - Automobile,SAAB,3
 2016,4,02 - Automobile,SABB,2
 2016,4,02 - Automobile,SAT,6
 2016,4,02 - Automobile,SATR,1
-2016,4,02 - Automobile,SATU,14
+2016,4,02 - Automobile,SATU,13
 2016,4,02 - Automobile,SATUR,3
-2016,4,02 - Automobile,SATURN,66
-2016,4,02 - Automobile,SCIO,14
-2016,4,02 - Automobile,SCION,87
+2016,4,02 - Automobile,SATURN,60
+2016,4,02 - Automobile,SCIO,13
+2016,4,02 - Automobile,SCION,83
 2016,4,02 - Automobile,SMART,1
-2016,4,02 - Automobile,STRN,16
-2016,4,02 - Automobile,SUB,6
-2016,4,02 - Automobile,SUBA,80
+2016,4,02 - Automobile,STRN,14
+2016,4,02 - Automobile,SUB,5
+2016,4,02 - Automobile,SUBA,60
 2016,4,02 - Automobile,SUBAEU,1
 2016,4,02 - Automobile,SUBAR,1
-2016,4,02 - Automobile,SUBARU,133
+2016,4,02 - Automobile,SUBARU,117
 2016,4,02 - Automobile,SUBU,2
-2016,4,02 - Automobile,SUBURU,6
+2016,4,02 - Automobile,SUBURU,3
 2016,4,02 - Automobile,SUZI,5
-2016,4,02 - Automobile,SUZU,4
-2016,4,02 - Automobile,SUZUKI,23
+2016,4,02 - Automobile,SUZU,3
+2016,4,02 - Automobile,SUZUKI,20
 2016,4,02 - Automobile,TESL,2
 2016,4,02 - Automobile,TESLA,5
 2016,4,02 - Automobile,TOT,4
@@ -519,56 +503,52 @@ year,month,vtype,make,make
 2016,4,02 - Automobile,TOY,2
 2016,4,02 - Automobile,TOYATA,2
 2016,4,02 - Automobile,TOYATO,1
-2016,4,02 - Automobile,TOYO,34
+2016,4,02 - Automobile,TOYO,25
 2016,4,02 - Automobile,TOYOA,1
-2016,4,02 - Automobile,TOYOT,8
-2016,4,02 - Automobile,TOYOTA,1961
+2016,4,02 - Automobile,TOYOT,4
+2016,4,02 - Automobile,TOYOTA,1798
 2016,4,02 - Automobile,TOYOTA`,1
-2016,4,02 - Automobile,TOYOTO,2
+2016,4,02 - Automobile,TOYOTO,1
 2016,4,02 - Automobile,TOYOTS,1
 2016,4,02 - Automobile,TOYOYA,3
-2016,4,02 - Automobile,TOYT,1041
-2016,4,02 - Automobile,TOYTA,12
+2016,4,02 - Automobile,TOYT,891
+2016,4,02 - Automobile,TOYTA,9
 2016,4,02 - Automobile,TPYOTA,1
 2016,4,02 - Automobile,VOKS,4
-2016,4,02 - Automobile,VOLK,151
+2016,4,02 - Automobile,VOLK,138
 2016,4,02 - Automobile,VOLKESWAGON,2
-2016,4,02 - Automobile,VOLKS,83
-2016,4,02 - Automobile,VOLKSWAGEN,42
+2016,4,02 - Automobile,VOLKS,81
+2016,4,02 - Automobile,VOLKSWAGEN,40
 2016,4,02 - Automobile,VOLKSWAGGON,3
-2016,4,02 - Automobile,VOLKSWAGON,44
+2016,4,02 - Automobile,VOLKSWAGON,34
 2016,4,02 - Automobile,VOLKWAGEN,2
 2016,4,02 - Automobile,VOLKXS,2
 2016,4,02 - Automobile,VOLSKWAGEN,1
 2016,4,02 - Automobile,VOLSWAGON,2
-2016,4,02 - Automobile,VOLV,33
-2016,4,02 - Automobile,VOLVO,113
-2016,4,02 - Automobile,VW,52
-2016,4,02 - Automobile,WOLKSWAGEN,8
+2016,4,02 - Automobile,VOLV,25
+2016,4,02 - Automobile,VOLVO,107
+2016,4,02 - Automobile,VW,44
+2016,4,02 - Automobile,WOLKSWAGEN,7
 2016,4,02 - Automobile,WOLKSWAGON,1
 2016,4,02 - Automobile,YAMAHA,5
-2016,4,02 - Automobile,YOYT,1
 2016,4,03 - Station Wagon,ACURA,4
 2016,4,03 - Station Wagon,AUDI,3
 2016,4,03 - Station Wagon,BMW,6
 2016,4,03 - Station Wagon,CHEV,4
 2016,4,03 - Station Wagon,CHEVROLET,10
-2016,4,03 - Station Wagon,CHEVROLT,2
 2016,4,03 - Station Wagon,CHRY,2
 2016,4,03 - Station Wagon,CHRYSLER,3
-2016,4,03 - Station Wagon,FORD,25
+2016,4,03 - Station Wagon,FORD,24
 2016,4,03 - Station Wagon,HOND,12
-2016,4,03 - Station Wagon,HONDA,16
+2016,4,03 - Station Wagon,HONDA,15
 2016,4,03 - Station Wagon,HYUND,1
 2016,4,03 - Station Wagon,HYUNDA,1
 2016,4,03 - Station Wagon,JEEP,7
 2016,4,03 - Station Wagon,KIA,1
-2016,4,03 - Station Wagon,LEX,1
-2016,4,03 - Station Wagon,LEXUS,2
-2016,4,03 - Station Wagon,MAZD,4
+2016,4,03 - Station Wagon,LEXUS,1
+2016,4,03 - Station Wagon,MAZD,3
 2016,4,03 - Station Wagon,MAZDA,13
 2016,4,03 - Station Wagon,MERCEDES,3
-2016,4,03 - Station Wagon,MERCURY,1
 2016,4,03 - Station Wagon,MERZ,3
 2016,4,03 - Station Wagon,MITS,2
 2016,4,03 - Station Wagon,MNNI,2
@@ -577,14 +557,13 @@ year,month,vtype,make,make
 2016,4,03 - Station Wagon,PLYM,1
 2016,4,03 - Station Wagon,PONT,1
 2016,4,03 - Station Wagon,SATURN,2
-2016,4,03 - Station Wagon,SUB,3
-2016,4,03 - Station Wagon,SUBA,5
-2016,4,03 - Station Wagon,SUBARU,8
+2016,4,03 - Station Wagon,SUB,2
+2016,4,03 - Station Wagon,SUBA,2
+2016,4,03 - Station Wagon,SUBARU,7
 2016,4,03 - Station Wagon,TOYOT,2
-2016,4,03 - Station Wagon,TOYOTA,25
-2016,4,03 - Station Wagon,TOYT,19
-2016,4,03 - Station Wagon,VOLK,4
-2016,4,03 - Station Wagon,VOLKS,1
+2016,4,03 - Station Wagon,TOYOTA,23
+2016,4,03 - Station Wagon,TOYT,18
+2016,4,03 - Station Wagon,VOLK,3
 2016,4,03 - Station Wagon,VOLKSWAGON,3
 2016,4,03 - Station Wagon,VOLV,1
 2016,4,03 - Station Wagon,VOLVO,4
@@ -600,23 +579,23 @@ year,month,vtype,make,make
 2016,4,05 - Light Duty Truck,BUICK,1
 2016,4,05 - Light Duty Truck,CADI,5
 2016,4,05 - Light Duty Truck,CADILLAC,1
-2016,4,05 - Light Duty Truck,CHEV,90
+2016,4,05 - Light Duty Truck,CHEV,76
 2016,4,05 - Light Duty Truck,CHEVORLET,2
-2016,4,05 - Light Duty Truck,CHEVROLET,53
-2016,4,05 - Light Duty Truck,CHEVY,37
+2016,4,05 - Light Duty Truck,CHEVROLET,45
+2016,4,05 - Light Duty Truck,CHEVY,32
 2016,4,05 - Light Duty Truck,CHEVY VAN,1
 2016,4,05 - Light Duty Truck,CHRY,6
-2016,4,05 - Light Duty Truck,DODG,17
-2016,4,05 - Light Duty Truck,DODGE,50
-2016,4,05 - Light Duty Truck,FORD,266
-2016,4,05 - Light Duty Truck,FRGH,6
+2016,4,05 - Light Duty Truck,DODG,16
+2016,4,05 - Light Duty Truck,DODGE,49
+2016,4,05 - Light Duty Truck,FORD,230
+2016,4,05 - Light Duty Truck,FRGH,2
 2016,4,05 - Light Duty Truck,FRHT,1
-2016,4,05 - Light Duty Truck,GMC,65
+2016,4,05 - Light Duty Truck,GMC,55
 2016,4,05 - Light Duty Truck,HINO,1
 2016,4,05 - Light Duty Truck,HOND,30
 2016,4,05 - Light Duty Truck,HONDA,23
 2016,4,05 - Light Duty Truck,HUMMER,5
-2016,4,05 - Light Duty Truck,HYUN,9
+2016,4,05 - Light Duty Truck,HYUN,7
 2016,4,05 - Light Duty Truck,HYUNDAI,3
 2016,4,05 - Light Duty Truck,INFI,6
 2016,4,05 - Light Duty Truck,INFINITI,1
@@ -624,10 +603,10 @@ year,month,vtype,make,make
 2016,4,05 - Light Duty Truck,INTE,2
 2016,4,05 - Light Duty Truck,INTERNATIONAL,1
 2016,4,05 - Light Duty Truck,INTL,2
-2016,4,05 - Light Duty Truck,ISU,11
+2016,4,05 - Light Duty Truck,ISU,5
 2016,4,05 - Light Duty Truck,ISUZ,1
-2016,4,05 - Light Duty Truck,ISUZU,5
-2016,4,05 - Light Duty Truck,JEEP,31
+2016,4,05 - Light Duty Truck,ISUZU,2
+2016,4,05 - Light Duty Truck,JEEP,28
 2016,4,05 - Light Duty Truck,KIA,3
 2016,4,05 - Light Duty Truck,LAND ROV,1
 2016,4,05 - Light Duty Truck,LAND ROVER,3
@@ -638,14 +617,14 @@ year,month,vtype,make,make
 2016,4,05 - Light Duty Truck,LINC,5
 2016,4,05 - Light Duty Truck,LNDR,3
 2016,4,05 - Light Duty Truck,MAZD,3
-2016,4,05 - Light Duty Truck,MAZDA,12
+2016,4,05 - Light Duty Truck,MAZDA,10
 2016,4,05 - Light Duty Truck,MERC,1
 2016,4,05 - Light Duty Truck,MERCEDES,4
 2016,4,05 - Light Duty Truck,MERZ,8
-2016,4,05 - Light Duty Truck,MITS,3
+2016,4,05 - Light Duty Truck,MITS,2
 2016,4,05 - Light Duty Truck,MITSU,1
-2016,4,05 - Light Duty Truck,NISS,20
-2016,4,05 - Light Duty Truck,NISSAN,36
+2016,4,05 - Light Duty Truck,NISS,18
+2016,4,05 - Light Duty Truck,NISSAN,34
 2016,4,05 - Light Duty Truck,NISSIAN,3
 2016,4,05 - Light Duty Truck,PORS,1
 2016,4,05 - Light Duty Truck,PORSCHE,7
@@ -658,37 +637,33 @@ year,month,vtype,make,make
 2016,4,05 - Light Duty Truck,TK,1
 2016,4,05 - Light Duty Truck,TOYO,1
 2016,4,05 - Light Duty Truck,TOYOT,3
-2016,4,05 - Light Duty Truck,TOYOTA,55
-2016,4,05 - Light Duty Truck,TOYT,57
+2016,4,05 - Light Duty Truck,TOYOTA,43
+2016,4,05 - Light Duty Truck,TOYT,53
 2016,4,05 - Light Duty Truck,UDT,1
 2016,4,05 - Light Duty Truck,VOLV,1
 2016,4,05 - Light Duty Truck,VOLVO,2
 2016,4,05 - Light Duty Truck,VW,1
-2016,4,06 - Heavy Duty Truck,CHEV,11
+2016,4,06 - Heavy Duty Truck,CHEV,3
 2016,4,06 - Heavy Duty Truck,CHEVROLET,2
 2016,4,06 - Heavy Duty Truck,CHEVY,1
 2016,4,06 - Heavy Duty Truck,DODGE,1
-2016,4,06 - Heavy Duty Truck,FORD,87
+2016,4,06 - Heavy Duty Truck,FORD,65
 2016,4,06 - Heavy Duty Truck,FREIGHTLINER,2
 2016,4,06 - Heavy Duty Truck,FRHT,1
-2016,4,06 - Heavy Duty Truck,GMC,14
+2016,4,06 - Heavy Duty Truck,GMC,9
 2016,4,06 - Heavy Duty Truck,HINDO,1
 2016,4,06 - Heavy Duty Truck,HINO,5
 2016,4,06 - Heavy Duty Truck,HOND,1
-2016,4,06 - Heavy Duty Truck,HUMM,1
 2016,4,06 - Heavy Duty Truck,INTERNATIONAL,5
-2016,4,06 - Heavy Duty Truck,INTL,8
+2016,4,06 - Heavy Duty Truck,INTL,6
 2016,4,06 - Heavy Duty Truck,ISUZ,3
 2016,4,06 - Heavy Duty Truck,ISUZU,6
 2016,4,06 - Heavy Duty Truck,KENW,2
-2016,4,06 - Heavy Duty Truck,KENWORTH,9
+2016,4,06 - Heavy Duty Truck,KENWORTH,6
 2016,4,06 - Heavy Duty Truck,KW,1
 2016,4,06 - Heavy Duty Truck,MACK,4
-2016,4,06 - Heavy Duty Truck,MERZ,1
 2016,4,06 - Heavy Duty Truck,PETE,3
 2016,4,06 - Heavy Duty Truck,STER,2
-2016,4,06 - Heavy Duty Truck,TOYT,1
-2016,4,06 - Heavy Duty Truck,WHITE,8
 2016,4,08 - Recreational Vehicle,DODGE,2
 2016,4,08 - Recreational Vehicle,FORD,8
 2016,4,08 - Recreational Vehicle,GMC,2
@@ -700,72 +675,63 @@ year,month,vtype,make,make
 2016,4,08 - Recreational Vehicle,MERCEDES,1
 2016,4,08 - Recreational Vehicle,NISSAN,1
 2016,4,08 - Recreational Vehicle,TOYOTA,3
-2016,4,08 - Recreational Vehicle,TOYT,1
 2016,4,08 - Recreational Vehicle,VOLVO,1
 2016,4,10 - Transit Bus,FORD,1
 2016,4,10 - Transit Bus,ORION,1
 2016,4,12 - School Bus,THOM,3
 2016,4,19 - Moped,BOOM,5
-2016,4,19 - Moped,FANGYUE,8
+2016,4,19 - Moped,FANGYUE,5
 2016,4,19 - Moped,HONDA,1
 2016,4,19 - Moped,TAOTAO,1
 2016,4,20 - Commercial Rig,BMW,1
 2016,4,20 - Commercial Rig,VOLVO,6
 2016,4,23 - Travel/Home Trailer,UTIL,2
 2016,4,25 - Utility Trailer,BIGT,5
-2016,4,25 - Utility Trailer,BRIM,2
+2016,4,25 - Utility Trailer,BRIM,1
 2016,4,25 - Utility Trailer,BRMA,1
-2016,4,25 - Utility Trailer,COT,2
 2016,4,25 - Utility Trailer,FORD,1
-2016,4,25 - Utility Trailer,HOME TL,4
-2016,4,25 - Utility Trailer,KAFU,7
-2016,4,25 - Utility Trailer,KAUF,10
-2016,4,25 - Utility Trailer,KAUFMAN,2
-2016,4,25 - Utility Trailer,LOTR,7
-2016,4,25 - Utility Trailer,MAST,13
+2016,4,25 - Utility Trailer,KAFU,4
+2016,4,25 - Utility Trailer,KAUF,3
+2016,4,25 - Utility Trailer,KAUFMAN,1
+2016,4,25 - Utility Trailer,LOTR,1
+2016,4,25 - Utility Trailer,MAST,10
 2016,4,25 - Utility Trailer,MASTER TRACK,2
-2016,4,25 - Utility Trailer,PJTR,4
 2016,4,27 - Farm Equipment,ACUR,1
 2016,4,28 - Other,ACUR,2
 2016,4,28 - Other,ACURA,6
 2016,4,28 - Other,AUDI,2
 2016,4,28 - Other,BMW,2
 2016,4,28 - Other,CADI,1
-2016,4,28 - Other,CHEV,24
-2016,4,28 - Other,CHEVROLET,26
+2016,4,28 - Other,CHEV,16
+2016,4,28 - Other,CHEVROLET,25
 2016,4,28 - Other,CHRY,2
 2016,4,28 - Other,CHRYSLER,2
-2016,4,28 - Other,DODG,7
+2016,4,28 - Other,DODG,6
 2016,4,28 - Other,DODGE,7
-2016,4,28 - Other,FORD,25
+2016,4,28 - Other,FORD,22
 2016,4,28 - Other,GILL,1
-2016,4,28 - Other,GMC,5
-2016,4,28 - Other,HINO,3
-2016,4,28 - Other,HOND,13
+2016,4,28 - Other,GMC,4
+2016,4,28 - Other,HINO,1
+2016,4,28 - Other,HOND,12
 2016,4,28 - Other,HONDA,32
 2016,4,28 - Other,HUFFY,1
 2016,4,28 - Other,HUMMER,1
 2016,4,28 - Other,HYUNDAI,6
 2016,4,28 - Other,INFI,1
 2016,4,28 - Other,INFINITY,2
-2016,4,28 - Other,INTERNATIONAL,1
-2016,4,28 - Other,INTL,2
-2016,4,28 - Other,ISUZU,5
+2016,4,28 - Other,ISUZU,3
 2016,4,28 - Other,JEEP,20
-2016,4,28 - Other,KARA,2
 2016,4,28 - Other,KAWA,3
 2016,4,28 - Other,KIA,1
 2016,4,28 - Other,LEXS,1
 2016,4,28 - Other,LEXU,2
-2016,4,28 - Other,LEXUS,14
+2016,4,28 - Other,LEXUS,13
 2016,4,28 - Other,LINC,1
 2016,4,28 - Other,LNDR,1
-2016,4,28 - Other,MASTERTRAC,2
 2016,4,28 - Other,MAZD,3
 2016,4,28 - Other,MAZDA,5
 2016,4,28 - Other,MERCEDES BENZ,1
 2016,4,28 - Other,MERZ,4
-2016,4,28 - Other,MITS,1
 2016,4,28 - Other,MITSUBISHI,1
 2016,4,28 - Other,NISS,4
 2016,4,28 - Other,NISSAN,6
@@ -777,14 +743,12 @@ year,month,vtype,make,make
 2016,4,28 - Other,TOYT,11
 2016,4,28 - Other,VOLKS,1
 2016,4,28 - Other,VOLKSWAGON,4
-2016,4,28 - Other,VOLV,1
 2016,4,28 - Other,VOLVO,1
 2016,4,28 - Other,X,2
 2016,4,29 - Unknown,CROWN,1
-2016,4,29 - Unknown,DODGE,1
 2016,4,29 - Unknown,ZHEJIANG,7
 2016,5,01 - Motorcycle,ACURA,1
-2016,5,01 - Motorcycle,APRI,4
+2016,5,01 - Motorcycle,APRI,3
 2016,5,01 - Motorcycle,AUDI,3
 2016,5,01 - Motorcycle,BMW,7
 2016,5,01 - Motorcycle,BUELL,1
@@ -795,7 +759,6 @@ year,month,vtype,make,make
 2016,5,01 - Motorcycle,CHRYSLER,3
 2016,5,01 - Motorcycle,DODGE,1
 2016,5,01 - Motorcycle,DUCA,7
-2016,5,01 - Motorcycle,DUCADI,1
 2016,5,01 - Motorcycle,DUCATI,1
 2016,5,01 - Motorcycle,FORD,7
 2016,5,01 - Motorcycle,HARL,3
@@ -805,246 +768,228 @@ year,month,vtype,make,make
 2016,5,01 - Motorcycle,INFI,2
 2016,5,01 - Motorcycle,JEEP,2
 2016,5,01 - Motorcycle,KAWASAKI,5
-2016,5,01 - Motorcycle,KIA,2
 2016,5,01 - Motorcycle,LEXUS,14
 2016,5,01 - Motorcycle,MAZDA,1
 2016,5,01 - Motorcycle,NISSAN,1
 2016,5,01 - Motorcycle,RANGE ROVER,1
 2016,5,01 - Motorcycle,SCION,3
-2016,5,01 - Motorcycle,SUBA,2
-2016,5,01 - Motorcycle,SUZI,1
 2016,5,01 - Motorcycle,SUZUKI,4
 2016,5,01 - Motorcycle,TAOTAO,3
-2016,5,01 - Motorcycle,TOYOTA,6
-2016,5,01 - Motorcycle,TOYT,9
+2016,5,01 - Motorcycle,TOYOTA,5
+2016,5,01 - Motorcycle,TOYT,8
 2016,5,01 - Motorcycle,VOLKS,1
 2016,5,01 - Motorcycle,VOLVO,7
 2016,5,01 - Motorcycle,YAMA,1
 2016,5,01 - Motorcycle,YAMAHA,2
 2016,5,02 - Automobile,2016,1
-2016,5,02 - Automobile,ACCURA,1
-2016,5,02 - Automobile,ACIRA,1
-2016,5,02 - Automobile,ACUR,134
-2016,5,02 - Automobile,ACURA,355
-2016,5,02 - Automobile,AUDI,115
+2016,5,02 - Automobile,ACUR,113
+2016,5,02 - Automobile,ACURA,336
+2016,5,02 - Automobile,AUDI,104
 2016,5,02 - Automobile,BENTLEY,1
 2016,5,02 - Automobile,BENZ,6
-2016,5,02 - Automobile,BMW,478
-2016,5,02 - Automobile,BUIC,30
-2016,5,02 - Automobile,BUICK,60
-2016,5,02 - Automobile,CADI,66
+2016,5,02 - Automobile,BMW,433
+2016,5,02 - Automobile,BUIC,27
+2016,5,02 - Automobile,BUICK,57
+2016,5,02 - Automobile,CADI,57
 2016,5,02 - Automobile,CADILAC,2
 2016,5,02 - Automobile,CADILIC,2
-2016,5,02 - Automobile,CADILLAC,36
+2016,5,02 - Automobile,CADILLAC,29
 2016,5,02 - Automobile,CEV,6
 2016,5,02 - Automobile,CGEV,2
-2016,5,02 - Automobile,CHEV,459
-2016,5,02 - Automobile,CHEVE,16
+2016,5,02 - Automobile,CHEV,405
+2016,5,02 - Automobile,CHEVE,15
 2016,5,02 - Automobile,CHEVERLOT,2
-2016,5,02 - Automobile,CHEVORLET,11
-2016,5,02 - Automobile,CHEVR,2
-2016,5,02 - Automobile,CHEVROLET,196
-2016,5,02 - Automobile,CHEVY,271
+2016,5,02 - Automobile,CHEVORLET,9
+2016,5,02 - Automobile,CHEVR,1
+2016,5,02 - Automobile,CHEVROLET,181
+2016,5,02 - Automobile,CHEVY,253
 2016,5,02 - Automobile,CHEVYQ,2
-2016,5,02 - Automobile,CHRY,94
+2016,5,02 - Automobile,CHRY,78
 2016,5,02 - Automobile,CHRYLSER,2
-2016,5,02 - Automobile,CHRYS,8
-2016,5,02 - Automobile,CHRYSLER,116
-2016,5,02 - Automobile,CHRYSLEY,1
+2016,5,02 - Automobile,CHRYS,7
+2016,5,02 - Automobile,CHRYSLER,110
 2016,5,02 - Automobile,CHRYSTLER,7
 2016,5,02 - Automobile,CHVY,4
 2016,5,02 - Automobile,CHYRSTLER,3
-2016,5,02 - Automobile,CHYSLER,3
+2016,5,02 - Automobile,CHYSLER,2
 2016,5,02 - Automobile,COOPER,2
 2016,5,02 - Automobile,COROLLA,1
 2016,5,02 - Automobile,CRYSLER,6
-2016,5,02 - Automobile,DODG,98
-2016,5,02 - Automobile,DODGE,386
+2016,5,02 - Automobile,DODG,87
+2016,5,02 - Automobile,DODGE,354
 2016,5,02 - Automobile,DODGE RAM,1
 2016,5,02 - Automobile,DOSG,2
 2016,5,02 - Automobile,FERR,2
 2016,5,02 - Automobile,FFORD,1
 2016,5,02 - Automobile,FIAT,10
 2016,5,02 - Automobile,FIRD,5
-2016,5,02 - Automobile,FORD,1195
-2016,5,02 - Automobile,FREIGHTLINER,3
-2016,5,02 - Automobile,FRHT,3
-2016,5,02 - Automobile,GEO,5
-2016,5,02 - Automobile,GMC,140
+2016,5,02 - Automobile,FORD,1069
+2016,5,02 - Automobile,FREIGHTLINER,2
+2016,5,02 - Automobile,FRHT,2
+2016,5,02 - Automobile,GEO,4
+2016,5,02 - Automobile,GMC,123
 2016,5,02 - Automobile,HARLEY DAVIDSON,1
 2016,5,02 - Automobile,HINDA,3
 2016,5,02 - Automobile,HNDA,1
-2016,5,02 - Automobile,HNDYI,1
 2016,5,02 - Automobile,HODA,2
 2016,5,02 - Automobile,HON,1
-2016,5,02 - Automobile,HOND,635
+2016,5,02 - Automobile,HOND,541
 2016,5,02 - Automobile,HOND4S,1
-2016,5,02 - Automobile,HONDA,1604
-2016,5,02 - Automobile,HUMM,4
-2016,5,02 - Automobile,HUMMER,8
-2016,5,02 - Automobile,HUNDA,2
+2016,5,02 - Automobile,HONDA,1455
+2016,5,02 - Automobile,HUMM,2
+2016,5,02 - Automobile,HUMMER,7
+2016,5,02 - Automobile,HUNDA,1
 2016,5,02 - Automobile,HUNDAI,1
 2016,5,02 - Automobile,HUYNDAI,4
 2016,5,02 - Automobile,HUYUN,1
 2016,5,02 - Automobile,HYANDAI,1
 2016,5,02 - Automobile,HYND,1
 2016,5,02 - Automobile,HYNDAI,1
-2016,5,02 - Automobile,HYUDAI,4
-2016,5,02 - Automobile,HYUN,202
-2016,5,02 - Automobile,HYUNAI,2
-2016,5,02 - Automobile,HYUND,12
+2016,5,02 - Automobile,HYUDAI,3
+2016,5,02 - Automobile,HYUN,169
+2016,5,02 - Automobile,HYUND,9
 2016,5,02 - Automobile,HYUNDA,7
-2016,5,02 - Automobile,HYUNDAI,305
+2016,5,02 - Automobile,HYUNDAI,269
 2016,5,02 - Automobile,HYUNDAU,1
 2016,5,02 - Automobile,HYUNDI,4
 2016,5,02 - Automobile,HYUNDIA,1
-2016,5,02 - Automobile,INFI,58
+2016,5,02 - Automobile,INFI,55
 2016,5,02 - Automobile,INFINIT,2
-2016,5,02 - Automobile,INFINITI,105
-2016,5,02 - Automobile,INFINITY,21
+2016,5,02 - Automobile,INFINITI,101
+2016,5,02 - Automobile,INFINITY,20
 2016,5,02 - Automobile,INFINTI,2
-2016,5,02 - Automobile,INIFI,2
+2016,5,02 - Automobile,INIFI,1
 2016,5,02 - Automobile,ISU,1
 2016,5,02 - Automobile,ISUZ,2
-2016,5,02 - Automobile,ISUZU,28
+2016,5,02 - Automobile,ISUZU,25
 2016,5,02 - Automobile,IZU,9
-2016,5,02 - Automobile,IZUSU,1
-2016,5,02 - Automobile,JAGU,8
-2016,5,02 - Automobile,JAGUAR,13
-2016,5,02 - Automobile,JEEP,386
+2016,5,02 - Automobile,JAGU,7
+2016,5,02 - Automobile,JAGUAR,12
+2016,5,02 - Automobile,JEEP,347
 2016,5,02 - Automobile,KEEP,3
-2016,5,02 - Automobile,KIA,179
+2016,5,02 - Automobile,KIA,161
 2016,5,02 - Automobile,KIS,2
 2016,5,02 - Automobile,LAND,11
 2016,5,02 - Automobile,LAND ROVER,7
 2016,5,02 - Automobile,LANDROVER,1
 2016,5,02 - Automobile,LEX,6
 2016,5,02 - Automobile,LEXIS,1
-2016,5,02 - Automobile,LEXS,43
-2016,5,02 - Automobile,LEXU,65
-2016,5,02 - Automobile,LEXUS,282
-2016,5,02 - Automobile,LINC,45
-2016,5,02 - Automobile,LINCOLN,43
+2016,5,02 - Automobile,LEXS,38
+2016,5,02 - Automobile,LEXU,60
+2016,5,02 - Automobile,LEXUS,257
+2016,5,02 - Automobile,LINC,42
+2016,5,02 - Automobile,LINCOLN,41
 2016,5,02 - Automobile,LNCI,1
 2016,5,02 - Automobile,LOTUS,2
 2016,5,02 - Automobile,MADZA,1
-2016,5,02 - Automobile,MASE,2
+2016,5,02 - Automobile,MASE,1
 2016,5,02 - Automobile,MASERATI,2
 2016,5,02 - Automobile,MAZ,2
 2016,5,02 - Automobile,MAZA,1
 2016,5,02 - Automobile,MAZADA,1
-2016,5,02 - Automobile,MAZD,77
-2016,5,02 - Automobile,MAZDA,200
+2016,5,02 - Automobile,MAZD,56
+2016,5,02 - Automobile,MAZDA,189
 2016,5,02 - Automobile,MBENZ,5
 2016,5,02 - Automobile,MECEDES,1
 2016,5,02 - Automobile,MECURY,1
-2016,5,02 - Automobile,MERC,50
+2016,5,02 - Automobile,MERC,49
 2016,5,02 - Automobile,MERC BENZ,1
-2016,5,02 - Automobile,MERCEDES,112
+2016,5,02 - Automobile,MERCEDES,101
 2016,5,02 - Automobile,MERCEDES BENZ,7
-2016,5,02 - Automobile,MERCEDEZ,17
+2016,5,02 - Automobile,MERCEDEZ,15
 2016,5,02 - Automobile,MERCEDEZ BENZ,1
-2016,5,02 - Automobile,MERCURY,28
-2016,5,02 - Automobile,MERZ,257
+2016,5,02 - Automobile,MERCURY,26
+2016,5,02 - Automobile,MERZ,222
 2016,5,02 - Automobile,MERZ BENZ,2
 2016,5,02 - Automobile,MERZ4S,1
-2016,5,02 - Automobile,MINI,26
+2016,5,02 - Automobile,MINI,25
 2016,5,02 - Automobile,MISS,1
 2016,5,02 - Automobile,MIST,2
-2016,5,02 - Automobile,MITS,87
-2016,5,02 - Automobile,MITSU,12
-2016,5,02 - Automobile,MITSUBISHI,74
-2016,5,02 - Automobile,MITSUBSHI,3
+2016,5,02 - Automobile,MITS,67
+2016,5,02 - Automobile,MITSU,9
+2016,5,02 - Automobile,MITSUBISHI,60
+2016,5,02 - Automobile,MITSUBSHI,1
 2016,5,02 - Automobile,MREZ,1
 2016,5,02 - Automobile,MUSTANG,4
 2016,5,02 - Automobile,NAIS,1
-2016,5,02 - Automobile,NISS,377
+2016,5,02 - Automobile,NISS,319
 2016,5,02 - Automobile,NISSA N,1
-2016,5,02 - Automobile,NISSAN,917
-2016,5,02 - Automobile,NISSIAN,6
+2016,5,02 - Automobile,NISSAN,851
+2016,5,02 - Automobile,NISSIAN,5
 2016,5,02 - Automobile,NSSAN,2
-2016,5,02 - Automobile,OLDS,15
-2016,5,02 - Automobile,OLDSMOBILE,22
+2016,5,02 - Automobile,OLDS,7
+2016,5,02 - Automobile,OLDSMOBILE,20
 2016,5,02 - Automobile,OLK,2
 2016,5,02 - Automobile,PLYMOUTH,17
-2016,5,02 - Automobile,PONT,45
-2016,5,02 - Automobile,PONTIAC,76
-2016,5,02 - Automobile,PORS,10
-2016,5,02 - Automobile,PORSCHE,8
+2016,5,02 - Automobile,PONT,42
+2016,5,02 - Automobile,PONTIAC,73
+2016,5,02 - Automobile,PORS,9
+2016,5,02 - Automobile,PORSCHE,4
 2016,5,02 - Automobile,RAM,2
-2016,5,02 - Automobile,RANG,1
 2016,5,02 - Automobile,RANGE ROVER,3
 2016,5,02 - Automobile,RANGEROVER,1
-2016,5,02 - Automobile,ROLL,1
 2016,5,02 - Automobile,ROLLS ROYCE,2
 2016,5,02 - Automobile,ROV,1
-2016,5,02 - Automobile,SAA,7
-2016,5,02 - Automobile,SAAB,26
+2016,5,02 - Automobile,SAA,4
+2016,5,02 - Automobile,SAAB,18
 2016,5,02 - Automobile,SATR,1
-2016,5,02 - Automobile,SATU,5
-2016,5,02 - Automobile,SATURN,63
+2016,5,02 - Automobile,SATU,4
+2016,5,02 - Automobile,SATURN,55
 2016,5,02 - Automobile,SCIO,6
-2016,5,02 - Automobile,SCION,78
+2016,5,02 - Automobile,SCION,75
 2016,5,02 - Automobile,SMART CAR,1
 2016,5,02 - Automobile,SMRT,1
 2016,5,02 - Automobile,SPRINTER,3
 2016,5,02 - Automobile,STRN,6
 2016,5,02 - Automobile,SUB,4
-2016,5,02 - Automobile,SUBA,71
-2016,5,02 - Automobile,SUBARU,136
+2016,5,02 - Automobile,SUBA,62
+2016,5,02 - Automobile,SUBARU,123
 2016,5,02 - Automobile,SUBU,2
-2016,5,02 - Automobile,SUBURU,4
+2016,5,02 - Automobile,SUBURU,3
 2016,5,02 - Automobile,SUZ,2
-2016,5,02 - Automobile,SUZI,4
-2016,5,02 - Automobile,SUZU,2
+2016,5,02 - Automobile,SUZI,3
+2016,5,02 - Automobile,SUZU,1
 2016,5,02 - Automobile,SUZUKI,11
 2016,5,02 - Automobile,TESL,4
-2016,5,02 - Automobile,TESLA,5
+2016,5,02 - Automobile,TESLA,4
 2016,5,02 - Automobile,THOMAS,2
-2016,5,02 - Automobile,TOTY,12
+2016,5,02 - Automobile,TOTY,10
 2016,5,02 - Automobile,TOUPT,1
 2016,5,02 - Automobile,TOY,20
-2016,5,02 - Automobile,TOYATA,1
 2016,5,02 - Automobile,TOYO,17
 2016,5,02 - Automobile,TOYOT,3
-2016,5,02 - Automobile,TOYOTA,1633
+2016,5,02 - Automobile,TOYOTA,1486
 2016,5,02 - Automobile,TOYOYA,3
-2016,5,02 - Automobile,TOYT,991
-2016,5,02 - Automobile,TOYTA,4
+2016,5,02 - Automobile,TOYT,835
+2016,5,02 - Automobile,TOYTA,2
 2016,5,02 - Automobile,TOYTOA,5
-2016,5,02 - Automobile,TYTA,2
+2016,5,02 - Automobile,TYTA,1
 2016,5,02 - Automobile,UNK,7
 2016,5,02 - Automobile,VICT,1
 2016,5,02 - Automobile,VICTORY,1
-2016,5,02 - Automobile,VOKSWAGEN,1
-2016,5,02 - Automobile,VOLK,148
-2016,5,02 - Automobile,VOLKS,62
-2016,5,02 - Automobile,VOLKSWAGEN,34
-2016,5,02 - Automobile,VOLKSWAGGON,1
-2016,5,02 - Automobile,VOLKSWAGON,56
+2016,5,02 - Automobile,VOLK,124
+2016,5,02 - Automobile,VOLKS,59
+2016,5,02 - Automobile,VOLKSWAGEN,32
+2016,5,02 - Automobile,VOLKSWAGON,51
 2016,5,02 - Automobile,VOLKWAGEN,2
-2016,5,02 - Automobile,VOLKWAGON,2
-2016,5,02 - Automobile,VOLKWASGEN,1
-2016,5,02 - Automobile,VOLV,32
-2016,5,02 - Automobile,VOLVO,110
-2016,5,02 - Automobile,VW,45
+2016,5,02 - Automobile,VOLV,25
+2016,5,02 - Automobile,VOLVO,96
+2016,5,02 - Automobile,VW,43
 2016,5,02 - Automobile,YAMAHA,2
 2016,5,03 - Station Wagon,ACUR,2
 2016,5,03 - Station Wagon,ACURA,1
 2016,5,03 - Station Wagon,AUDI,1
 2016,5,03 - Station Wagon,BMW,3
-2016,5,03 - Station Wagon,CHEV,5
-2016,5,03 - Station Wagon,CHEVROLET,8
-2016,5,03 - Station Wagon,CHEVY,2
+2016,5,03 - Station Wagon,CHEV,3
+2016,5,03 - Station Wagon,CHEVROLET,6
+2016,5,03 - Station Wagon,CHEVY,1
 2016,5,03 - Station Wagon,CHRY,2
-2016,5,03 - Station Wagon,CHRYSLER,1
 2016,5,03 - Station Wagon,DODGE,2
-2016,5,03 - Station Wagon,FORD,16
+2016,5,03 - Station Wagon,FORD,13
 2016,5,03 - Station Wagon,GMC,2
 2016,5,03 - Station Wagon,HOND,6
-2016,5,03 - Station Wagon,HONDA,14
-2016,5,03 - Station Wagon,HUMMER,1
-2016,5,03 - Station Wagon,HYUNDAI,7
+2016,5,03 - Station Wagon,HONDA,12
+2016,5,03 - Station Wagon,HYUNDAI,6
 2016,5,03 - Station Wagon,INFIN,1
 2016,5,03 - Station Wagon,JEEP,12
 2016,5,03 - Station Wagon,KIA,5
@@ -1059,12 +1004,12 @@ year,month,vtype,make,make
 2016,5,03 - Station Wagon,SATURN,4
 2016,5,03 - Station Wagon,SCION,1
 2016,5,03 - Station Wagon,SUB,1
-2016,5,03 - Station Wagon,SUBA,8
-2016,5,03 - Station Wagon,SUBARU,9
-2016,5,03 - Station Wagon,SUBU,2
+2016,5,03 - Station Wagon,SUBA,6
+2016,5,03 - Station Wagon,SUBARU,8
+2016,5,03 - Station Wagon,SUBU,1
 2016,5,03 - Station Wagon,TOY,4
 2016,5,03 - Station Wagon,TOYOT,1
-2016,5,03 - Station Wagon,TOYOTA,14
+2016,5,03 - Station Wagon,TOYOTA,12
 2016,5,03 - Station Wagon,TOYT,13
 2016,5,03 - Station Wagon,VOLK,1
 2016,5,03 - Station Wagon,VOLV,2
@@ -1073,7 +1018,7 @@ year,month,vtype,make,make
 2016,5,04 - Limousine,AUDI,1
 2016,5,04 - Limousine,CHRY,1
 2016,5,04 - Limousine,FORD,3
-2016,5,04 - Limousine,GMC,3
+2016,5,04 - Limousine,GMC,2
 2016,5,04 - Limousine,LEXU,1
 2016,5,04 - Limousine,TOYOTA,1
 2016,5,05 - Light Duty Truck,ACUR,3
@@ -1081,85 +1026,77 @@ year,month,vtype,make,make
 2016,5,05 - Light Duty Truck,AUDI,2
 2016,5,05 - Light Duty Truck,BMW,5
 2016,5,05 - Light Duty Truck,CADI,12
-2016,5,05 - Light Duty Truck,CHEV,97
-2016,5,05 - Light Duty Truck,CHEVROLET,31
-2016,5,05 - Light Duty Truck,CHEVY,43
+2016,5,05 - Light Duty Truck,CHEV,85
+2016,5,05 - Light Duty Truck,CHEVROLET,28
+2016,5,05 - Light Duty Truck,CHEVY,40
 2016,5,05 - Light Duty Truck,CHRY,1
-2016,5,05 - Light Duty Truck,CHRYSLER,2
 2016,5,05 - Light Duty Truck,DODG,7
-2016,5,05 - Light Duty Truck,DODGE,31
+2016,5,05 - Light Duty Truck,DODGE,30
 2016,5,05 - Light Duty Truck,DODGE RAM,1
 2016,5,05 - Light Duty Truck,EPO,10
 2016,5,05 - Light Duty Truck,FOR,3
-2016,5,05 - Light Duty Truck,FORD,245
+2016,5,05 - Light Duty Truck,FORD,219
 2016,5,05 - Light Duty Truck,FREI,1
-2016,5,05 - Light Duty Truck,GMC,52
+2016,5,05 - Light Duty Truck,GMC,49
 2016,5,05 - Light Duty Truck,HOND,27
-2016,5,05 - Light Duty Truck,HONDA,18
+2016,5,05 - Light Duty Truck,HONDA,16
 2016,5,05 - Light Duty Truck,HYUN,9
 2016,5,05 - Light Duty Truck,INTL,1
 2016,5,05 - Light Duty Truck,ISU,3
-2016,5,05 - Light Duty Truck,ISUSU,2
-2016,5,05 - Light Duty Truck,ISUZ,1
-2016,5,05 - Light Duty Truck,ISUZU,6
-2016,5,05 - Light Duty Truck,JEEP,37
-2016,5,05 - Light Duty Truck,KIA,12
+2016,5,05 - Light Duty Truck,ISUSU,1
+2016,5,05 - Light Duty Truck,ISUZU,3
+2016,5,05 - Light Duty Truck,JEEP,36
+2016,5,05 - Light Duty Truck,KIA,9
 2016,5,05 - Light Duty Truck,LEX,2
 2016,5,05 - Light Duty Truck,LEXU,5
 2016,5,05 - Light Duty Truck,LEXUS,4
 2016,5,05 - Light Duty Truck,LINCOLN,9
 2016,5,05 - Light Duty Truck,LNDR,1
 2016,5,05 - Light Duty Truck,MAZD,4
-2016,5,05 - Light Duty Truck,MAZDA,4
-2016,5,05 - Light Duty Truck,MERC,3
+2016,5,05 - Light Duty Truck,MAZDA,3
 2016,5,05 - Light Duty Truck,MERCEDEZ,3
 2016,5,05 - Light Duty Truck,MERCURY,1
 2016,5,05 - Light Duty Truck,MERZ,7
 2016,5,05 - Light Duty Truck,MIFU,1
 2016,5,05 - Light Duty Truck,MITS,5
-2016,5,05 - Light Duty Truck,MITSUBISHI,6
+2016,5,05 - Light Duty Truck,MITSUBISHI,4
 2016,5,05 - Light Duty Truck,NISS,9
-2016,5,05 - Light Duty Truck,NISSAN,16
+2016,5,05 - Light Duty Truck,NISSAN,15
 2016,5,05 - Light Duty Truck,PONT,1
 2016,5,05 - Light Duty Truck,RAM,2
 2016,5,05 - Light Duty Truck,RANG,1
 2016,5,05 - Light Duty Truck,SUBA,2
 2016,5,05 - Light Duty Truck,SUBARU,2
 2016,5,05 - Light Duty Truck,TOYOT,1
-2016,5,05 - Light Duty Truck,TOYOTA,54
-2016,5,05 - Light Duty Truck,TOYT,56
-2016,5,05 - Light Duty Truck,TOYTA,3
-2016,5,06 - Heavy Duty Truck,CHEV,22
+2016,5,05 - Light Duty Truck,TOYOTA,49
+2016,5,05 - Light Duty Truck,TOYT,54
+2016,5,05 - Light Duty Truck,TOYTA,2
+2016,5,06 - Heavy Duty Truck,CHEV,14
 2016,5,06 - Heavy Duty Truck,CHEVROLET,6
 2016,5,06 - Heavy Duty Truck,CHEVY,5
-2016,5,06 - Heavy Duty Truck,FORD,62
-2016,5,06 - Heavy Duty Truck,FRHT,5
+2016,5,06 - Heavy Duty Truck,FORD,49
+2016,5,06 - Heavy Duty Truck,FRHT,4
 2016,5,06 - Heavy Duty Truck,GMC,10
 2016,5,06 - Heavy Duty Truck,INTERNATIONAL,1
 2016,5,06 - Heavy Duty Truck,INTL,3
 2016,5,06 - Heavy Duty Truck,ISU,2
 2016,5,06 - Heavy Duty Truck,ISUZ,6
-2016,5,06 - Heavy Duty Truck,KENWORTH,1
 2016,5,06 - Heavy Duty Truck,LINCOLN,7
-2016,5,06 - Heavy Duty Truck,LODA,5
+2016,5,06 - Heavy Duty Truck,LODA,2
 2016,5,06 - Heavy Duty Truck,PETE,2
 2016,5,06 - Heavy Duty Truck,STER,1
 2016,5,06 - Heavy Duty Truck,STERLING,1
-2016,5,06 - Heavy Duty Truck,TOYOTA,2
+2016,5,06 - Heavy Duty Truck,TOYOTA,1
 2016,5,07 - Truck/Road Tractor,FORD,5
 2016,5,07 - Truck/Road Tractor,FREIGHTLINER,1
-2016,5,07 - Truck/Road Tractor,JEEP,1
 2016,5,07 - Truck/Road Tractor,KENWORTH,5
 2016,5,07 - Truck/Road Tractor,MACK,1
-2016,5,07 - Truck/Road Tractor,NISSAN,1
-2016,5,08 - Recreational Vehicle,ACUR,1
 2016,5,08 - Recreational Vehicle,ACURA,2
 2016,5,08 - Recreational Vehicle,CHEV,2
 2016,5,08 - Recreational Vehicle,DODGE,1
-2016,5,08 - Recreational Vehicle,FORD,3
+2016,5,08 - Recreational Vehicle,FORD,2
 2016,5,08 - Recreational Vehicle,GMC,2
 2016,5,08 - Recreational Vehicle,HOND,1
-2016,5,08 - Recreational Vehicle,LINC,1
 2016,5,08 - Recreational Vehicle,NISS,1
 2016,5,08 - Recreational Vehicle,NISSAN,2
 2016,5,08 - Recreational Vehicle,RANGEROVER,3
@@ -1176,36 +1113,31 @@ year,month,vtype,make,make
 2016,5,20 - Commercial Rig,FORD,1
 2016,5,20 - Commercial Rig,MACK,2
 2016,5,25 - Utility Trailer,BRIM,3
-2016,5,25 - Utility Trailer,BRMA,3
-2016,5,25 - Utility Trailer,CAON,1
 2016,5,25 - Utility Trailer,CARR,1
-2016,5,25 - Utility Trailer,KAUF,7
-2016,5,25 - Utility Trailer,KRAF,2
-2016,5,25 - Utility Trailer,MAST,13
-2016,5,25 - Utility Trailer,PREM,4
-2016,5,25 - Utility Trailer,UTILITY,5
+2016,5,25 - Utility Trailer,KAUF,2
+2016,5,25 - Utility Trailer,KRAF,1
+2016,5,25 - Utility Trailer,MAST,1
 2016,5,27 - Farm Equipment,MERZ,1
 2016,5,28 - Other,ACUR,2
 2016,5,28 - Other,ACURA,1
 2016,5,28 - Other,AUDI,2
 2016,5,28 - Other,BICYCLE,1
-2016,5,28 - Other,BMW,1
-2016,5,28 - Other,CADI,4
-2016,5,28 - Other,CHEV,12
+2016,5,28 - Other,CADI,3
+2016,5,28 - Other,CHEV,10
 2016,5,28 - Other,CHEVROLET,9
 2016,5,28 - Other,DODGE,2
-2016,5,28 - Other,FORD,18
-2016,5,28 - Other,GMC,11
+2016,5,28 - Other,FORD,17
+2016,5,28 - Other,GMC,9
 2016,5,28 - Other,HOND,9
-2016,5,28 - Other,HONDA,14
+2016,5,28 - Other,HONDA,13
 2016,5,28 - Other,HUMM,1
 2016,5,28 - Other,HYUN,5
 2016,5,28 - Other,HYUNDAI,2
-2016,5,28 - Other,ISUZU,2
-2016,5,28 - Other,JEEP,9
+2016,5,28 - Other,ISUZU,1
+2016,5,28 - Other,JEEP,8
 2016,5,28 - Other,KIA,3
 2016,5,28 - Other,LEXU,1
-2016,5,28 - Other,LEXUS,6
+2016,5,28 - Other,LEXUS,5
 2016,5,28 - Other,LINCOLN,1
 2016,5,28 - Other,LNDR,1
 2016,5,28 - Other,MACK,2
@@ -1217,20 +1149,20 @@ year,month,vtype,make,make
 2016,5,28 - Other,SATU,1
 2016,5,28 - Other,SATURN,1
 2016,5,28 - Other,SUBA,1
-2016,5,28 - Other,TOYOTA,18
+2016,5,28 - Other,TOYOTA,14
 2016,5,28 - Other,TOYT,7
 2016,5,28 - Other,VOVL,1
 2016,6,01 - Motorcycle,APOLLO,9
 2016,6,01 - Motorcycle,BMW,1
-2016,6,01 - Motorcycle,CHEV,4
+2016,6,01 - Motorcycle,CHEV,3
 2016,6,01 - Motorcycle,CHEVROLET,4
 2016,6,01 - Motorcycle,CHEVY,3
 2016,6,01 - Motorcycle,CHRY,3
 2016,6,01 - Motorcycle,DODGE,1
 2016,6,01 - Motorcycle,FORD,5
 2016,6,01 - Motorcycle,HD,1
-2016,6,01 - Motorcycle,HOND,10
-2016,6,01 - Motorcycle,HONDA,44
+2016,6,01 - Motorcycle,HOND,8
+2016,6,01 - Motorcycle,HONDA,41
 2016,6,01 - Motorcycle,HYUN,2
 2016,6,01 - Motorcycle,INFINITI,3
 2016,6,01 - Motorcycle,INFINITY,1
@@ -1242,8 +1174,8 @@ year,month,vtype,make,make
 2016,6,01 - Motorcycle,KAWK,2
 2016,6,01 - Motorcycle,LEXS,4
 2016,6,01 - Motorcycle,LEXUS,1
-2016,6,01 - Motorcycle,MERZ,5
-2016,6,01 - Motorcycle,NISS,3
+2016,6,01 - Motorcycle,MERZ,1
+2016,6,01 - Motorcycle,NISS,1
 2016,6,01 - Motorcycle,NISSAN,14
 2016,6,01 - Motorcycle,STRN,1
 2016,6,01 - Motorcycle,SUBARY,1
@@ -1256,162 +1188,159 @@ year,month,vtype,make,make
 2016,6,02 - Automobile,5BB7282,3
 2016,6,02 - Automobile,ACCO,1
 2016,6,02 - Automobile,ACRU,1
-2016,6,02 - Automobile,ACUR,174
-2016,6,02 - Automobile,ACURA,390
-2016,6,02 - Automobile,AUDI,166
-2016,6,02 - Automobile,BENTLEY,2
-2016,6,02 - Automobile,BENZ,2
+2016,6,02 - Automobile,ACUR,148
+2016,6,02 - Automobile,ACURA,357
+2016,6,02 - Automobile,AUDI,152
+2016,6,02 - Automobile,BENTLEY,1
+2016,6,02 - Automobile,BENZ,1
 2016,6,02 - Automobile,BLUE,2
-2016,6,02 - Automobile,BMW,435
-2016,6,02 - Automobile,BUIC,38
-2016,6,02 - Automobile,BUICK,67
-2016,6,02 - Automobile,BUIK,2
+2016,6,02 - Automobile,BMW,404
+2016,6,02 - Automobile,BUIC,30
+2016,6,02 - Automobile,BUICK,60
 2016,6,02 - Automobile,BWI,1
 2016,6,02 - Automobile,CAD,1
 2016,6,02 - Automobile,CADALLIC,2
 2016,6,02 - Automobile,CADDILAC,1
-2016,6,02 - Automobile,CADDY,2
-2016,6,02 - Automobile,CADI,77
+2016,6,02 - Automobile,CADI,72
 2016,6,02 - Automobile,CADIL,1
 2016,6,02 - Automobile,CADILAC,1
-2016,6,02 - Automobile,CADILLAC,30
+2016,6,02 - Automobile,CADILLAC,29
 2016,6,02 - Automobile,CAILLAC,2
-2016,6,02 - Automobile,CHEV,428
+2016,6,02 - Automobile,CHEV,363
 2016,6,02 - Automobile,CHEVE,3
 2016,6,02 - Automobile,CHEVEROLET,1
 2016,6,02 - Automobile,CHEVORLET,5
 2016,6,02 - Automobile,CHEVRLET,3
-2016,6,02 - Automobile,CHEVROLET,268
-2016,6,02 - Automobile,CHEVY,375
+2016,6,02 - Automobile,CHEVROLET,256
+2016,6,02 - Automobile,CHEVY,358
 2016,6,02 - Automobile,CHRVROLET,1
-2016,6,02 - Automobile,CHRY,108
+2016,6,02 - Automobile,CHRY,90
 2016,6,02 - Automobile,CHRYS,4
-2016,6,02 - Automobile,CHRYSLER,97
+2016,6,02 - Automobile,CHRYSLER,88
 2016,6,02 - Automobile,CHRYSLET,2
 2016,6,02 - Automobile,CHRYSTLER,3
 2016,6,02 - Automobile,CHYRSLER,8
 2016,6,02 - Automobile,CHYSLER,5
 2016,6,02 - Automobile,CORV,2
-2016,6,02 - Automobile,CRYSLER,5
+2016,6,02 - Automobile,CRYSLER,4
 2016,6,02 - Automobile,DIDGE,2
 2016,6,02 - Automobile,DOD,1
 2016,6,02 - Automobile,DODE,1
-2016,6,02 - Automobile,DODG,113
-2016,6,02 - Automobile,DODGE,339
+2016,6,02 - Automobile,DODG,92
+2016,6,02 - Automobile,DODGE,319
 2016,6,02 - Automobile,DODGR,1
 2016,6,02 - Automobile,EPO,1
 2016,6,02 - Automobile,EXUS,1
 2016,6,02 - Automobile,FERRARI,5
-2016,6,02 - Automobile,FIAT,11
+2016,6,02 - Automobile,FIAT,10
 2016,6,02 - Automobile,FOD,1
 2016,6,02 - Automobile,FOED,1
 2016,6,02 - Automobile,FOR,2
-2016,6,02 - Automobile,FORD,1240
+2016,6,02 - Automobile,FORD,1118
 2016,6,02 - Automobile,FPRD,1
 2016,6,02 - Automobile,FRHT,1
 2016,6,02 - Automobile,GEO,5
-2016,6,02 - Automobile,GMC,196
+2016,6,02 - Automobile,GMC,179
 2016,6,02 - Automobile,HINDA,2
 2016,6,02 - Automobile,HNDA,1
 2016,6,02 - Automobile,HODA,2
 2016,6,02 - Automobile,HON,3
 2016,6,02 - Automobile,HONAD,1
-2016,6,02 - Automobile,HOND,712
-2016,6,02 - Automobile,HONDA,1721
-2016,6,02 - Automobile,HONDACIVIC,4
+2016,6,02 - Automobile,HOND,624
+2016,6,02 - Automobile,HONDA,1593
+2016,6,02 - Automobile,HONDACIVIC,3
 2016,6,02 - Automobile,HUMAN,2
-2016,6,02 - Automobile,HUMMER,1
 2016,6,02 - Automobile,HUYN,1
 2016,6,02 - Automobile,HUYND,1
 2016,6,02 - Automobile,HUYNDAI,2
 2016,6,02 - Automobile,HYNDAI,1
 2016,6,02 - Automobile,HYU,1
 2016,6,02 - Automobile,HYUDAI,2
-2016,6,02 - Automobile,HYUN,291
+2016,6,02 - Automobile,HYUN,257
 2016,6,02 - Automobile,HYUNADAI,2
-2016,6,02 - Automobile,HYUNAI,3
-2016,6,02 - Automobile,HYUND,13
-2016,6,02 - Automobile,HYUNDA,2
-2016,6,02 - Automobile,HYUNDAI,306
+2016,6,02 - Automobile,HYUNAI,2
+2016,6,02 - Automobile,HYUND,10
+2016,6,02 - Automobile,HYUNDA,1
+2016,6,02 - Automobile,HYUNDAI,281
 2016,6,02 - Automobile,HYUNDAY,2
 2016,6,02 - Automobile,HYUNDI,1
-2016,6,02 - Automobile,HYUNDIA,3
-2016,6,02 - Automobile,INFI,71
+2016,6,02 - Automobile,HYUNDIA,2
+2016,6,02 - Automobile,INFI,66
 2016,6,02 - Automobile,INFIN,5
 2016,6,02 - Automobile,INFINIT,3
 2016,6,02 - Automobile,INFINITE,1
-2016,6,02 - Automobile,INFINITI,90
+2016,6,02 - Automobile,INFINITI,84
 2016,6,02 - Automobile,INFINITIT,1
 2016,6,02 - Automobile,INFINITY,26
-2016,6,02 - Automobile,ISU,9
+2016,6,02 - Automobile,ISU,5
 2016,6,02 - Automobile,ISUZ,1
 2016,6,02 - Automobile,ISUZU,28
 2016,6,02 - Automobile,JAGU,22
 2016,6,02 - Automobile,JAGUAR,16
-2016,6,02 - Automobile,JEEP,358
+2016,6,02 - Automobile,JEEP,323
 2016,6,02 - Automobile,KA,4
 2016,6,02 - Automobile,KAWASAKI,13
-2016,6,02 - Automobile,KIA,239
+2016,6,02 - Automobile,KIA,218
 2016,6,02 - Automobile,KIS,1
 2016,6,02 - Automobile,LAMBO,1
-2016,6,02 - Automobile,LAND ROVER,16
+2016,6,02 - Automobile,LAND ROVER,15
 2016,6,02 - Automobile,LANDROVER,2
 2016,6,02 - Automobile,LEX,2
-2016,6,02 - Automobile,LEXS,50
-2016,6,02 - Automobile,LEXU,76
-2016,6,02 - Automobile,LEXUS,208
-2016,6,02 - Automobile,LEXUX,4
-2016,6,02 - Automobile,LINC,42
+2016,6,02 - Automobile,LEXS,43
+2016,6,02 - Automobile,LEXU,70
+2016,6,02 - Automobile,LEXUS,194
+2016,6,02 - Automobile,LEXUX,3
+2016,6,02 - Automobile,LINC,38
 2016,6,02 - Automobile,LINCOLN,40
 2016,6,02 - Automobile,LNDR,8
 2016,6,02 - Automobile,MADZA,6
 2016,6,02 - Automobile,MASE,1
 2016,6,02 - Automobile,MAZ,4
-2016,6,02 - Automobile,MAZD,67
-2016,6,02 - Automobile,MAZDA,225
+2016,6,02 - Automobile,MAZD,61
+2016,6,02 - Automobile,MAZDA,207
 2016,6,02 - Automobile,MECEDEZ,1
-2016,6,02 - Automobile,MERC,34
+2016,6,02 - Automobile,MERC,27
 2016,6,02 - Automobile,MERC BENZ,1
 2016,6,02 - Automobile,MERCDES,1
-2016,6,02 - Automobile,MERCEDES,109
-2016,6,02 - Automobile,MERCEDES BENZ,17
-2016,6,02 - Automobile,MERCEDES-BENZ,2
-2016,6,02 - Automobile,MERCEDEZ,18
-2016,6,02 - Automobile,MERCURY,71
-2016,6,02 - Automobile,MERZ,281
+2016,6,02 - Automobile,MERCEDES,103
+2016,6,02 - Automobile,MERCEDES BENZ,16
+2016,6,02 - Automobile,MERCEDES-BENZ,1
+2016,6,02 - Automobile,MERCEDEZ,17
+2016,6,02 - Automobile,MERCURY,69
+2016,6,02 - Automobile,MERZ,230
 2016,6,02 - Automobile,MERZ BENZ,4
-2016,6,02 - Automobile,MINI,37
+2016,6,02 - Automobile,MINI,36
 2016,6,02 - Automobile,MINI COOPER,1
 2016,6,02 - Automobile,MIST,1
-2016,6,02 - Automobile,MITS,95
+2016,6,02 - Automobile,MITS,84
 2016,6,02 - Automobile,MITSHUBISHI,1
-2016,6,02 - Automobile,MITSUBISHI,64
+2016,6,02 - Automobile,MITSUBISHI,55
 2016,6,02 - Automobile,MITSUBUSHI,3
 2016,6,02 - Automobile,MITUSBISHI,2
 2016,6,02 - Automobile,MITZ,1
 2016,6,02 - Automobile,MNI,1
 2016,6,02 - Automobile,MTSUBISHI,2
-2016,6,02 - Automobile,MURC,2
+2016,6,02 - Automobile,MURC,1
 2016,6,02 - Automobile,MW,1
 2016,6,02 - Automobile,NISAN,2
-2016,6,02 - Automobile,NISS,428
-2016,6,02 - Automobile,NISSA,3
+2016,6,02 - Automobile,NISS,367
+2016,6,02 - Automobile,NISSA,2
 2016,6,02 - Automobile,NISSAAN,1
-2016,6,02 - Automobile,NISSAN,723
+2016,6,02 - Automobile,NISSAN,689
 2016,6,02 - Automobile,NISSAN MURANO,1
-2016,6,02 - Automobile,NISSIAN,5
+2016,6,02 - Automobile,NISSIAN,4
 2016,6,02 - Automobile,NISSNA,2
-2016,6,02 - Automobile,OLDS,9
+2016,6,02 - Automobile,OLDS,8
 2016,6,02 - Automobile,OLDSMOBILE,18
 2016,6,02 - Automobile,OUTBACK,1
-2016,6,02 - Automobile,PLYM,2
+2016,6,02 - Automobile,PLYM,1
 2016,6,02 - Automobile,PLYMOUTH,7
-2016,6,02 - Automobile,PONT,36
-2016,6,02 - Automobile,PONTIAC,72
+2016,6,02 - Automobile,PONT,31
+2016,6,02 - Automobile,PONTIAC,67
 2016,6,02 - Automobile,PORCHE,1
-2016,6,02 - Automobile,PORS,6
+2016,6,02 - Automobile,PORS,5
 2016,6,02 - Automobile,PORSCH,1
-2016,6,02 - Automobile,PORSCHE,4
+2016,6,02 - Automobile,PORSCHE,3
 2016,6,02 - Automobile,PORSHE,4
 2016,6,02 - Automobile,PRIUS,1
 2016,6,02 - Automobile,PTRB,3
@@ -1419,61 +1348,58 @@ year,month,vtype,make,make
 2016,6,02 - Automobile,RANG,5
 2016,6,02 - Automobile,RANG ROVER,1
 2016,6,02 - Automobile,RANGE,2
-2016,6,02 - Automobile,RANGE ROVER,5
+2016,6,02 - Automobile,RANGE ROVER,4
 2016,6,02 - Automobile,RANGE RVR,1
 2016,6,02 - Automobile,ROGUE,1
 2016,6,02 - Automobile,SAA,1
-2016,6,02 - Automobile,SAAB,15
-2016,6,02 - Automobile,SATR,5
+2016,6,02 - Automobile,SAAB,14
+2016,6,02 - Automobile,SATR,2
 2016,6,02 - Automobile,SATRUN,4
-2016,6,02 - Automobile,SATU,6
-2016,6,02 - Automobile,SATURN,43
+2016,6,02 - Automobile,SATU,5
+2016,6,02 - Automobile,SATURN,42
 2016,6,02 - Automobile,SCI,1
-2016,6,02 - Automobile,SCIO,4
-2016,6,02 - Automobile,SCION,95
+2016,6,02 - Automobile,SCIO,3
+2016,6,02 - Automobile,SCION,88
 2016,6,02 - Automobile,SICON,1
 2016,6,02 - Automobile,SMART,6
 2016,6,02 - Automobile,SOSGE,1
 2016,6,02 - Automobile,SPRINTER,1
 2016,6,02 - Automobile,STRN,12
-2016,6,02 - Automobile,SUB,5
-2016,6,02 - Automobile,SUBA,68
-2016,6,02 - Automobile,SUBARU,123
+2016,6,02 - Automobile,SUB,4
+2016,6,02 - Automobile,SUBA,60
+2016,6,02 - Automobile,SUBARU,110
 2016,6,02 - Automobile,SUBU,2
 2016,6,02 - Automobile,SUBURA,2
 2016,6,02 - Automobile,SURE,1
 2016,6,02 - Automobile,SUZU,4
-2016,6,02 - Automobile,SUZUKI,16
+2016,6,02 - Automobile,SUZUKI,14
 2016,6,02 - Automobile,TESL,3
 2016,6,02 - Automobile,TESLA,1
 2016,6,02 - Automobile,TOTOTA,2
 2016,6,02 - Automobile,TOTY,4
-2016,6,02 - Automobile,TOY,37
-2016,6,02 - Automobile,TOYO,15
-2016,6,02 - Automobile,TOYOAT,1
-2016,6,02 - Automobile,TOYOT,9
-2016,6,02 - Automobile,TOYOTA,1734
+2016,6,02 - Automobile,TOY,18
+2016,6,02 - Automobile,TOYO,13
+2016,6,02 - Automobile,TOYOT,8
+2016,6,02 - Automobile,TOYOTA,1609
 2016,6,02 - Automobile,TOYOTOA,1
 2016,6,02 - Automobile,TOYOYA,1
-2016,6,02 - Automobile,TOYT,1014
+2016,6,02 - Automobile,TOYT,854
 2016,6,02 - Automobile,TOYT4D,1
-2016,6,02 - Automobile,TOYTA,9
-2016,6,02 - Automobile,TOYTOA,3
-2016,6,02 - Automobile,VOLK,154
-2016,6,02 - Automobile,VOLKS,56
+2016,6,02 - Automobile,TOYTA,8
+2016,6,02 - Automobile,TOYTOA,2
+2016,6,02 - Automobile,VOLK,134
+2016,6,02 - Automobile,VOLKS,50
 2016,6,02 - Automobile,VOLKS WAGON,4
-2016,6,02 - Automobile,VOLKSWAGEN,18
-2016,6,02 - Automobile,VOLKSWAGGON,1
+2016,6,02 - Automobile,VOLKSWAGEN,17
 2016,6,02 - Automobile,VOLKSWAGIN,2
-2016,6,02 - Automobile,VOLKSWAGON,42
+2016,6,02 - Automobile,VOLKSWAGON,37
 2016,6,02 - Automobile,VOLKWAGON,1
 2016,6,02 - Automobile,VOLS,9
-2016,6,02 - Automobile,VOLSKWAGON,2
-2016,6,02 - Automobile,VOLV,48
-2016,6,02 - Automobile,VOLVO,94
+2016,6,02 - Automobile,VOLSKWAGON,1
+2016,6,02 - Automobile,VOLV,43
+2016,6,02 - Automobile,VOLVO,85
 2016,6,02 - Automobile,VOV,1
-2016,6,02 - Automobile,VVOLKSWAGEN,1
-2016,6,02 - Automobile,VW,47
+2016,6,02 - Automobile,VW,46
 2016,6,02 - Automobile,VWOLK,3
 2016,6,02 - Automobile,VWOLKS,1
 2016,6,02 - Automobile,YAMAHA,3
@@ -1492,11 +1418,11 @@ year,month,vtype,make,make
 2016,6,03 - Station Wagon,DODGE,4
 2016,6,03 - Station Wagon,FORD,33
 2016,6,03 - Station Wagon,GMC,3
-2016,6,03 - Station Wagon,HOND,21
-2016,6,03 - Station Wagon,HONDA,10
+2016,6,03 - Station Wagon,HOND,20
+2016,6,03 - Station Wagon,HONDA,9
 2016,6,03 - Station Wagon,HYUN,4
 2016,6,03 - Station Wagon,HYUNDAI,4
-2016,6,03 - Station Wagon,INFI,4
+2016,6,03 - Station Wagon,INFI,2
 2016,6,03 - Station Wagon,INFIN,1
 2016,6,03 - Station Wagon,INFINITI,2
 2016,6,03 - Station Wagon,ISUZ,1
@@ -1508,16 +1434,14 @@ year,month,vtype,make,make
 2016,6,03 - Station Wagon,MAZD,1
 2016,6,03 - Station Wagon,MAZDA,4
 2016,6,03 - Station Wagon,MERCEDES,2
-2016,6,03 - Station Wagon,MERCURY,2
+2016,6,03 - Station Wagon,MERCURY,1
 2016,6,03 - Station Wagon,MERZ,3
 2016,6,03 - Station Wagon,MITSUBISHI,5
-2016,6,03 - Station Wagon,NISS,17
+2016,6,03 - Station Wagon,NISS,15
 2016,6,03 - Station Wagon,NISSAN,13
 2016,6,03 - Station Wagon,NISSIAN,1
-2016,6,03 - Station Wagon,STRN,1
 2016,6,03 - Station Wagon,SUBA,11
 2016,6,03 - Station Wagon,SUBARU,13
-2016,6,03 - Station Wagon,SUZI,2
 2016,6,03 - Station Wagon,SUZUKI,2
 2016,6,03 - Station Wagon,TOYO,6
 2016,6,03 - Station Wagon,TOYOTA,22
@@ -1538,23 +1462,23 @@ year,month,vtype,make,make
 2016,6,05 - Light Duty Truck,BUICK,2
 2016,6,05 - Light Duty Truck,CADI,10
 2016,6,05 - Light Duty Truck,CADILLAC,1
-2016,6,05 - Light Duty Truck,CHEV,65
+2016,6,05 - Light Duty Truck,CHEV,58
 2016,6,05 - Light Duty Truck,CHEVORLET,2
-2016,6,05 - Light Duty Truck,CHEVROLET,23
-2016,6,05 - Light Duty Truck,CHEVY,56
+2016,6,05 - Light Duty Truck,CHEVROLET,22
+2016,6,05 - Light Duty Truck,CHEVY,52
 2016,6,05 - Light Duty Truck,CHEVY TK,3
 2016,6,05 - Light Duty Truck,CHRY,1
 2016,6,05 - Light Duty Truck,CHRYSLER,1
-2016,6,05 - Light Duty Truck,DODG,20
-2016,6,05 - Light Duty Truck,DODGE,44
-2016,6,05 - Light Duty Truck,FORD,251
+2016,6,05 - Light Duty Truck,DODG,17
+2016,6,05 - Light Duty Truck,DODGE,28
+2016,6,05 - Light Duty Truck,FORD,226
 2016,6,05 - Light Duty Truck,FREIGHT,2
 2016,6,05 - Light Duty Truck,FREIGHTLINER,1
-2016,6,05 - Light Duty Truck,FRHT,5
-2016,6,05 - Light Duty Truck,GMC,33
+2016,6,05 - Light Duty Truck,FRHT,3
+2016,6,05 - Light Duty Truck,GMC,27
 2016,6,05 - Light Duty Truck,HINO,2
 2016,6,05 - Light Duty Truck,HOND,38
-2016,6,05 - Light Duty Truck,HONDA,23
+2016,6,05 - Light Duty Truck,HONDA,22
 2016,6,05 - Light Duty Truck,HYUN,3
 2016,6,05 - Light Duty Truck,HYUNDAI,10
 2016,6,05 - Light Duty Truck,INFI,2
@@ -1563,8 +1487,8 @@ year,month,vtype,make,make
 2016,6,05 - Light Duty Truck,ISSU,1
 2016,6,05 - Light Duty Truck,ISU,2
 2016,6,05 - Light Duty Truck,ISUSU,1
-2016,6,05 - Light Duty Truck,ISUZU,22
-2016,6,05 - Light Duty Truck,JEEP,33
+2016,6,05 - Light Duty Truck,ISUZU,12
+2016,6,05 - Light Duty Truck,JEEP,31
 2016,6,05 - Light Duty Truck,JEPP,1
 2016,6,05 - Light Duty Truck,KIA,9
 2016,6,05 - Light Duty Truck,LAND ROVER,2
@@ -1580,37 +1504,37 @@ year,month,vtype,make,make
 2016,6,05 - Light Duty Truck,MERC,2
 2016,6,05 - Light Duty Truck,MERCE,2
 2016,6,05 - Light Duty Truck,MERCEDES,2
-2016,6,05 - Light Duty Truck,MERZ,13
+2016,6,05 - Light Duty Truck,MERZ,10
 2016,6,05 - Light Duty Truck,MITS,1
 2016,6,05 - Light Duty Truck,NAZDA,1
-2016,6,05 - Light Duty Truck,NISS,25
-2016,6,05 - Light Duty Truck,NISSAN,20
-2016,6,05 - Light Duty Truck,RAM,4
-2016,6,05 - Light Duty Truck,SAT,2
+2016,6,05 - Light Duty Truck,NISS,23
+2016,6,05 - Light Duty Truck,NISSAN,18
+2016,6,05 - Light Duty Truck,RAM,3
+2016,6,05 - Light Duty Truck,SAT,1
 2016,6,05 - Light Duty Truck,SUBA,2
 2016,6,05 - Light Duty Truck,SUBARU,3
 2016,6,05 - Light Duty Truck,SUZI,1
 2016,6,05 - Light Duty Truck,TOYO,3
 2016,6,05 - Light Duty Truck,TOYOT,5
-2016,6,05 - Light Duty Truck,TOYOTA,76
-2016,6,05 - Light Duty Truck,TOYT,55
+2016,6,05 - Light Duty Truck,TOYOTA,71
+2016,6,05 - Light Duty Truck,TOYT,53
 2016,6,05 - Light Duty Truck,VOLV,10
-2016,6,06 - Heavy Duty Truck,CHEV,46
+2016,6,06 - Heavy Duty Truck,CHEV,40
 2016,6,06 - Heavy Duty Truck,CHEVROLET,4
-2016,6,06 - Heavy Duty Truck,CHEVY,4
+2016,6,06 - Heavy Duty Truck,CHEVY,3
 2016,6,06 - Heavy Duty Truck,DODG,1
 2016,6,06 - Heavy Duty Truck,DODGE,4
-2016,6,06 - Heavy Duty Truck,FORD,48
+2016,6,06 - Heavy Duty Truck,FORD,41
 2016,6,06 - Heavy Duty Truck,FREIGHTLINER,3
 2016,6,06 - Heavy Duty Truck,FRHT,3
-2016,6,06 - Heavy Duty Truck,GMC,19
+2016,6,06 - Heavy Duty Truck,GMC,15
 2016,6,06 - Heavy Duty Truck,HINO,4
 2016,6,06 - Heavy Duty Truck,HONDA,4
 2016,6,06 - Heavy Duty Truck,HYUNDAI,1
 2016,6,06 - Heavy Duty Truck,INTE,3
 2016,6,06 - Heavy Duty Truck,INTERNATIONAL,2
 2016,6,06 - Heavy Duty Truck,INTL,2
-2016,6,06 - Heavy Duty Truck,ISU,9
+2016,6,06 - Heavy Duty Truck,ISU,6
 2016,6,06 - Heavy Duty Truck,ISUZ,1
 2016,6,06 - Heavy Duty Truck,ISUZU,3
 2016,6,06 - Heavy Duty Truck,MACK,3
@@ -1623,28 +1547,22 @@ year,month,vtype,make,make
 2016,6,06 - Heavy Duty Truck,UD,1
 2016,6,06 - Heavy Duty Truck,UDT,2
 2016,6,06 - Heavy Duty Truck,WHIT,1
-2016,6,07 - Truck/Road Tractor,HOND,4
-2016,6,07 - Truck/Road Tractor,HYUN,5
-2016,6,07 - Truck/Road Tractor,PETE,2
+2016,6,07 - Truck/Road Tractor,HYUN,4
 2016,6,08 - Recreational Vehicle,ACURA,1
 2016,6,08 - Recreational Vehicle,CADI,1
-2016,6,08 - Recreational Vehicle,CHE,4
 2016,6,08 - Recreational Vehicle,CHEVY,1
 2016,6,08 - Recreational Vehicle,CHRY,2
-2016,6,08 - Recreational Vehicle,FORD,4
+2016,6,08 - Recreational Vehicle,FORD,2
 2016,6,08 - Recreational Vehicle,GMC,1
-2016,6,08 - Recreational Vehicle,HOND,6
+2016,6,08 - Recreational Vehicle,HOND,1
 2016,6,08 - Recreational Vehicle,HONDA,3
 2016,6,08 - Recreational Vehicle,HUYN,1
 2016,6,08 - Recreational Vehicle,INFI,1
 2016,6,08 - Recreational Vehicle,JEEP,10
 2016,6,08 - Recreational Vehicle,LEXUS,1
-2016,6,08 - Recreational Vehicle,MAZDA,1
 2016,6,08 - Recreational Vehicle,MERZ,1
 2016,6,08 - Recreational Vehicle,NISSAN,2
-2016,6,08 - Recreational Vehicle,TOYOTA,2
-2016,6,08 - Recreational Vehicle,TOYT,5
-2016,6,09 - Farm Vehicle,HONDA,1
+2016,6,08 - Recreational Vehicle,TOYOTA,1
 2016,6,09 - Farm Vehicle,MERC,1
 2016,6,10 - Transit Bus,BUS,1
 2016,6,10 - Transit Bus,GILL,2
@@ -1656,8 +1574,6 @@ year,month,vtype,make,make
 2016,6,20 - Commercial Rig,PETERBILT,2
 2016,6,20 - Commercial Rig,TOYOTA,1
 2016,6,20 - Commercial Rig,VOLVO,3
-2016,6,25 - Utility Trailer,BIG,3
-2016,6,25 - Utility Trailer,MAST TL,2
 2016,6,25 - Utility Trailer,TOWMQ,3
 2016,6,26 - Boat Trailer,CHEV,1
 2016,6,26 - Boat Trailer,JEEP,4
@@ -1665,33 +1581,31 @@ year,month,vtype,make,make
 2016,6,28 - Other,ACURA,6
 2016,6,28 - Other,AUDI,1
 2016,6,28 - Other,BMW,2
-2016,6,28 - Other,CADI,5
+2016,6,28 - Other,CADI,4
 2016,6,28 - Other,CADILLAC,3
 2016,6,28 - Other,CHEV,7
 2016,6,28 - Other,CHEVROLET,14
 2016,6,28 - Other,CHEVY,4
 2016,6,28 - Other,CHRYSLER,1
 2016,6,28 - Other,CRISWELL,5
-2016,6,28 - Other,DODG,6
-2016,6,28 - Other,DODGE,12
-2016,6,28 - Other,FORD,50
-2016,6,28 - Other,FRHT,1
+2016,6,28 - Other,DODG,5
+2016,6,28 - Other,DODGE,7
+2016,6,28 - Other,FORD,48
 2016,6,28 - Other,GHOST,1
-2016,6,28 - Other,GMC,7
+2016,6,28 - Other,GMC,4
 2016,6,28 - Other,HINO,1
-2016,6,28 - Other,HOND,16
+2016,6,28 - Other,HOND,15
 2016,6,28 - Other,HONDA,22
-2016,6,28 - Other,HUMM,2
+2016,6,28 - Other,HUMM,1
 2016,6,28 - Other,HYUN,1
 2016,6,28 - Other,HYUNDAI,7
 2016,6,28 - Other,INFINITI,3
 2016,6,28 - Other,INFINITY,3
 2016,6,28 - Other,ISUZU,1
-2016,6,28 - Other,JEEP,9
+2016,6,28 - Other,JEEP,7
 2016,6,28 - Other,KEXU,1
 2016,6,28 - Other,KIA,5
 2016,6,28 - Other,LEXUS,8
-2016,6,28 - Other,LINCOLN,6
 2016,6,28 - Other,LNDR,3
 2016,6,28 - Other,MAZ,1
 2016,6,28 - Other,MAZD,1
@@ -1700,7 +1614,7 @@ year,month,vtype,make,make
 2016,6,28 - Other,MITS,6
 2016,6,28 - Other,MITSUBISHI,1
 2016,6,28 - Other,NISS,2
-2016,6,28 - Other,NISSAN,11
+2016,6,28 - Other,NISSAN,10
 2016,6,28 - Other,QACURA,2
 2016,6,28 - Other,ROV,1
 2016,6,28 - Other,SUBA,1
@@ -1724,72 +1638,70 @@ year,month,vtype,make,make
 2016,7,01 - Motorcycle,HARLEY,4
 2016,7,01 - Motorcycle,HARLEY DAVIDSON,3
 2016,7,01 - Motorcycle,HOND,11
-2016,7,01 - Motorcycle,HONDA,28
+2016,7,01 - Motorcycle,HONDA,27
 2016,7,01 - Motorcycle,KAWA,2
 2016,7,01 - Motorcycle,KAWASAKI,24
 2016,7,01 - Motorcycle,KAWI,1
-2016,7,01 - Motorcycle,KAWK,7
+2016,7,01 - Motorcycle,KAWK,3
 2016,7,01 - Motorcycle,KAWKISI,4
 2016,7,01 - Motorcycle,KIA,2
 2016,7,01 - Motorcycle,MERC,1
 2016,7,01 - Motorcycle,MINI,5
-2016,7,01 - Motorcycle,OLDSMOBILE,2
+2016,7,01 - Motorcycle,OLDSMOBILE,1
 2016,7,01 - Motorcycle,SUBA,2
 2016,7,01 - Motorcycle,SUBARU,2
-2016,7,01 - Motorcycle,SUZ,4
+2016,7,01 - Motorcycle,SUZ,3
 2016,7,01 - Motorcycle,SUZI,1
 2016,7,01 - Motorcycle,SUZUKI,10
 2016,7,01 - Motorcycle,TOMAS,11
-2016,7,01 - Motorcycle,TOYOTA,29
-2016,7,01 - Motorcycle,TOYT,1
+2016,7,01 - Motorcycle,TOYOTA,28
 2016,7,01 - Motorcycle,TRIMUPH,1
 2016,7,01 - Motorcycle,VOLK,1
 2016,7,01 - Motorcycle,VOLVO,2
 2016,7,01 - Motorcycle,YAMA,1
 2016,7,01 - Motorcycle,YAMAHA,6
-2016,7,02 - Automobile,ACUR,169
-2016,7,02 - Automobile,ACURA,299
+2016,7,02 - Automobile,ACUR,151
+2016,7,02 - Automobile,ACURA,274
 2016,7,02 - Automobile,ASTON MARTIN,2
-2016,7,02 - Automobile,AUDI,156
+2016,7,02 - Automobile,AUDI,139
 2016,7,02 - Automobile,AURA,3
 2016,7,02 - Automobile,BENT,3
-2016,7,02 - Automobile,BMW,514
-2016,7,02 - Automobile,BUIC,22
-2016,7,02 - Automobile,BUICK,50
+2016,7,02 - Automobile,BMW,487
+2016,7,02 - Automobile,BUIC,21
+2016,7,02 - Automobile,BUICK,48
 2016,7,02 - Automobile,C HEV,1
-2016,7,02 - Automobile,CADI,49
+2016,7,02 - Automobile,CADI,43
 2016,7,02 - Automobile,CADILAC,2
 2016,7,02 - Automobile,CADILIAC,1
-2016,7,02 - Automobile,CADILLAC,31
+2016,7,02 - Automobile,CADILLAC,29
 2016,7,02 - Automobile,CHER,2
-2016,7,02 - Automobile,CHEV,359
+2016,7,02 - Automobile,CHEV,327
 2016,7,02 - Automobile,CHEVERLOT,2
-2016,7,02 - Automobile,CHEVORLET,10
-2016,7,02 - Automobile,CHEVROLET,265
-2016,7,02 - Automobile,CHEVY,231
+2016,7,02 - Automobile,CHEVORLET,3
+2016,7,02 - Automobile,CHEVROLET,244
+2016,7,02 - Automobile,CHEVY,215
 2016,7,02 - Automobile,CHEVY CAMARO,2
 2016,7,02 - Automobile,CHEVYROLET,5
 2016,7,02 - Automobile,CHRSLER,1
-2016,7,02 - Automobile,CHRY,89
+2016,7,02 - Automobile,CHRY,82
 2016,7,02 - Automobile,CHRYLSER,1
 2016,7,02 - Automobile,CHRYS,5
-2016,7,02 - Automobile,CHRYSLER,99
+2016,7,02 - Automobile,CHRYSLER,95
 2016,7,02 - Automobile,CHRYSTLER,7
-2016,7,02 - Automobile,CHVROLET,1
 2016,7,02 - Automobile,CHYRSLER,2
 2016,7,02 - Automobile,COOPER,1
 2016,7,02 - Automobile,COROLLA,1
 2016,7,02 - Automobile,CRY,1
 2016,7,02 - Automobile,DDODGE,1
-2016,7,02 - Automobile,DODG,84
-2016,7,02 - Automobile,DODGE,379
+2016,7,02 - Automobile,DODG,73
+2016,7,02 - Automobile,DODGE,358
 2016,7,02 - Automobile,DODGGE,1
-2016,7,02 - Automobile,FIAT,4
+2016,7,02 - Automobile,FIAT,3
 2016,7,02 - Automobile,FOR,4
-2016,7,02 - Automobile,FORD,1136
+2016,7,02 - Automobile,FORD,1047
 2016,7,02 - Automobile,FRHT,3
 2016,7,02 - Automobile,GEO,8
-2016,7,02 - Automobile,GMC,111
+2016,7,02 - Automobile,GMC,92
 2016,7,02 - Automobile,HARLEY DAVIDSON,1
 2016,7,02 - Automobile,HAUL,1
 2016,7,02 - Automobile,HIA,1
@@ -1799,8 +1711,8 @@ year,month,vtype,make,make
 2016,7,02 - Automobile,HOINDA,3
 2016,7,02 - Automobile,HON,1
 2016,7,02 - Automobile,HONA,4
-2016,7,02 - Automobile,HOND,607
-2016,7,02 - Automobile,HONDA,1612
+2016,7,02 - Automobile,HOND,531
+2016,7,02 - Automobile,HONDA,1504
 2016,7,02 - Automobile,HONNDA,1
 2016,7,02 - Automobile,HUMMER,3
 2016,7,02 - Automobile,HUYN,3
@@ -1810,60 +1722,58 @@ year,month,vtype,make,make
 2016,7,02 - Automobile,HYNDAI,1
 2016,7,02 - Automobile,HYUD,1
 2016,7,02 - Automobile,HYUDAI,1
-2016,7,02 - Automobile,HYUN,161
+2016,7,02 - Automobile,HYUN,137
 2016,7,02 - Automobile,HYUND,9
 2016,7,02 - Automobile,HYUNDA,7
-2016,7,02 - Automobile,HYUNDAI,230
+2016,7,02 - Automobile,HYUNDAI,214
 2016,7,02 - Automobile,HYUNDAY,1
-2016,7,02 - Automobile,HYUNDI,2
-2016,7,02 - Automobile,HYUNDIA,17
+2016,7,02 - Automobile,HYUNDIA,13
 2016,7,02 - Automobile,ICU,1
-2016,7,02 - Automobile,INFI,63
+2016,7,02 - Automobile,INFI,56
 2016,7,02 - Automobile,INFIN,1
 2016,7,02 - Automobile,INFINI,1
 2016,7,02 - Automobile,INFINITE,4
-2016,7,02 - Automobile,INFINITI,78
-2016,7,02 - Automobile,INFINITY,21
+2016,7,02 - Automobile,INFINITI,77
+2016,7,02 - Automobile,INFINITY,20
 2016,7,02 - Automobile,INFINTI,1
 2016,7,02 - Automobile,INFITI,2
 2016,7,02 - Automobile,INFNITY,16
 2016,7,02 - Automobile,ISU,3
-2016,7,02 - Automobile,ISUZ,2
+2016,7,02 - Automobile,ISUZ,1
 2016,7,02 - Automobile,ISUZU,1
 2016,7,02 - Automobile,JAG,3
-2016,7,02 - Automobile,JAGU,13
-2016,7,02 - Automobile,JAGUAR,20
-2016,7,02 - Automobile,JEEP,294
+2016,7,02 - Automobile,JAGU,12
+2016,7,02 - Automobile,JAGUAR,19
+2016,7,02 - Automobile,JEEP,270
 2016,7,02 - Automobile,KA,1
-2016,7,02 - Automobile,KIA,170
+2016,7,02 - Automobile,KIA,156
 2016,7,02 - Automobile,LAND ROVER,12
-2016,7,02 - Automobile,LEX,7
+2016,7,02 - Automobile,LEX,6
 2016,7,02 - Automobile,LEXIS,1
-2016,7,02 - Automobile,LEXS,64
-2016,7,02 - Automobile,LEXSUS,2
-2016,7,02 - Automobile,LEXU,42
-2016,7,02 - Automobile,LEXUS,197
-2016,7,02 - Automobile,LINC,53
-2016,7,02 - Automobile,LINCOLN,69
-2016,7,02 - Automobile,LNDR,9
+2016,7,02 - Automobile,LEXS,59
+2016,7,02 - Automobile,LEXSUS,1
+2016,7,02 - Automobile,LEXU,37
+2016,7,02 - Automobile,LEXUS,181
+2016,7,02 - Automobile,LINC,48
+2016,7,02 - Automobile,LINCOLN,56
+2016,7,02 - Automobile,LNDR,8
 2016,7,02 - Automobile,MASE,1
 2016,7,02 - Automobile,MASERATI,5
 2016,7,02 - Automobile,MASERATTI,1
 2016,7,02 - Automobile,MAZ,1
-2016,7,02 - Automobile,MAZA,1
-2016,7,02 - Automobile,MAZD,67
-2016,7,02 - Automobile,MAZDA,170
+2016,7,02 - Automobile,MAZD,59
+2016,7,02 - Automobile,MAZDA,157
 2016,7,02 - Automobile,MECURY,1
 2016,7,02 - Automobile,MER,1
-2016,7,02 - Automobile,MERC,32
-2016,7,02 - Automobile,MERCEDES,110
+2016,7,02 - Automobile,MERC,29
+2016,7,02 - Automobile,MERCEDES,100
 2016,7,02 - Automobile,MERCEDES BENZ,14
 2016,7,02 - Automobile,MERCEDES-BENZ,2
-2016,7,02 - Automobile,MERCEDEZ,35
+2016,7,02 - Automobile,MERCEDEZ,34
 2016,7,02 - Automobile,MERCEDEZ BENZ,4
-2016,7,02 - Automobile,MERCURY,37
+2016,7,02 - Automobile,MERCURY,31
 2016,7,02 - Automobile,MERCZ,2
-2016,7,02 - Automobile,MERZ,169
+2016,7,02 - Automobile,MERZ,152
 2016,7,02 - Automobile,MERZ BENZ,1
 2016,7,02 - Automobile,METZ,1
 2016,7,02 - Automobile,MINI,33
@@ -1872,50 +1782,49 @@ year,month,vtype,make,make
 2016,7,02 - Automobile,MINNIAN,1
 2016,7,02 - Automobile,MISS,3
 2016,7,02 - Automobile,MITI,1
-2016,7,02 - Automobile,MITS,82
+2016,7,02 - Automobile,MITS,73
 2016,7,02 - Automobile,MITSU,8
-2016,7,02 - Automobile,MITSUBISHI,49
-2016,7,02 - Automobile,MITSUBSHI,4
+2016,7,02 - Automobile,MITSUBISHI,44
+2016,7,02 - Automobile,MITSUBSHI,3
 2016,7,02 - Automobile,MITUBISHI,2
-2016,7,02 - Automobile,NISS,338
+2016,7,02 - Automobile,NISS,305
 2016,7,02 - Automobile,NISS 4DR,1
-2016,7,02 - Automobile,NISSAN,731
+2016,7,02 - Automobile,NISSAN,685
 2016,7,02 - Automobile,NISSIAN,2
 2016,7,02 - Automobile,NOLKSWAGEN,1
-2016,7,02 - Automobile,OLDS,20
-2016,7,02 - Automobile,OLDSMOBILE,6
+2016,7,02 - Automobile,OLDS,18
+2016,7,02 - Automobile,OLDSMOBILE,5
 2016,7,02 - Automobile,PLDS,1
 2016,7,02 - Automobile,PLYM,4
-2016,7,02 - Automobile,PONT,29
-2016,7,02 - Automobile,PONTIAC,30
-2016,7,02 - Automobile,PORS,13
-2016,7,02 - Automobile,PORSCHE,26
+2016,7,02 - Automobile,PONT,25
+2016,7,02 - Automobile,PONTIAC,25
+2016,7,02 - Automobile,PORS,10
+2016,7,02 - Automobile,PORSCHE,24
 2016,7,02 - Automobile,POTIAC,1
 2016,7,02 - Automobile,RAM,1
-2016,7,02 - Automobile,RANGE ROVER,6
+2016,7,02 - Automobile,RANGE ROVER,4
 2016,7,02 - Automobile,SAA,2
-2016,7,02 - Automobile,SAAB,27
+2016,7,02 - Automobile,SAAB,22
 2016,7,02 - Automobile,SATR,1
-2016,7,02 - Automobile,SATU,4
-2016,7,02 - Automobile,SATURN,31
+2016,7,02 - Automobile,SATU,1
+2016,7,02 - Automobile,SATURN,29
 2016,7,02 - Automobile,SC400 2D,1
 2016,7,02 - Automobile,SCIO,7
-2016,7,02 - Automobile,SCION,73
+2016,7,02 - Automobile,SCION,65
 2016,7,02 - Automobile,SLANTRA,1
 2016,7,02 - Automobile,SMART,2
 2016,7,02 - Automobile,STRN,6
 2016,7,02 - Automobile,SUB,5
-2016,7,02 - Automobile,SUBA,61
+2016,7,02 - Automobile,SUBA,55
 2016,7,02 - Automobile,SUBARA,1
-2016,7,02 - Automobile,SUBARU,141
-2016,7,02 - Automobile,SUBAU,5
+2016,7,02 - Automobile,SUBARU,120
+2016,7,02 - Automobile,SUBAU,3
 2016,7,02 - Automobile,SUBU,3
 2016,7,02 - Automobile,SUBURA,4
 2016,7,02 - Automobile,SUBURU,2
-2016,7,02 - Automobile,SUZI,1
 2016,7,02 - Automobile,SUZIKI,3
 2016,7,02 - Automobile,SUZU,6
-2016,7,02 - Automobile,SUZUKI,13
+2016,7,02 - Automobile,SUZUKI,12
 2016,7,02 - Automobile,TESL,2
 2016,7,02 - Automobile,TESLA,1
 2016,7,02 - Automobile,TIYITA,2
@@ -1925,31 +1834,31 @@ year,month,vtype,make,make
 2016,7,02 - Automobile,TOTY,1
 2016,7,02 - Automobile,TOTYT,1
 2016,7,02 - Automobile,TOY,9
-2016,7,02 - Automobile,TOYO,13
+2016,7,02 - Automobile,TOYO,12
 2016,7,02 - Automobile,TOYOA,1
 2016,7,02 - Automobile,TOYOT,9
-2016,7,02 - Automobile,TOYOTA,1628
+2016,7,02 - Automobile,TOYOTA,1523
 2016,7,02 - Automobile,TOYOYA,2
-2016,7,02 - Automobile,TOYT,858
+2016,7,02 - Automobile,TOYT,753
 2016,7,02 - Automobile,TOYT4DR,1
 2016,7,02 - Automobile,TOYTA,5
 2016,7,02 - Automobile,TOYTOA,10
 2016,7,02 - Automobile,TYG,7
 2016,7,02 - Automobile,TYOTA,2
-2016,7,02 - Automobile,VOLK,98
-2016,7,02 - Automobile,VOLKS,40
+2016,7,02 - Automobile,VOLK,89
+2016,7,02 - Automobile,VOLKS,30
 2016,7,02 - Automobile,VOLKSAGON,1
 2016,7,02 - Automobile,VOLKSW,2
 2016,7,02 - Automobile,VOLKSWAGE,2
-2016,7,02 - Automobile,VOLKSWAGEN,47
-2016,7,02 - Automobile,VOLKSWAGGON,5
-2016,7,02 - Automobile,VOLKSWAGON,58
-2016,7,02 - Automobile,VOLKWAGON,9
+2016,7,02 - Automobile,VOLKSWAGEN,44
+2016,7,02 - Automobile,VOLKSWAGGON,3
+2016,7,02 - Automobile,VOLKSWAGON,55
+2016,7,02 - Automobile,VOLKWAGON,8
 2016,7,02 - Automobile,VOLSWAGEN,1
-2016,7,02 - Automobile,VOLV,24
+2016,7,02 - Automobile,VOLV,22
 2016,7,02 - Automobile,VOLV0,1
-2016,7,02 - Automobile,VOLVO,64
-2016,7,02 - Automobile,VW,51
+2016,7,02 - Automobile,VOLVO,62
+2016,7,02 - Automobile,VW,45
 2016,7,02 - Automobile,YAMA,1
 2016,7,02 - Automobile,YAMAHA,1
 2016,7,03 - Station Wagon,ACUR,2
@@ -1959,10 +1868,10 @@ year,month,vtype,make,make
 2016,7,03 - Station Wagon,CHEV,4
 2016,7,03 - Station Wagon,CHRY,1
 2016,7,03 - Station Wagon,DODGE,4
-2016,7,03 - Station Wagon,FORD,18
+2016,7,03 - Station Wagon,FORD,17
 2016,7,03 - Station Wagon,HINDA,1
-2016,7,03 - Station Wagon,HOND,11
-2016,7,03 - Station Wagon,HONDA,30
+2016,7,03 - Station Wagon,HOND,10
+2016,7,03 - Station Wagon,HONDA,29
 2016,7,03 - Station Wagon,HUMMER,2
 2016,7,03 - Station Wagon,HYUN,1
 2016,7,03 - Station Wagon,HYUNDA,1
@@ -1979,13 +1888,12 @@ year,month,vtype,make,make
 2016,7,03 - Station Wagon,PONTIAC,3
 2016,7,03 - Station Wagon,SCION,1
 2016,7,03 - Station Wagon,SUB,1
-2016,7,03 - Station Wagon,SUBA,7
-2016,7,03 - Station Wagon,SUBARU,10
+2016,7,03 - Station Wagon,SUBA,6
+2016,7,03 - Station Wagon,SUBARU,8
 2016,7,03 - Station Wagon,TOYOT,2
-2016,7,03 - Station Wagon,TOYOTA,20
+2016,7,03 - Station Wagon,TOYOTA,19
 2016,7,03 - Station Wagon,TOYT,7
 2016,7,03 - Station Wagon,VOLK,1
-2016,7,03 - Station Wagon,VOLKSWAGEN,3
 2016,7,03 - Station Wagon,VOLV,1
 2016,7,03 - Station Wagon,VOLVO,2
 2016,7,04 - Limousine,DODGE,1
@@ -1997,21 +1905,20 @@ year,month,vtype,make,make
 2016,7,05 - Light Duty Truck,AUDI,5
 2016,7,05 - Light Duty Truck,BMW,10
 2016,7,05 - Light Duty Truck,BUIC,1
-2016,7,05 - Light Duty Truck,BUICK,1
 2016,7,05 - Light Duty Truck,CADI,4
 2016,7,05 - Light Duty Truck,CADILLAC,1
 2016,7,05 - Light Duty Truck,CHEROLET,3
-2016,7,05 - Light Duty Truck,CHEV,59
-2016,7,05 - Light Duty Truck,CHEVROLET,20
-2016,7,05 - Light Duty Truck,CHEVY,55
+2016,7,05 - Light Duty Truck,CHEV,51
+2016,7,05 - Light Duty Truck,CHEVROLET,19
+2016,7,05 - Light Duty Truck,CHEVY,50
 2016,7,05 - Light Duty Truck,CHRY,1
 2016,7,05 - Light Duty Truck,DODG,11
-2016,7,05 - Light Duty Truck,DODGE,32
-2016,7,05 - Light Duty Truck,FORD,224
+2016,7,05 - Light Duty Truck,DODGE,25
+2016,7,05 - Light Duty Truck,FORD,197
 2016,7,05 - Light Duty Truck,FREI,6
 2016,7,05 - Light Duty Truck,FRHT,1
 2016,7,05 - Light Duty Truck,FRIGHT,1
-2016,7,05 - Light Duty Truck,GMC,63
+2016,7,05 - Light Duty Truck,GMC,55
 2016,7,05 - Light Duty Truck,HNDA,1
 2016,7,05 - Light Duty Truck,HOND,27
 2016,7,05 - Light Duty Truck,HONDA,18
@@ -2022,7 +1929,7 @@ year,month,vtype,make,make
 2016,7,05 - Light Duty Truck,ISUZ,5
 2016,7,05 - Light Duty Truck,ISUZU,3
 2016,7,05 - Light Duty Truck,JEEP,70
-2016,7,05 - Light Duty Truck,KIA,10
+2016,7,05 - Light Duty Truck,KIA,9
 2016,7,05 - Light Duty Truck,LAND ROVER,4
 2016,7,05 - Light Duty Truck,LANDR,1
 2016,7,05 - Light Duty Truck,LANDROER,2
@@ -2032,15 +1939,15 @@ year,month,vtype,make,make
 2016,7,05 - Light Duty Truck,LEXUS,6
 2016,7,05 - Light Duty Truck,LINC,1
 2016,7,05 - Light Duty Truck,LINCOLN,2
-2016,7,05 - Light Duty Truck,LNDR,4
+2016,7,05 - Light Duty Truck,LNDR,2
 2016,7,05 - Light Duty Truck,MAZ,1
-2016,7,05 - Light Duty Truck,MAZD,4
+2016,7,05 - Light Duty Truck,MAZD,3
 2016,7,05 - Light Duty Truck,MAZDA,5
 2016,7,05 - Light Duty Truck,MERC,1
 2016,7,05 - Light Duty Truck,MERCEDES,4
-2016,7,05 - Light Duty Truck,MERZ,11
+2016,7,05 - Light Duty Truck,MERZ,8
 2016,7,05 - Light Duty Truck,MITS,2
-2016,7,05 - Light Duty Truck,NISS,12
+2016,7,05 - Light Duty Truck,NISS,11
 2016,7,05 - Light Duty Truck,NISSAN,22
 2016,7,05 - Light Duty Truck,PORS,2
 2016,7,05 - Light Duty Truck,PORSCHE,1
@@ -2050,8 +1957,8 @@ year,month,vtype,make,make
 2016,7,05 - Light Duty Truck,SUBARU,2
 2016,7,05 - Light Duty Truck,TOYO,4
 2016,7,05 - Light Duty Truck,TOYOT,3
-2016,7,05 - Light Duty Truck,TOYOTA,38
-2016,7,05 - Light Duty Truck,TOYT,48
+2016,7,05 - Light Duty Truck,TOYOTA,37
+2016,7,05 - Light Duty Truck,TOYT,45
 2016,7,05 - Light Duty Truck,TRTR,1
 2016,7,05 - Light Duty Truck,VOLK,1
 2016,7,05 - Light Duty Truck,VOLV,1
@@ -2062,20 +1969,20 @@ year,month,vtype,make,make
 2016,7,06 - Heavy Duty Truck,F550,1
 2016,7,06 - Heavy Duty Truck,FORD,12
 2016,7,06 - Heavy Duty Truck,FREIGHTLINER,2
-2016,7,06 - Heavy Duty Truck,FRHT,7
+2016,7,06 - Heavy Duty Truck,FRHT,1
 2016,7,06 - Heavy Duty Truck,GMC,2
 2016,7,06 - Heavy Duty Truck,HINO,2
-2016,7,06 - Heavy Duty Truck,INTL,11
+2016,7,06 - Heavy Duty Truck,INTL,6
 2016,7,06 - Heavy Duty Truck,ISUZ,1
 2016,7,06 - Heavy Duty Truck,ISUZU,3
 2016,7,06 - Heavy Duty Truck,KENWORTH,1
-2016,7,06 - Heavy Duty Truck,MACK,6
+2016,7,06 - Heavy Duty Truck,MACK,5
 2016,7,06 - Heavy Duty Truck,PETERBILT,2
 2016,7,06 - Heavy Duty Truck,PETERBUILT,2
 2016,7,06 - Heavy Duty Truck,PTRB,1
 2016,7,06 - Heavy Duty Truck,RAM,1
 2016,7,07 - Truck/Road Tractor,CHEV,1
-2016,7,07 - Truck/Road Tractor,CHEVROLET,9
+2016,7,07 - Truck/Road Tractor,CHEVROLET,8
 2016,7,07 - Truck/Road Tractor,DODGE,1
 2016,7,07 - Truck/Road Tractor,INTL,1
 2016,7,07 - Truck/Road Tractor,KW,1
@@ -2083,7 +1990,6 @@ year,month,vtype,make,make
 2016,7,08 - Recreational Vehicle,BMW,1
 2016,7,08 - Recreational Vehicle,CHEVY,2
 2016,7,08 - Recreational Vehicle,FORD,4
-2016,7,08 - Recreational Vehicle,GMC,1
 2016,7,08 - Recreational Vehicle,HOND,6
 2016,7,08 - Recreational Vehicle,HONDA,2
 2016,7,08 - Recreational Vehicle,JEEP,3
@@ -2098,77 +2004,68 @@ year,month,vtype,make,make
 2016,7,20 - Commercial Rig,BMW,1
 2016,7,20 - Commercial Rig,KENIWORTH,2
 2016,7,20 - Commercial Rig,KENWORTH,5
-2016,7,20 - Commercial Rig,VOLKSWAGON,1
-2016,7,25 - Utility Trailer,BRMA,4
-2016,7,25 - Utility Trailer,CARR,5
-2016,7,25 - Utility Trailer,MAST,8
-2016,7,25 - Utility Trailer,PREM,3
-2016,7,27 - Farm Equipment,SUZUKI,1
+2016,7,25 - Utility Trailer,BRMA,2
+2016,7,25 - Utility Trailer,CARR,4
+2016,7,25 - Utility Trailer,MAST,4
 2016,7,28 - Other,ACUR,1
 2016,7,28 - Other,ACURA,2
 2016,7,28 - Other,AUDI,1
-2016,7,28 - Other,CADI,2
+2016,7,28 - Other,CADI,1
 2016,7,28 - Other,CADILLAC,3
-2016,7,28 - Other,CHEV,6
+2016,7,28 - Other,CHEV,4
 2016,7,28 - Other,CHEVROLET,10
 2016,7,28 - Other,CHEVY,1
 2016,7,28 - Other,CHRISLER,1
-2016,7,28 - Other,CHRY,1
 2016,7,28 - Other,CHRYSLER,9
 2016,7,28 - Other,DODG,1
 2016,7,28 - Other,DODGE,7
 2016,7,28 - Other,FORD,36
 2016,7,28 - Other,FRHT,2
 2016,7,28 - Other,GMC,9
-2016,7,28 - Other,HOND,8
-2016,7,28 - Other,HONDA,15
+2016,7,28 - Other,HOND,5
+2016,7,28 - Other,HONDA,13
 2016,7,28 - Other,HYUN,1
 2016,7,28 - Other,HYUNDAI,4
-2016,7,28 - Other,INFI,4
+2016,7,28 - Other,INFI,3
 2016,7,28 - Other,INTERNATION,3
 2016,7,28 - Other,INTERNATIONAL,1
 2016,7,28 - Other,ISUZU,1
-2016,7,28 - Other,JEEP,17
-2016,7,28 - Other,KIA,3
+2016,7,28 - Other,JEEP,13
+2016,7,28 - Other,KIA,2
 2016,7,28 - Other,LEXU,3
 2016,7,28 - Other,LEXUE,1
 2016,7,28 - Other,LEXUS,2
-2016,7,28 - Other,LINC,1
 2016,7,28 - Other,LINCOLN,1
 2016,7,28 - Other,LNDR,1
 2016,7,28 - Other,MAZ,1
 2016,7,28 - Other,MAZD,3
-2016,7,28 - Other,MAZDA,3
+2016,7,28 - Other,MAZDA,2
 2016,7,28 - Other,MERZ,2
 2016,7,28 - Other,NISS,1
-2016,7,28 - Other,NISSAN,14
+2016,7,28 - Other,NISSAN,13
 2016,7,28 - Other,PONT,1
 2016,7,28 - Other,PORS,6
 2016,7,28 - Other,RANGE ROVER,1
 2016,7,28 - Other,SUBARU,1
-2016,7,28 - Other,SUZU,1
-2016,7,28 - Other,TECTRON,3
 2016,7,28 - Other,TOMOS,1
-2016,7,28 - Other,TOYOTA,19
-2016,7,28 - Other,TOYT,14
+2016,7,28 - Other,TOYOTA,17
+2016,7,28 - Other,TOYT,10
 2016,7,28 - Other,VOLKS,1
-2016,7,28 - Other,VULC,5
-2016,7,28 - Other,XX,2
+2016,7,28 - Other,VULC,1
 2016,7,28 - Other,YAHAMA,1
 2016,7,29 - Unknown,INFINITI,1
 2016,7,29 - Unknown,LINCOLN,8
-2016,7,29 - Unknown,NISSAN,2
+2016,7,29 - Unknown,NISSAN,1
 2016,8,01 - Motorcycle,ACUR,3
 2016,8,01 - Motorcycle,ACURA,2
 2016,8,01 - Motorcycle,BUEL,1
-2016,8,01 - Motorcycle,CHEV,1
 2016,8,01 - Motorcycle,CHEVROLET,2
 2016,8,01 - Motorcycle,CHEVY,2
 2016,8,01 - Motorcycle,CHRYSLER,1
 2016,8,01 - Motorcycle,FORD,1
 2016,8,01 - Motorcycle,FRHT,1
 2016,8,01 - Motorcycle,HARL,3
-2016,8,01 - Motorcycle,HOND,4
+2016,8,01 - Motorcycle,HOND,3
 2016,8,01 - Motorcycle,HONDA,22
 2016,8,01 - Motorcycle,INFINITI,2
 2016,8,01 - Motorcycle,JAGUAR,1
@@ -2179,132 +2076,126 @@ year,month,vtype,make,make
 2016,8,01 - Motorcycle,KAWASAKI,19
 2016,8,01 - Motorcycle,KAWK,3
 2016,8,01 - Motorcycle,KIA,7
-2016,8,01 - Motorcycle,MERCURY,5
+2016,8,01 - Motorcycle,MERCURY,3
 2016,8,01 - Motorcycle,MINI,1
 2016,8,01 - Motorcycle,NISSAN,1
 2016,8,01 - Motorcycle,ROLLS ROYCE,1
 2016,8,01 - Motorcycle,SAAB,2
-2016,8,01 - Motorcycle,SUBARU,4
+2016,8,01 - Motorcycle,SUBARU,3
 2016,8,01 - Motorcycle,SUZI,1
 2016,8,01 - Motorcycle,SUZI MC,1
-2016,8,01 - Motorcycle,SUZU,1
 2016,8,01 - Motorcycle,SUZUKI,9
 2016,8,01 - Motorcycle,TOMAS,8
 2016,8,01 - Motorcycle,TOMO,5
-2016,8,01 - Motorcycle,TOYOTA,9
-2016,8,01 - Motorcycle,TOYT,8
+2016,8,01 - Motorcycle,TOYOTA,8
+2016,8,01 - Motorcycle,TOYT,6
 2016,8,01 - Motorcycle,TOYTOA,1
 2016,8,01 - Motorcycle,VOLK,2
 2016,8,01 - Motorcycle,VOLKSWAGEN,2
 2016,8,01 - Motorcycle,VOLKSWAGON,1
-2016,8,01 - Motorcycle,YAMA,1
 2016,8,01 - Motorcycle,YAMAHA,24
 2016,8,02 - Automobile,2013,1
 2016,8,02 - Automobile,ACCURA,3
 2016,8,02 - Automobile,ACRURA,2
-2016,8,02 - Automobile,ACUR,146
-2016,8,02 - Automobile,ACURA,329
+2016,8,02 - Automobile,ACUR,129
+2016,8,02 - Automobile,ACURA,305
 2016,8,02 - Automobile,ACYRA,1
 2016,8,02 - Automobile,ASTO,1
-2016,8,02 - Automobile,AUDI,143
+2016,8,02 - Automobile,AUDI,129
 2016,8,02 - Automobile,BENTLEY,1
 2016,8,02 - Automobile,BMV,3
-2016,8,02 - Automobile,BMW,402
-2016,8,02 - Automobile,BUIC,24
-2016,8,02 - Automobile,BUICK,61
+2016,8,02 - Automobile,BMW,362
+2016,8,02 - Automobile,BUIC,20
+2016,8,02 - Automobile,BUICK,57
 2016,8,02 - Automobile,CAD,2
-2016,8,02 - Automobile,CADI,76
+2016,8,02 - Automobile,CADI,71
 2016,8,02 - Automobile,CADIALLAC,2
 2016,8,02 - Automobile,CADILAC,4
-2016,8,02 - Automobile,CADILLAC,36
-2016,8,02 - Automobile,CHEROLET,3
-2016,8,02 - Automobile,CHEV,390
+2016,8,02 - Automobile,CADILLAC,28
+2016,8,02 - Automobile,CHEROLET,2
+2016,8,02 - Automobile,CHEV,342
 2016,8,02 - Automobile,CHEVERLOT,7
 2016,8,02 - Automobile,CHEVEROLET,1
-2016,8,02 - Automobile,CHEVORLET,4
-2016,8,02 - Automobile,CHEVROLET,221
-2016,8,02 - Automobile,CHEVROLOET,2
+2016,8,02 - Automobile,CHEVORLET,3
+2016,8,02 - Automobile,CHEVROLET,214
+2016,8,02 - Automobile,CHEVROLOET,1
 2016,8,02 - Automobile,CHEVT,2
-2016,8,02 - Automobile,CHEVY,274
-2016,8,02 - Automobile,CHRY,107
+2016,8,02 - Automobile,CHEVY,252
+2016,8,02 - Automobile,CHRY,93
 2016,8,02 - Automobile,CHRYS,5
-2016,8,02 - Automobile,CHRYSLER,127
+2016,8,02 - Automobile,CHRYSLER,120
 2016,8,02 - Automobile,CHRYSTLER,1
 2016,8,02 - Automobile,CHYRSLER,1
 2016,8,02 - Automobile,CORVETTE,1
 2016,8,02 - Automobile,CRYS,1
 2016,8,02 - Automobile,DATS,2
 2016,8,02 - Automobile,DOD,1
-2016,8,02 - Automobile,DODG,71
-2016,8,02 - Automobile,DODGE,314
+2016,8,02 - Automobile,DODG,64
+2016,8,02 - Automobile,DODGE,288
 2016,8,02 - Automobile,DODGE RAM,3
 2016,8,02 - Automobile,FIAT,2
 2016,8,02 - Automobile,FOD,2
 2016,8,02 - Automobile,FOED,1
 2016,8,02 - Automobile,FOR,6
-2016,8,02 - Automobile,FORD,982
+2016,8,02 - Automobile,FORD,901
 2016,8,02 - Automobile,FPRD,3
 2016,8,02 - Automobile,GEO,15
 2016,8,02 - Automobile,GIL,1
-2016,8,02 - Automobile,GMC,105
+2016,8,02 - Automobile,GMC,98
 2016,8,02 - Automobile,HINDA,5
 2016,8,02 - Automobile,HNDA,1
 2016,8,02 - Automobile,HODA,2
-2016,8,02 - Automobile,HOIND,1
 2016,8,02 - Automobile,HOINDA,1
 2016,8,02 - Automobile,HOMD,3
-2016,8,02 - Automobile,HON,4
-2016,8,02 - Automobile,HOND,562
-2016,8,02 - Automobile,HONDA,1721
-2016,8,02 - Automobile,HONDDA,2
-2016,8,02 - Automobile,HUMM,4
-2016,8,02 - Automobile,HUMMER,15
+2016,8,02 - Automobile,HON,3
+2016,8,02 - Automobile,HOND,488
+2016,8,02 - Automobile,HONDA,1580
+2016,8,02 - Automobile,HUMM,2
+2016,8,02 - Automobile,HUMMER,11
 2016,8,02 - Automobile,HUNDAI,2
-2016,8,02 - Automobile,HUYNDAI,1
-2016,8,02 - Automobile,HUYNDAY,1
 2016,8,02 - Automobile,HYANDAI,4
 2016,8,02 - Automobile,HYIDAI,1
-2016,8,02 - Automobile,HYNDAI,7
+2016,8,02 - Automobile,HYNDAI,6
 2016,8,02 - Automobile,HYU,1
 2016,8,02 - Automobile,HYUDAI,1
-2016,8,02 - Automobile,HYUN,245
+2016,8,02 - Automobile,HYUN,218
 2016,8,02 - Automobile,HYUNAI,1
-2016,8,02 - Automobile,HYUND,7
+2016,8,02 - Automobile,HYUND,6
 2016,8,02 - Automobile,HYUNDA,3
-2016,8,02 - Automobile,HYUNDAI,306
+2016,8,02 - Automobile,HYUNDAI,284
 2016,8,02 - Automobile,HYUNDI,2
-2016,8,02 - Automobile,INFI,53
+2016,8,02 - Automobile,INFI,47
 2016,8,02 - Automobile,INFIN,1
 2016,8,02 - Automobile,INFINITE,1
-2016,8,02 - Automobile,INFINITI,93
-2016,8,02 - Automobile,INFINITY,16
-2016,8,02 - Automobile,INFINTI,4
+2016,8,02 - Automobile,INFINITI,91
+2016,8,02 - Automobile,INFINITY,14
+2016,8,02 - Automobile,INFINTI,2
 2016,8,02 - Automobile,INTERNATIONAL,1
 2016,8,02 - Automobile,INTL,1
 2016,8,02 - Automobile,ISU,1
-2016,8,02 - Automobile,ISUZ,6
+2016,8,02 - Automobile,ISUZ,2
 2016,8,02 - Automobile,ISUZU,8
 2016,8,02 - Automobile,JAG,1
 2016,8,02 - Automobile,JAGU,4
-2016,8,02 - Automobile,JAGUAR,20
+2016,8,02 - Automobile,JAGUAR,19
 2016,8,02 - Automobile,JAJUAR,1
-2016,8,02 - Automobile,JEEP,270
+2016,8,02 - Automobile,JEEP,244
 2016,8,02 - Automobile,JEP,1
-2016,8,02 - Automobile,KAIS,3
+2016,8,02 - Automobile,KAIS,2
 2016,8,02 - Automobile,KAWASAKE,4
 2016,8,02 - Automobile,KAWASAKI,1
 2016,8,02 - Automobile,KAWK,1
-2016,8,02 - Automobile,KIA,216
+2016,8,02 - Automobile,KIA,200
 2016,8,02 - Automobile,LAMO,2
 2016,8,02 - Automobile,LAND,1
 2016,8,02 - Automobile,LAND ROVER,30
-2016,8,02 - Automobile,LANDROVER,8
-2016,8,02 - Automobile,LEX,6
+2016,8,02 - Automobile,LANDROVER,7
+2016,8,02 - Automobile,LEX,4
 2016,8,02 - Automobile,LEXIS,3
-2016,8,02 - Automobile,LEXS,42
-2016,8,02 - Automobile,LEXU,23
-2016,8,02 - Automobile,LEXUS,246
-2016,8,02 - Automobile,LINC,15
+2016,8,02 - Automobile,LEXS,40
+2016,8,02 - Automobile,LEXU,19
+2016,8,02 - Automobile,LEXUS,225
+2016,8,02 - Automobile,LINC,12
 2016,8,02 - Automobile,LINCOLN,40
 2016,8,02 - Automobile,LNDR,4
 2016,8,02 - Automobile,MADZ,1
@@ -2312,116 +2203,111 @@ year,month,vtype,make,make
 2016,8,02 - Automobile,MASE,2
 2016,8,02 - Automobile,MAWO,1
 2016,8,02 - Automobile,MAZC,1
-2016,8,02 - Automobile,MAZD,48
-2016,8,02 - Automobile,MAZDA,250
-2016,8,02 - Automobile,MERC,44
+2016,8,02 - Automobile,MAZD,40
+2016,8,02 - Automobile,MAZDA,233
+2016,8,02 - Automobile,MERC,40
 2016,8,02 - Automobile,MERCADES,3
 2016,8,02 - Automobile,MERCED,1
-2016,8,02 - Automobile,MERCEDES,133
+2016,8,02 - Automobile,MERCEDES,125
 2016,8,02 - Automobile,MERCEDES BENZ,26
 2016,8,02 - Automobile,MERCEDES C300,3
 2016,8,02 - Automobile,MERCEDES-BENZ,6
-2016,8,02 - Automobile,MERCEDEZ,16
+2016,8,02 - Automobile,MERCEDEZ,15
 2016,8,02 - Automobile,MERCEDEZ BENZ,4
 2016,8,02 - Automobile,MERCURY,38
-2016,8,02 - Automobile,MERZ,199
+2016,8,02 - Automobile,MERZ,179
 2016,8,02 - Automobile,MERZEDES,4
-2016,8,02 - Automobile,MINI,26
+2016,8,02 - Automobile,MINI,25
 2016,8,02 - Automobile,MINI COOPER,5
 2016,8,02 - Automobile,MISS,1
-2016,8,02 - Automobile,MIT,2
-2016,8,02 - Automobile,MITS,70
-2016,8,02 - Automobile,MITSU,8
-2016,8,02 - Automobile,MITSUBISHI,45
+2016,8,02 - Automobile,MIT,1
+2016,8,02 - Automobile,MITS,63
+2016,8,02 - Automobile,MITSU,7
+2016,8,02 - Automobile,MITSUBISHI,40
 2016,8,02 - Automobile,MITSUBUISHI,1
 2016,8,02 - Automobile,MITZ,3
 2016,8,02 - Automobile,MNNI,2
 2016,8,02 - Automobile,NISAN,2
-2016,8,02 - Automobile,NISS,344
+2016,8,02 - Automobile,NISS,293
 2016,8,02 - Automobile,NISSA,8
-2016,8,02 - Automobile,NISSAN,828
-2016,8,02 - Automobile,NISSIAN,9
-2016,8,02 - Automobile,OLDS,21
-2016,8,02 - Automobile,OLDSMOBILE,7
-2016,8,02 - Automobile,PLYMOUTH,5
-2016,8,02 - Automobile,PONT,36
+2016,8,02 - Automobile,NISSAN,760
+2016,8,02 - Automobile,NISSIAN,7
+2016,8,02 - Automobile,OLDS,20
+2016,8,02 - Automobile,OLDSMOBILE,6
+2016,8,02 - Automobile,PLYMOUTH,3
+2016,8,02 - Automobile,PONT,34
 2016,8,02 - Automobile,PONTAIC,3
-2016,8,02 - Automobile,PONTIAC,60
-2016,8,02 - Automobile,PORS,6
+2016,8,02 - Automobile,PONTIAC,58
+2016,8,02 - Automobile,PORS,5
 2016,8,02 - Automobile,PORSCHE,30
-2016,8,02 - Automobile,RAM,3
+2016,8,02 - Automobile,RAM,2
 2016,8,02 - Automobile,RANGE ROVER,3
-2016,8,02 - Automobile,RANGEROVER,2
+2016,8,02 - Automobile,RANGEROVER,1
 2016,8,02 - Automobile,SAA,1
-2016,8,02 - Automobile,SAAB,8
-2016,8,02 - Automobile,SATR,1
-2016,8,02 - Automobile,SATU,12
+2016,8,02 - Automobile,SAAB,7
+2016,8,02 - Automobile,SATU,11
 2016,8,02 - Automobile,SATURN,45
-2016,8,02 - Automobile,SCIO,7
-2016,8,02 - Automobile,SCION,68
-2016,8,02 - Automobile,SMAR,1
+2016,8,02 - Automobile,SCIO,6
+2016,8,02 - Automobile,SCION,65
 2016,8,02 - Automobile,SMART,3
 2016,8,02 - Automobile,STRN,13
 2016,8,02 - Automobile,SUB,3
-2016,8,02 - Automobile,SUBA,64
+2016,8,02 - Automobile,SUBA,58
 2016,8,02 - Automobile,SUBAARU,2
-2016,8,02 - Automobile,SUBARU,124
+2016,8,02 - Automobile,SUBARU,113
 2016,8,02 - Automobile,SUBBARU,1
 2016,8,02 - Automobile,SUBU,6
 2016,8,02 - Automobile,SUBURU,4
 2016,8,02 - Automobile,SUSBARU,2
-2016,8,02 - Automobile,SUZI,16
+2016,8,02 - Automobile,SUZI,15
 2016,8,02 - Automobile,SUZU,4
-2016,8,02 - Automobile,SUZUKI,26
+2016,8,02 - Automobile,SUZUKI,24
 2016,8,02 - Automobile,TAO TAO,4
 2016,8,02 - Automobile,TAOTAO,2
 2016,8,02 - Automobile,TAURUS,2
-2016,8,02 - Automobile,TESLA,6
+2016,8,02 - Automobile,TESLA,4
 2016,8,02 - Automobile,TOTOTA,1
 2016,8,02 - Automobile,TOTY,1
 2016,8,02 - Automobile,TOY,17
-2016,8,02 - Automobile,TOYO,23
+2016,8,02 - Automobile,TOYO,20
 2016,8,02 - Automobile,TOYOT,15
-2016,8,02 - Automobile,TOYOTA,1583
+2016,8,02 - Automobile,TOYOTA,1473
 2016,8,02 - Automobile,TOYOTA SCION,1
 2016,8,02 - Automobile,TOYOYA,2
-2016,8,02 - Automobile,TOYT,819
-2016,8,02 - Automobile,TOYTA,6
+2016,8,02 - Automobile,TOYT,717
+2016,8,02 - Automobile,TOYTA,5
 2016,8,02 - Automobile,TOYTOA,3
 2016,8,02 - Automobile,TOYTOTA,1
 2016,8,02 - Automobile,TRIUM,2
 2016,8,02 - Automobile,UNK,2
 2016,8,02 - Automobile,VILK,2
-2016,8,02 - Automobile,VNTO,2
 2016,8,02 - Automobile,VOL,1
-2016,8,02 - Automobile,VOLK,139
-2016,8,02 - Automobile,VOLKS,41
+2016,8,02 - Automobile,VOLK,127
+2016,8,02 - Automobile,VOLKS,39
 2016,8,02 - Automobile,VOLKS WAGON,2
-2016,8,02 - Automobile,VOLKSWAGEN,42
-2016,8,02 - Automobile,VOLKSWAGGON,4
-2016,8,02 - Automobile,VOLKSWAGON,64
-2016,8,02 - Automobile,VOLV,30
-2016,8,02 - Automobile,VOLVO,99
-2016,8,02 - Automobile,VW,53
+2016,8,02 - Automobile,VOLKSWAGEN,41
+2016,8,02 - Automobile,VOLKSWAGON,61
+2016,8,02 - Automobile,VOLV,29
+2016,8,02 - Automobile,VOLVO,93
+2016,8,02 - Automobile,VW,47
 2016,8,02 - Automobile,WHITE,10
 2016,8,02 - Automobile,WOLK,1
 2016,8,02 - Automobile,WV,2
 2016,8,02 - Automobile,YAMAHA,2
-2016,8,03 - Station Wagon,ACUR,4
-2016,8,03 - Station Wagon,ACURA,6
+2016,8,03 - Station Wagon,ACUR,2
+2016,8,03 - Station Wagon,ACURA,4
 2016,8,03 - Station Wagon,AUDI,4
 2016,8,03 - Station Wagon,BMW,4
 2016,8,03 - Station Wagon,BUIC,2
-2016,8,03 - Station Wagon,CADILLAC,3
-2016,8,03 - Station Wagon,CHEV,4
+2016,8,03 - Station Wagon,CADILLAC,2
 2016,8,03 - Station Wagon,CHRYSLER,2
 2016,8,03 - Station Wagon,DODG,2
 2016,8,03 - Station Wagon,DODGE,4
-2016,8,03 - Station Wagon,FORD,17
-2016,8,03 - Station Wagon,GMC,10
+2016,8,03 - Station Wagon,FORD,16
+2016,8,03 - Station Wagon,GMC,9
 2016,8,03 - Station Wagon,HOND,1
 2016,8,03 - Station Wagon,HONDA,15
-2016,8,03 - Station Wagon,HYUN,3
+2016,8,03 - Station Wagon,HYUN,2
 2016,8,03 - Station Wagon,INFI,1
 2016,8,03 - Station Wagon,INFINITI,1
 2016,8,03 - Station Wagon,ISUZU,4
@@ -2439,11 +2325,11 @@ year,month,vtype,make,make
 2016,8,03 - Station Wagon,PORS,1
 2016,8,03 - Station Wagon,SCION,3
 2016,8,03 - Station Wagon,SUBA,9
-2016,8,03 - Station Wagon,SUBARU,10
+2016,8,03 - Station Wagon,SUBARU,4
 2016,8,03 - Station Wagon,TOYOT,2
 2016,8,03 - Station Wagon,TOYOTA,21
-2016,8,03 - Station Wagon,TOYT,11
-2016,8,03 - Station Wagon,VOLK,2
+2016,8,03 - Station Wagon,TOYT,9
+2016,8,03 - Station Wagon,VOLK,1
 2016,8,03 - Station Wagon,VOLVO,4
 2016,8,04 - Limousine,FORD,7
 2016,8,04 - Limousine,HOND,1
@@ -2452,24 +2338,24 @@ year,month,vtype,make,make
 2016,8,05 - Light Duty Truck,ACUR,8
 2016,8,05 - Light Duty Truck,ACURA,4
 2016,8,05 - Light Duty Truck,AURA,2
-2016,8,05 - Light Duty Truck,BMW,10
+2016,8,05 - Light Duty Truck,BMW,9
 2016,8,05 - Light Duty Truck,BUIC,1
-2016,8,05 - Light Duty Truck,CADI,3
+2016,8,05 - Light Duty Truck,CADI,2
 2016,8,05 - Light Duty Truck,CARR,2
-2016,8,05 - Light Duty Truck,CHEV,84
+2016,8,05 - Light Duty Truck,CHEV,77
 2016,8,05 - Light Duty Truck,CHEVORLET,4
-2016,8,05 - Light Duty Truck,CHEVROLET,23
-2016,8,05 - Light Duty Truck,CHEVY,42
+2016,8,05 - Light Duty Truck,CHEVROLET,18
+2016,8,05 - Light Duty Truck,CHEVY,41
 2016,8,05 - Light Duty Truck,CHRY,2
 2016,8,05 - Light Duty Truck,CHRYSLER,2
-2016,8,05 - Light Duty Truck,DODG,16
-2016,8,05 - Light Duty Truck,DODGE,52
-2016,8,05 - Light Duty Truck,FORD,252
+2016,8,05 - Light Duty Truck,DODG,14
+2016,8,05 - Light Duty Truck,DODGE,48
+2016,8,05 - Light Duty Truck,FORD,225
 2016,8,05 - Light Duty Truck,FRIEGHTLINER,1
-2016,8,05 - Light Duty Truck,GMC,77
+2016,8,05 - Light Duty Truck,GMC,67
 2016,8,05 - Light Duty Truck,HOLM,1
-2016,8,05 - Light Duty Truck,HOND,24
-2016,8,05 - Light Duty Truck,HONDA,38
+2016,8,05 - Light Duty Truck,HOND,23
+2016,8,05 - Light Duty Truck,HONDA,37
 2016,8,05 - Light Duty Truck,HYUN,3
 2016,8,05 - Light Duty Truck,HYUNDAI,2
 2016,8,05 - Light Duty Truck,HYUNUNDAI,1
@@ -2477,7 +2363,7 @@ year,month,vtype,make,make
 2016,8,05 - Light Duty Truck,INFINITI,1
 2016,8,05 - Light Duty Truck,INFN,1
 2016,8,05 - Light Duty Truck,ISUZ,2
-2016,8,05 - Light Duty Truck,JEEP,41
+2016,8,05 - Light Duty Truck,JEEP,39
 2016,8,05 - Light Duty Truck,KIA,13
 2016,8,05 - Light Duty Truck,LAND ROVER,2
 2016,8,05 - Light Duty Truck,LEX,2
@@ -2491,7 +2377,7 @@ year,month,vtype,make,make
 2016,8,05 - Light Duty Truck,MAZD,1
 2016,8,05 - Light Duty Truck,MAZDA,3
 2016,8,05 - Light Duty Truck,MERCEDES,1
-2016,8,05 - Light Duty Truck,MERZ,17
+2016,8,05 - Light Duty Truck,MERZ,16
 2016,8,05 - Light Duty Truck,MIFU,3
 2016,8,05 - Light Duty Truck,MITS,1
 2016,8,05 - Light Duty Truck,MITTS,2
@@ -2505,26 +2391,24 @@ year,month,vtype,make,make
 2016,8,05 - Light Duty Truck,SUBARU,5
 2016,8,05 - Light Duty Truck,TOYO,2
 2016,8,05 - Light Duty Truck,TOYOT,3
-2016,8,05 - Light Duty Truck,TOYOTA,57
-2016,8,05 - Light Duty Truck,TOYT,63
+2016,8,05 - Light Duty Truck,TOYOTA,54
+2016,8,05 - Light Duty Truck,TOYT,57
 2016,8,05 - Light Duty Truck,VOLK,3
 2016,8,05 - Light Duty Truck,VOLKS,1
 2016,8,05 - Light Duty Truck,VOLVO,6
-2016,8,06 - Heavy Duty Truck,CHEV,23
+2016,8,06 - Heavy Duty Truck,CHEV,22
 2016,8,06 - Heavy Duty Truck,CHEVOLET,1
 2016,8,06 - Heavy Duty Truck,CHEVY,2
 2016,8,06 - Heavy Duty Truck,CRAN,1
 2016,8,06 - Heavy Duty Truck,CRANE,4
 2016,8,06 - Heavy Duty Truck,DODG,3
 2016,8,06 - Heavy Duty Truck,DODGE,9
-2016,8,06 - Heavy Duty Truck,FORD,60
-2016,8,06 - Heavy Duty Truck,FREI,1
+2016,8,06 - Heavy Duty Truck,FORD,51
 2016,8,06 - Heavy Duty Truck,FREIGHT TRUCK,1
-2016,8,06 - Heavy Duty Truck,GMC,36
+2016,8,06 - Heavy Duty Truck,GMC,33
 2016,8,06 - Heavy Duty Truck,HOND,2
-2016,8,06 - Heavy Duty Truck,INT,2
-2016,8,06 - Heavy Duty Truck,INTERNATIONAL,12
-2016,8,06 - Heavy Duty Truck,ISU,10
+2016,8,06 - Heavy Duty Truck,INTERNATIONAL,9
+2016,8,06 - Heavy Duty Truck,ISU,4
 2016,8,06 - Heavy Duty Truck,ISUZ,4
 2016,8,06 - Heavy Duty Truck,ISUZU,3
 2016,8,06 - Heavy Duty Truck,KW,2
@@ -2544,7 +2428,7 @@ year,month,vtype,make,make
 2016,8,08 - Recreational Vehicle,CHEVY,2
 2016,8,08 - Recreational Vehicle,DODG,1
 2016,8,08 - Recreational Vehicle,FORD,1
-2016,8,08 - Recreational Vehicle,HOND,3
+2016,8,08 - Recreational Vehicle,HOND,2
 2016,8,08 - Recreational Vehicle,HONDA,8
 2016,8,08 - Recreational Vehicle,HYUN,1
 2016,8,08 - Recreational Vehicle,INFI,1
@@ -2567,39 +2451,34 @@ year,month,vtype,make,make
 2016,8,23 - Travel/Home Trailer,CARR,1
 2016,8,24 - Camper,SUZI,1
 2016,8,25 - Utility Trailer,CARR,1
-2016,8,25 - Utility Trailer,EZ,9
-2016,8,25 - Utility Trailer,HOMEMADE,4
+2016,8,25 - Utility Trailer,HOMEMADE,2
 2016,8,25 - Utility Trailer,HOMESTEADER,3
-2016,8,25 - Utility Trailer,PREM,10
-2016,8,25 - Utility Trailer,SURE,1
-2016,8,27 - Farm Equipment,CHEV,1
-2016,8,27 - Farm Equipment,GMC,1
+2016,8,25 - Utility Trailer,PREM,1
 2016,8,27 - Farm Equipment,INTERNATION,1
 2016,8,28 - Other,ACURA,5
 2016,8,28 - Other,BMW,1
 2016,8,28 - Other,BUIC,1
 2016,8,28 - Other,BUICK,2
 2016,8,28 - Other,CHEV,4
-2016,8,28 - Other,CHEVROLET,4
+2016,8,28 - Other,CHEVROLET,3
 2016,8,28 - Other,CHRISLER,1
 2016,8,28 - Other,CHRY,1
-2016,8,28 - Other,DODG,3
-2016,8,28 - Other,DODGE,9
-2016,8,28 - Other,FORD,37
-2016,8,28 - Other,GMC,6
+2016,8,28 - Other,DODG,2
+2016,8,28 - Other,DODGE,6
+2016,8,28 - Other,FORD,35
+2016,8,28 - Other,GMC,4
 2016,8,28 - Other,HODA,1
 2016,8,28 - Other,HOND,5
-2016,8,28 - Other,HONDA,23
+2016,8,28 - Other,HONDA,19
 2016,8,28 - Other,HUMMER,1
 2016,8,28 - Other,INFI,1
 2016,8,28 - Other,INTERNATIONAL,3
-2016,8,28 - Other,JEEP,9
+2016,8,28 - Other,JEEP,8
 2016,8,28 - Other,KIA,2
-2016,8,28 - Other,LANDROVER,7
+2016,8,28 - Other,LANDROVER,6
 2016,8,28 - Other,LEXU,1
 2016,8,28 - Other,LEXUS,2
 2016,8,28 - Other,LINCOLN,2
-2016,8,28 - Other,MACK,3
 2016,8,28 - Other,MAZDA,1
 2016,8,28 - Other,MERZ,4
 2016,8,28 - Other,NISS,7
@@ -2610,7 +2489,7 @@ year,month,vtype,make,make
 2016,8,28 - Other,TAO TAO,3
 2016,8,28 - Other,TOY,3
 2016,8,28 - Other,TOYOTA,10
-2016,8,28 - Other,TOYT,5
+2016,8,28 - Other,TOYT,4
 2016,8,28 - Other,WORK,1
 2016,8,29 - Unknown,CHEV,14
 2016,8,29 - Unknown,TOYO,2
@@ -2624,7 +2503,7 @@ year,month,vtype,make,make
 2016,9,01 - Motorcycle,FORD,5
 2016,9,01 - Motorcycle,HD,2
 2016,9,01 - Motorcycle,HOND,2
-2016,9,01 - Motorcycle,HONDA,14
+2016,9,01 - Motorcycle,HONDA,10
 2016,9,01 - Motorcycle,HYUN,2
 2016,9,01 - Motorcycle,JEEP,2
 2016,9,01 - Motorcycle,KAWASAKI,2
@@ -2633,91 +2512,88 @@ year,month,vtype,make,make
 2016,9,01 - Motorcycle,MERZ,1
 2016,9,01 - Motorcycle,MITS,8
 2016,9,01 - Motorcycle,SUZ,3
-2016,9,01 - Motorcycle,SUZI,3
+2016,9,01 - Motorcycle,SUZI,2
 2016,9,01 - Motorcycle,SUZU,1
 2016,9,01 - Motorcycle,SUZUIKI,4
 2016,9,01 - Motorcycle,SUZUKI,11
 2016,9,01 - Motorcycle,TAOTAO,6
-2016,9,01 - Motorcycle,TOYOTA,6
+2016,9,01 - Motorcycle,TOYOTA,5
 2016,9,01 - Motorcycle,TOYT,7
 2016,9,01 - Motorcycle,YAMA,1
-2016,9,01 - Motorcycle,YAMAHA,6
+2016,9,01 - Motorcycle,YAMAHA,5
 2016,9,01 - Motorcycle,ZHEJIANG,4
 2016,9,02 - Automobile,4D,1
 2016,9,02 - Automobile,ACUAR,1
-2016,9,02 - Automobile,ACUR,108
-2016,9,02 - Automobile,ACURA,298
-2016,9,02 - Automobile,AUDI,134
+2016,9,02 - Automobile,ACUR,100
+2016,9,02 - Automobile,ACURA,275
+2016,9,02 - Automobile,AUDI,123
 2016,9,02 - Automobile,BENZ,1
-2016,9,02 - Automobile,BMW,387
-2016,9,02 - Automobile,BUIC,27
-2016,9,02 - Automobile,BUICK,63
+2016,9,02 - Automobile,BMW,357
+2016,9,02 - Automobile,BUIC,25
+2016,9,02 - Automobile,BUICK,59
 2016,9,02 - Automobile,BUIK,7
 2016,9,02 - Automobile,BWM,7
-2016,9,02 - Automobile,CADI,44
+2016,9,02 - Automobile,CADI,36
 2016,9,02 - Automobile,CADILAC,4
-2016,9,02 - Automobile,CADILLAC,44
+2016,9,02 - Automobile,CADILLAC,43
 2016,9,02 - Automobile,CAI,2
 2016,9,02 - Automobile,CAMRY,1
-2016,9,02 - Automobile,CHDVY,3
-2016,9,02 - Automobile,CHEV,378
+2016,9,02 - Automobile,CHDVY,2
+2016,9,02 - Automobile,CHEV,347
 2016,9,02 - Automobile,CHEVEY,6
-2016,9,02 - Automobile,CHEVORLET,10
-2016,9,02 - Automobile,CHEVROLET,317
-2016,9,02 - Automobile,CHEVY,224
-2016,9,02 - Automobile,CHRY,97
+2016,9,02 - Automobile,CHEVORLET,9
+2016,9,02 - Automobile,CHEVROLET,287
+2016,9,02 - Automobile,CHEVY,205
+2016,9,02 - Automobile,CHRY,91
 2016,9,02 - Automobile,CHRYS,3
-2016,9,02 - Automobile,CHRYSLER,93
+2016,9,02 - Automobile,CHRYSLER,84
 2016,9,02 - Automobile,CHRYSTLER,6
-2016,9,02 - Automobile,CHVORLET,3
+2016,9,02 - Automobile,CHVORLET,2
 2016,9,02 - Automobile,CHYR,2
 2016,9,02 - Automobile,CHYRS,2
 2016,9,02 - Automobile,CHYRSLER,2
 2016,9,02 - Automobile,CIVIC,1
 2016,9,02 - Automobile,COROLLA,1
-2016,9,02 - Automobile,CRYSLER,2
-2016,9,02 - Automobile,DODG,91
-2016,9,02 - Automobile,DODGE,336
+2016,9,02 - Automobile,CRYSLER,1
+2016,9,02 - Automobile,DODG,81
+2016,9,02 - Automobile,DODGE,312
 2016,9,02 - Automobile,DOGE,1
 2016,9,02 - Automobile,EPO,3
 2016,9,02 - Automobile,FERRARI,1
 2016,9,02 - Automobile,FIAT,3
-2016,9,02 - Automobile,FOCUS,1
 2016,9,02 - Automobile,FOED,3
 2016,9,02 - Automobile,FOR,4
-2016,9,02 - Automobile,FORD,962
+2016,9,02 - Automobile,FORD,872
 2016,9,02 - Automobile,FORN,3
 2016,9,02 - Automobile,FRHT,3
-2016,9,02 - Automobile,GEO,4
-2016,9,02 - Automobile,GMC,118
+2016,9,02 - Automobile,GEO,3
+2016,9,02 - Automobile,GMC,106
 2016,9,02 - Automobile,HINDA,6
 2016,9,02 - Automobile,HINO,1
-2016,9,02 - Automobile,HIONDA,3
+2016,9,02 - Automobile,HIONDA,2
 2016,9,02 - Automobile,HODA,1
 2016,9,02 - Automobile,HODNA,1
-2016,9,02 - Automobile,HONA,1
 2016,9,02 - Automobile,HONAD,1
-2016,9,02 - Automobile,HOND,487
-2016,9,02 - Automobile,HONDA,1403
-2016,9,02 - Automobile,HUMMER,4
+2016,9,02 - Automobile,HOND,435
+2016,9,02 - Automobile,HONDA,1292
+2016,9,02 - Automobile,HUMMER,2
 2016,9,02 - Automobile,HUYANDI,2
-2016,9,02 - Automobile,HYANDAI,1
-2016,9,02 - Automobile,HYANDUI,5
+2016,9,02 - Automobile,HYANDUI,4
 2016,9,02 - Automobile,HYN,2
 2016,9,02 - Automobile,HYND,1
 2016,9,02 - Automobile,HYU,1
 2016,9,02 - Automobile,HYUDAI,7
-2016,9,02 - Automobile,HYUN,196
+2016,9,02 - Automobile,HYUN,171
 2016,9,02 - Automobile,HYUNAI,1
 2016,9,02 - Automobile,HYUND,7
-2016,9,02 - Automobile,HYUNDAI,300
+2016,9,02 - Automobile,HYUNDAI,271
 2016,9,02 - Automobile,HYUNDI,2
 2016,9,02 - Automobile,HYUNDIA,16
 2016,9,02 - Automobile,HYUUNDAI,1
-2016,9,02 - Automobile,INFI,56
+2016,9,02 - Automobile,INFI,48
 2016,9,02 - Automobile,INFIN,3
-2016,9,02 - Automobile,INFINITI,91
-2016,9,02 - Automobile,INFINITY,15
+2016,9,02 - Automobile,INFINITI,83
+2016,9,02 - Automobile,INFINITY,13
 2016,9,02 - Automobile,INFINTI,1
 2016,9,02 - Automobile,INIFINITY,5
 2016,9,02 - Automobile,ISU,9
@@ -2725,54 +2601,53 @@ year,month,vtype,make,make
 2016,9,02 - Automobile,ISUZU,9
 2016,9,02 - Automobile,IZUZU,1
 2016,9,02 - Automobile,JAGU,5
-2016,9,02 - Automobile,JAGUAR,18
-2016,9,02 - Automobile,JEEP,308
+2016,9,02 - Automobile,JAGUAR,16
+2016,9,02 - Automobile,JEEP,289
 2016,9,02 - Automobile,KEXUS,1
-2016,9,02 - Automobile,KIA,178
+2016,9,02 - Automobile,KIA,164
 2016,9,02 - Automobile,LA ND ROVER,3
-2016,9,02 - Automobile,LAND ROVER,15
+2016,9,02 - Automobile,LAND ROVER,14
 2016,9,02 - Automobile,LANDROVER,5
 2016,9,02 - Automobile,LESUS,2
 2016,9,02 - Automobile,LESXUS,2
-2016,9,02 - Automobile,LEX,3
-2016,9,02 - Automobile,LEXS,58
-2016,9,02 - Automobile,LEXU,30
-2016,9,02 - Automobile,LEXUS,233
-2016,9,02 - Automobile,LINC,46
+2016,9,02 - Automobile,LEX,1
+2016,9,02 - Automobile,LEXS,54
+2016,9,02 - Automobile,LEXU,28
+2016,9,02 - Automobile,LEXUS,218
+2016,9,02 - Automobile,LINC,42
 2016,9,02 - Automobile,LINCOLM,2
 2016,9,02 - Automobile,LINCOLN,52
-2016,9,02 - Automobile,LNDR,14
+2016,9,02 - Automobile,LNDR,12
 2016,9,02 - Automobile,MADZ,1
 2016,9,02 - Automobile,MAS,1
 2016,9,02 - Automobile,MASE,3
 2016,9,02 - Automobile,MASERATI,1
 2016,9,02 - Automobile,MAZ,1
-2016,9,02 - Automobile,MAZD,67
-2016,9,02 - Automobile,MAZDA,187
-2016,9,02 - Automobile,MERC,53
-2016,9,02 - Automobile,MERCEDES,98
+2016,9,02 - Automobile,MAZD,53
+2016,9,02 - Automobile,MAZDA,176
+2016,9,02 - Automobile,MERC,45
+2016,9,02 - Automobile,MERCEDES,86
 2016,9,02 - Automobile,MERCEDES BENZ,10
 2016,9,02 - Automobile,MERCEDES-BENZ,2
-2016,9,02 - Automobile,MERCEDEZ,15
-2016,9,02 - Automobile,MERCURY,22
-2016,9,02 - Automobile,MERZ,224
-2016,9,02 - Automobile,MINI,46
+2016,9,02 - Automobile,MERCEDEZ,13
+2016,9,02 - Automobile,MERCURY,19
+2016,9,02 - Automobile,MERZ,193
+2016,9,02 - Automobile,MINI,45
 2016,9,02 - Automobile,MINI COOPER,2
-2016,9,02 - Automobile,MITS,75
+2016,9,02 - Automobile,MITS,66
 2016,9,02 - Automobile,MITSIBUSHI,1
-2016,9,02 - Automobile,MITSU,10
+2016,9,02 - Automobile,MITSU,6
 2016,9,02 - Automobile,MITSUB,2
-2016,9,02 - Automobile,MITSUBISHI,45
+2016,9,02 - Automobile,MITSUBISHI,40
 2016,9,02 - Automobile,MITSUIBISHI,4
-2016,9,02 - Automobile,MITZ,1
-2016,9,02 - Automobile,MNNI,3
-2016,9,02 - Automobile,MRZ,2
+2016,9,02 - Automobile,MNNI,2
+2016,9,02 - Automobile,MRZ,1
 2016,9,02 - Automobile,NIISSAN,2
-2016,9,02 - Automobile,NISS,293
+2016,9,02 - Automobile,NISS,268
 2016,9,02 - Automobile,NISSA,4
-2016,9,02 - Automobile,NISSAN,684
+2016,9,02 - Automobile,NISSAN,636
 2016,9,02 - Automobile,NISSAN SUV,1
-2016,9,02 - Automobile,NISSIAN,5
+2016,9,02 - Automobile,NISSIAN,3
 2016,9,02 - Automobile,OLDS,9
 2016,9,02 - Automobile,OLDSMOBILE,8
 2016,9,02 - Automobile,ORION,1
@@ -2780,73 +2655,70 @@ year,month,vtype,make,make
 2016,9,02 - Automobile,PLYM,2
 2016,9,02 - Automobile,PLYMOUTH,3
 2016,9,02 - Automobile,PONIAC,1
-2016,9,02 - Automobile,PONT,28
+2016,9,02 - Automobile,PONT,23
 2016,9,02 - Automobile,PONTIAC,40
 2016,9,02 - Automobile,PORS,9
-2016,9,02 - Automobile,PORSCHE,12
-2016,9,02 - Automobile,RAM,4
+2016,9,02 - Automobile,PORSCHE,10
+2016,9,02 - Automobile,RAM,3
 2016,9,02 - Automobile,RANGE ROVER,4
-2016,9,02 - Automobile,ROV,1
 2016,9,02 - Automobile,SAA,4
-2016,9,02 - Automobile,SAAB,11
+2016,9,02 - Automobile,SAAB,10
 2016,9,02 - Automobile,SABARU,1
 2016,9,02 - Automobile,SABU,2
 2016,9,02 - Automobile,SATR,1
-2016,9,02 - Automobile,SATURN,38
+2016,9,02 - Automobile,SATURN,36
 2016,9,02 - Automobile,SCIO,4
-2016,9,02 - Automobile,SCION,69
-2016,9,02 - Automobile,SILVER VOLVO,1
+2016,9,02 - Automobile,SCION,59
 2016,9,02 - Automobile,SILVERADO,1
 2016,9,02 - Automobile,SMART,4
-2016,9,02 - Automobile,STRN,10
+2016,9,02 - Automobile,STRN,9
 2016,9,02 - Automobile,SUB,3
-2016,9,02 - Automobile,SUBA,62
+2016,9,02 - Automobile,SUBA,55
 2016,9,02 - Automobile,SUBARA,2
-2016,9,02 - Automobile,SUBARU,126
+2016,9,02 - Automobile,SUBARU,117
 2016,9,02 - Automobile,SUBRAU,1
 2016,9,02 - Automobile,SUBU,2
 2016,9,02 - Automobile,SUBURAU,1
-2016,9,02 - Automobile,SUBURU,7
+2016,9,02 - Automobile,SUBURU,5
 2016,9,02 - Automobile,SUSUKI,1
 2016,9,02 - Automobile,SUZI,5
-2016,9,02 - Automobile,SUZU,2
+2016,9,02 - Automobile,SUZU,1
 2016,9,02 - Automobile,SUZUIKI,1
 2016,9,02 - Automobile,SUZUKI,9
 2016,9,02 - Automobile,TESL,2
-2016,9,02 - Automobile,TESLA,8
+2016,9,02 - Automobile,TESLA,5
 2016,9,02 - Automobile,TIYITA,1
-2016,9,02 - Automobile,TOTOTA,2
 2016,9,02 - Automobile,TOY,7
-2016,9,02 - Automobile,TOYO,11
+2016,9,02 - Automobile,TOYO,10
 2016,9,02 - Automobile,TOYORA,1
 2016,9,02 - Automobile,TOYOT,6
-2016,9,02 - Automobile,TOYOTA,1450
+2016,9,02 - Automobile,TOYOTA,1321
 2016,9,02 - Automobile,TOYOYTA,2
-2016,9,02 - Automobile,TOYT,750
-2016,9,02 - Automobile,TOYTA,3
+2016,9,02 - Automobile,TOYT,653
+2016,9,02 - Automobile,TOYTA,2
 2016,9,02 - Automobile,TOYTOA,1
-2016,9,02 - Automobile,TOYTOTA,2
+2016,9,02 - Automobile,TOYTOTA,1
 2016,9,02 - Automobile,VE,1
-2016,9,02 - Automobile,VOLK,130
+2016,9,02 - Automobile,VOLK,116
 2016,9,02 - Automobile,VOLKS,43
 2016,9,02 - Automobile,VOLKSW,1
-2016,9,02 - Automobile,VOLKSWAGEN,59
+2016,9,02 - Automobile,VOLKSWAGEN,50
 2016,9,02 - Automobile,VOLKSWAGIN,1
-2016,9,02 - Automobile,VOLKSWAGON,43
+2016,9,02 - Automobile,VOLKSWAGON,42
 2016,9,02 - Automobile,VOLLSWAGON,1
 2016,9,02 - Automobile,VOLS,2
-2016,9,02 - Automobile,VOLV,37
-2016,9,02 - Automobile,VOLVO,79
+2016,9,02 - Automobile,VOLV,36
+2016,9,02 - Automobile,VOLVO,68
 2016,9,02 - Automobile,VOVO,2
-2016,9,02 - Automobile,VW,47
+2016,9,02 - Automobile,VW,43
 2016,9,03 - Station Wagon,ACUR,3
-2016,9,03 - Station Wagon,ACURA,6
+2016,9,03 - Station Wagon,ACURA,4
 2016,9,03 - Station Wagon,BMW,3
-2016,9,03 - Station Wagon,CHEVROLET,2
+2016,9,03 - Station Wagon,CHEVROLET,1
 2016,9,03 - Station Wagon,CHEVY,4
 2016,9,03 - Station Wagon,CHRY,3
 2016,9,03 - Station Wagon,CHRYSLER,6
-2016,9,03 - Station Wagon,DODG,3
+2016,9,03 - Station Wagon,DODG,2
 2016,9,03 - Station Wagon,DODGE,6
 2016,9,03 - Station Wagon,FORD,23
 2016,9,03 - Station Wagon,GMC,8
@@ -2854,7 +2726,7 @@ year,month,vtype,make,make
 2016,9,03 - Station Wagon,HONDA,20
 2016,9,03 - Station Wagon,HYUN,1
 2016,9,03 - Station Wagon,HYUND,2
-2016,9,03 - Station Wagon,HYUNDAI,3
+2016,9,03 - Station Wagon,HYUNDAI,2
 2016,9,03 - Station Wagon,INFI,2
 2016,9,03 - Station Wagon,ISUZU,1
 2016,9,03 - Station Wagon,JEEP,2
@@ -2864,27 +2736,26 @@ year,month,vtype,make,make
 2016,9,03 - Station Wagon,LINCOLN,1
 2016,9,03 - Station Wagon,MAZDA,2
 2016,9,03 - Station Wagon,MERCEDES,1
-2016,9,03 - Station Wagon,MERZ,2
+2016,9,03 - Station Wagon,MERZ,1
 2016,9,03 - Station Wagon,MITS,2
-2016,9,03 - Station Wagon,MITSBUSHI,1
 2016,9,03 - Station Wagon,MNNI,2
 2016,9,03 - Station Wagon,NISS,1
-2016,9,03 - Station Wagon,NISSAN,14
+2016,9,03 - Station Wagon,NISSAN,12
 2016,9,03 - Station Wagon,RANG,1
 2016,9,03 - Station Wagon,SAA,1
 2016,9,03 - Station Wagon,SCIO,1
 2016,9,03 - Station Wagon,SUBA,5
-2016,9,03 - Station Wagon,SUBARU,16
+2016,9,03 - Station Wagon,SUBARU,10
 2016,9,03 - Station Wagon,SUBU,1
 2016,9,03 - Station Wagon,TOYO,2
-2016,9,03 - Station Wagon,TOYOTA,24
-2016,9,03 - Station Wagon,TOYT,13
+2016,9,03 - Station Wagon,TOYOTA,23
+2016,9,03 - Station Wagon,TOYT,11
 2016,9,03 - Station Wagon,VOLK,2
 2016,9,03 - Station Wagon,VOLV,1
 2016,9,04 - Limousine,CADI,5
 2016,9,04 - Limousine,CHEV,2
 2016,9,04 - Limousine,FORD,1
-2016,9,04 - Limousine,LINCOLN,2
+2016,9,04 - Limousine,LINCOLN,1
 2016,9,04 - Limousine,TOYOT,1
 2016,9,05 - Light Duty Truck,ACUR,8
 2016,9,05 - Light Duty Truck,ACURA,1
@@ -2894,25 +2765,25 @@ year,month,vtype,make,make
 2016,9,05 - Light Duty Truck,CADI,8
 2016,9,05 - Light Duty Truck,CADILLAC,1
 2016,9,05 - Light Duty Truck,CHCHEVY,2
-2016,9,05 - Light Duty Truck,CHEV,78
+2016,9,05 - Light Duty Truck,CHEV,65
 2016,9,05 - Light Duty Truck,CHEVROLET,29
-2016,9,05 - Light Duty Truck,CHEVY,27
-2016,9,05 - Light Duty Truck,CHRY,4
-2016,9,05 - Light Duty Truck,DODG,23
-2016,9,05 - Light Duty Truck,DODGE,56
-2016,9,05 - Light Duty Truck,FORD,224
-2016,9,05 - Light Duty Truck,FRTL,5
-2016,9,05 - Light Duty Truck,GMC,44
+2016,9,05 - Light Duty Truck,CHEVY,25
+2016,9,05 - Light Duty Truck,CHRY,3
+2016,9,05 - Light Duty Truck,DODG,22
+2016,9,05 - Light Duty Truck,DODGE,48
+2016,9,05 - Light Duty Truck,FORD,187
+2016,9,05 - Light Duty Truck,FRTL,1
+2016,9,05 - Light Duty Truck,GMC,41
 2016,9,05 - Light Duty Truck,HINO,1
 2016,9,05 - Light Duty Truck,HOND,29
-2016,9,05 - Light Duty Truck,HONDA,32
+2016,9,05 - Light Duty Truck,HONDA,30
 2016,9,05 - Light Duty Truck,HYUN,3
 2016,9,05 - Light Duty Truck,HYUND,1
 2016,9,05 - Light Duty Truck,HYUNDAI,1
 2016,9,05 - Light Duty Truck,INFI,1
 2016,9,05 - Light Duty Truck,ISUZ,4
 2016,9,05 - Light Duty Truck,ISUZU,4
-2016,9,05 - Light Duty Truck,JEEP,26
+2016,9,05 - Light Duty Truck,JEEP,22
 2016,9,05 - Light Duty Truck,KIA,1
 2016,9,05 - Light Duty Truck,LAND,1
 2016,9,05 - Light Duty Truck,LAND ROVER,1
@@ -2927,41 +2798,39 @@ year,month,vtype,make,make
 2016,9,05 - Light Duty Truck,MAZDA,3
 2016,9,05 - Light Duty Truck,MERCEDES,6
 2016,9,05 - Light Duty Truck,MERZ,12
-2016,9,05 - Light Duty Truck,MITS,2
-2016,9,05 - Light Duty Truck,NISS,13
-2016,9,05 - Light Duty Truck,NISSAN,11
+2016,9,05 - Light Duty Truck,MITS,1
+2016,9,05 - Light Duty Truck,NISS,9
+2016,9,05 - Light Duty Truck,NISSAN,10
 2016,9,05 - Light Duty Truck,OTHR,1
-2016,9,05 - Light Duty Truck,PONT,1
 2016,9,05 - Light Duty Truck,PORSCHE,1
 2016,9,05 - Light Duty Truck,RAM,3
 2016,9,05 - Light Duty Truck,RANGE ROVER,1
 2016,9,05 - Light Duty Truck,SIERRA,1
 2016,9,05 - Light Duty Truck,TOYO,1
-2016,9,05 - Light Duty Truck,TOYOTA,59
+2016,9,05 - Light Duty Truck,TOYOTA,55
 2016,9,05 - Light Duty Truck,TOYT,37
 2016,9,05 - Light Duty Truck,VOLK,1
 2016,9,05 - Light Duty Truck,VOLVO,2
-2016,9,06 - Heavy Duty Truck,CHEV,9
+2016,9,06 - Heavy Duty Truck,CHEV,3
 2016,9,06 - Heavy Duty Truck,CHEVROLET,4
 2016,9,06 - Heavy Duty Truck,CRAN,1
 2016,9,06 - Heavy Duty Truck,DODG,4
 2016,9,06 - Heavy Duty Truck,DODGE,6
-2016,9,06 - Heavy Duty Truck,FORD,32
+2016,9,06 - Heavy Duty Truck,FORD,31
 2016,9,06 - Heavy Duty Truck,FRAIGHT,1
-2016,9,06 - Heavy Duty Truck,FRHT,2
 2016,9,06 - Heavy Duty Truck,GMC,5
 2016,9,06 - Heavy Duty Truck,HINO,2
 2016,9,06 - Heavy Duty Truck,INT,2
-2016,9,06 - Heavy Duty Truck,INTL,5
+2016,9,06 - Heavy Duty Truck,INTL,3
 2016,9,06 - Heavy Duty Truck,ISU,3
 2016,9,06 - Heavy Duty Truck,KW,2
 2016,9,06 - Heavy Duty Truck,LEXUS,2
 2016,9,06 - Heavy Duty Truck,MACK,2
 2016,9,06 - Heavy Duty Truck,PETERBILT,5
-2016,9,06 - Heavy Duty Truck,PETERBUILT,6
+2016,9,06 - Heavy Duty Truck,PETERBUILT,3
 2016,9,06 - Heavy Duty Truck,PTRB,2
 2016,9,06 - Heavy Duty Truck,RAM,1
-2016,9,06 - Heavy Duty Truck,UD,3
+2016,9,06 - Heavy Duty Truck,UD,1
 2016,9,06 - Heavy Duty Truck,WORK,1
 2016,9,07 - Truck/Road Tractor,FORD,1
 2016,9,07 - Truck/Road Tractor,INTERNATIONAL,1
@@ -2971,14 +2840,12 @@ year,month,vtype,make,make
 2016,9,08 - Recreational Vehicle,CHRY,1
 2016,9,08 - Recreational Vehicle,FORD,1
 2016,9,08 - Recreational Vehicle,HOND,1
-2016,9,08 - Recreational Vehicle,HONDA,3
-2016,9,08 - Recreational Vehicle,HYUN,3
-2016,9,08 - Recreational Vehicle,LEXS,1
+2016,9,08 - Recreational Vehicle,HONDA,2
+2016,9,08 - Recreational Vehicle,HYUN,2
 2016,9,08 - Recreational Vehicle,LNDR,1
 2016,9,08 - Recreational Vehicle,SUBARU,1
 2016,9,08 - Recreational Vehicle,TOYOTA,2
 2016,9,08 - Recreational Vehicle,TOYT,1
-2016,9,09 - Farm Vehicle,HONDA,1
 2016,9,10 - Transit Bus,GILLAG,1
 2016,9,10 - Transit Bus,GILLIG,2
 2016,9,12 - School Bus,THOM,1
@@ -2990,29 +2857,26 @@ year,month,vtype,make,make
 2016,9,25 - Utility Trailer,BRI MAR,6
 2016,9,25 - Utility Trailer,JIFF,1
 2016,9,25 - Utility Trailer,LOAD TRAILER,2
-2016,9,25 - Utility Trailer,VEERMEER,7
 2016,9,27 - Farm Equipment,JOHN DEER,3
 2016,9,27 - Farm Equipment,NISSAN,1
 2016,9,28 - Other,ACUR,1
 2016,9,28 - Other,ACURA,3
-2016,9,28 - Other,AUDI,4
-2016,9,28 - Other,BUICK,3
+2016,9,28 - Other,AUDI,3
+2016,9,28 - Other,BUICK,2
 2016,9,28 - Other,CADI,2
-2016,9,28 - Other,CHEV,11
+2016,9,28 - Other,CHEV,8
 2016,9,28 - Other,CHEVROET,2
 2016,9,28 - Other,CHEVROLET,13
 2016,9,28 - Other,CHEVY,6
 2016,9,28 - Other,CHRYSLER,1
 2016,9,28 - Other,DODG,1
 2016,9,28 - Other,DODGE,21
-2016,9,28 - Other,FORD,39
-2016,9,28 - Other,GMC,7
-2016,9,28 - Other,HOND,8
+2016,9,28 - Other,FORD,34
+2016,9,28 - Other,GMC,3
+2016,9,28 - Other,HOND,7
 2016,9,28 - Other,HONDA,16
-2016,9,28 - Other,HYUN,2
+2016,9,28 - Other,HYUN,1
 2016,9,28 - Other,INFI,1
-2016,9,28 - Other,ISU,1
-2016,9,28 - Other,ISUZU,1
 2016,9,28 - Other,JEEP,2
 2016,9,28 - Other,KIA,1
 2016,9,28 - Other,LEX,1
@@ -3020,19 +2884,15 @@ year,month,vtype,make,make
 2016,9,28 - Other,LEXU,1
 2016,9,28 - Other,LEXUS,7
 2016,9,28 - Other,MITSUBISHI,2
-2016,9,28 - Other,NISS,10
+2016,9,28 - Other,NISS,8
 2016,9,28 - Other,NISSAN,14
-2016,9,28 - Other,NISSIAN,1
 2016,9,28 - Other,RNG RVR,2
 2016,9,28 - Other,SATURN,12
 2016,9,28 - Other,SUBA,3
 2016,9,28 - Other,SUBARU,2
 2016,9,28 - Other,SUZI,1
-2016,9,28 - Other,TAOTAO,2
-2016,9,28 - Other,TOY,1
-2016,9,28 - Other,TOYOTA,36
-2016,9,28 - Other,TOYT,7
-2016,9,28 - Other,TRIT,1
+2016,9,28 - Other,TOYOTA,33
+2016,9,28 - Other,TOYT,6
 2016,9,28 - Other,VOLV,1
 2016,9,28 - Other,VOLVO,1
 2016,10,01 - Motorcycle,BMW,11
@@ -3100,22 +2960,22 @@ year,month,vtype,make,make
 2016,10,02 - Automobile,COOPER,2
 2016,10,02 - Automobile,CRYSTLER,5
 2016,10,02 - Automobile,DODG,76
-2016,10,02 - Automobile,DODGE,386
+2016,10,02 - Automobile,DODGE,383
 2016,10,02 - Automobile,F150,2
 2016,10,02 - Automobile,FERRARI,1
 2016,10,02 - Automobile,FIAT,5
-2016,10,02 - Automobile,FORD,1153
+2016,10,02 - Automobile,FORD,1152
 2016,10,02 - Automobile,FORK,3
 2016,10,02 - Automobile,FRD,2
 2016,10,02 - Automobile,GEO,8
-2016,10,02 - Automobile,GMC,102
+2016,10,02 - Automobile,GMC,95
 2016,10,02 - Automobile,HINDA,5
 2016,10,02 - Automobile,HOBDA,2
 2016,10,02 - Automobile,HOINDA,2
 2016,10,02 - Automobile,HON,3
 2016,10,02 - Automobile,HONA,1
-2016,10,02 - Automobile,HOND,557
-2016,10,02 - Automobile,HONDA,1632
+2016,10,02 - Automobile,HOND,556
+2016,10,02 - Automobile,HONDA,1602
 2016,10,02 - Automobile,HONSA,1
 2016,10,02 - Automobile,HTUN,2
 2016,10,02 - Automobile,HUMM,2
@@ -3125,7 +2985,7 @@ year,month,vtype,make,make
 2016,10,02 - Automobile,HYUANDAI,2
 2016,10,02 - Automobile,HYUANDI,1
 2016,10,02 - Automobile,HYUDAI,1
-2016,10,02 - Automobile,HYUN,202
+2016,10,02 - Automobile,HYUN,198
 2016,10,02 - Automobile,HYUND,5
 2016,10,02 - Automobile,HYUNDA,4
 2016,10,02 - Automobile,HYUNDAI,289
@@ -3150,7 +3010,7 @@ year,month,vtype,make,make
 2016,10,02 - Automobile,KAWASAKI,1
 2016,10,02 - Automobile,KAWI,1
 2016,10,02 - Automobile,KAWK,1
-2016,10,02 - Automobile,KIA,219
+2016,10,02 - Automobile,KIA,217
 2016,10,02 - Automobile,KYCO,2
 2016,10,02 - Automobile,LAND ROVER,12
 2016,10,02 - Automobile,LANDR,1
@@ -3198,7 +3058,7 @@ year,month,vtype,make,make
 2016,10,02 - Automobile,NAZDA,1
 2016,10,02 - Automobile,NISAN,7
 2016,10,02 - Automobile,NISS,328
-2016,10,02 - Automobile,NISSAN,701
+2016,10,02 - Automobile,NISSAN,697
 2016,10,02 - Automobile,NISSAN MAXIMA,1
 2016,10,02 - Automobile,NISSANS,1
 2016,10,02 - Automobile,NISSIAN,3
@@ -3249,7 +3109,7 @@ year,month,vtype,make,make
 2016,10,02 - Automobile,TOYO,24
 2016,10,02 - Automobile,TOYOA,1
 2016,10,02 - Automobile,TOYOT,4
-2016,10,02 - Automobile,TOYOTA,1593
+2016,10,02 - Automobile,TOYOTA,1588
 2016,10,02 - Automobile,TOYOYA,2
 2016,10,02 - Automobile,TOYOYTA,1
 2016,10,02 - Automobile,TOYP,1
@@ -3386,7 +3246,6 @@ year,month,vtype,make,make
 2016,10,06 - Heavy Duty Truck,INTL,2
 2016,10,06 - Heavy Duty Truck,IZUZU,1
 2016,10,06 - Heavy Duty Truck,KENW,4
-2016,10,06 - Heavy Duty Truck,LODA,3
 2016,10,06 - Heavy Duty Truck,MACK,4
 2016,10,06 - Heavy Duty Truck,MARM,1
 2016,10,06 - Heavy Duty Truck,PETE,3
@@ -3419,7 +3278,7 @@ year,month,vtype,make,make
 2016,10,12 - School Bus,FREIGHTLINER,2
 2016,10,12 - School Bus,THOMAS,4
 2016,10,12 - School Bus,THOMAS BUS,1
-2016,10,18 - Police(Non-Emerg),000,1
+2016,10,18 - Police(Non-Emerg),0,1
 2016,10,19 - Moped,HONDA,17
 2016,10,19 - Moped,UNK,3
 2016,10,20 - Commercial Rig,PTRB,1
@@ -3441,7 +3300,7 @@ year,month,vtype,make,make
 2016,10,28 - Other,CHRY,3
 2016,10,28 - Other,DODGE,9
 2016,10,28 - Other,FORD,41
-2016,10,28 - Other,HOND,6
+2016,10,28 - Other,HOND,3
 2016,10,28 - Other,HONDA,14
 2016,10,28 - Other,HYUNDAI,1
 2016,10,28 - Other,ISUZU,4
@@ -3491,23 +3350,22 @@ year,month,vtype,make,make
 2016,11,01 - Motorcycle,YAMAHA,8
 2016,11,02 - Automobile,ACUA,1
 2016,11,02 - Automobile,ACUR,94
-2016,11,02 - Automobile,ACURA,312
+2016,11,02 - Automobile,ACURA,311
 2016,11,02 - Automobile,ACUTA,5
 2016,11,02 - Automobile,ALTIMA,1
 2016,11,02 - Automobile,AUDI,154
 2016,11,02 - Automobile,AUDU,1
 2016,11,02 - Automobile,"B,W",2
-2016,11,02 - Automobile,BMW,337
+2016,11,02 - Automobile,BMW,336
 2016,11,02 - Automobile,BUIC,10
 2016,11,02 - Automobile,BUICK,48
 2016,11,02 - Automobile,CAD,8
 2016,11,02 - Automobile,CADAILLIC,1
 2016,11,02 - Automobile,CADALLAC,7
-2016,11,02 - Automobile,CADI,52
-2016,11,02 - Automobile,CADILAC,2
+2016,11,02 - Automobile,CADI,49
 2016,11,02 - Automobile,CADILLA,3
 2016,11,02 - Automobile,CADILLAC,44
-2016,11,02 - Automobile,CHEV,262
+2016,11,02 - Automobile,CHEV,261
 2016,11,02 - Automobile,CHEVE,2
 2016,11,02 - Automobile,CHEVERLET,1
 2016,11,02 - Automobile,CHEVERLOT,3
@@ -3527,10 +3385,10 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,CRYSLER,5
 2016,11,02 - Automobile,CRYSTLER,2
 2016,11,02 - Automobile,DODG,92
-2016,11,02 - Automobile,DODGE,248
+2016,11,02 - Automobile,DODGE,247
 2016,11,02 - Automobile,FIAT,1
-2016,11,02 - Automobile,FORD,949
-2016,11,02 - Automobile,GEO,22
+2016,11,02 - Automobile,FORD,937
+2016,11,02 - Automobile,GEO,21
 2016,11,02 - Automobile,GMC,73
 2016,11,02 - Automobile,HANDA,3
 2016,11,02 - Automobile,HEVY,2
@@ -3541,8 +3399,8 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,HODNA,7
 2016,11,02 - Automobile,HON,2
 2016,11,02 - Automobile,HONA,1
-2016,11,02 - Automobile,HOND,483
-2016,11,02 - Automobile,HONDA,1577
+2016,11,02 - Automobile,HOND,480
+2016,11,02 - Automobile,HONDA,1553
 2016,11,02 - Automobile,HONDA`,1
 2016,11,02 - Automobile,HUMM,2
 2016,11,02 - Automobile,HUMMER,2
@@ -3552,10 +3410,10 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,HYN,1
 2016,11,02 - Automobile,HYND,5
 2016,11,02 - Automobile,HYNDAI,1
-2016,11,02 - Automobile,HYUN,214
+2016,11,02 - Automobile,HYUN,212
 2016,11,02 - Automobile,HYUND,3
 2016,11,02 - Automobile,HYUNDA,1
-2016,11,02 - Automobile,HYUNDAI,297
+2016,11,02 - Automobile,HYUNDAI,291
 2016,11,02 - Automobile,HYUNDAIA,1
 2016,11,02 - Automobile,HYUNDI,1
 2016,11,02 - Automobile,HYUNDIA,2
@@ -3572,9 +3430,9 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,IZUZU,2
 2016,11,02 - Automobile,JAGU,9
 2016,11,02 - Automobile,JAGUAR,13
-2016,11,02 - Automobile,JEEP,267
+2016,11,02 - Automobile,JEEP,262
 2016,11,02 - Automobile,KAWASAKI,12
-2016,11,02 - Automobile,KIA,191
+2016,11,02 - Automobile,KIA,190
 2016,11,02 - Automobile,KIA4,1
 2016,11,02 - Automobile,LAD ROVER,1
 2016,11,02 - Automobile,LAND ROVER,9
@@ -3582,9 +3440,9 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,LANR,1
 2016,11,02 - Automobile,LEX,5
 2016,11,02 - Automobile,LEXIS,3
-2016,11,02 - Automobile,LEXS,55
+2016,11,02 - Automobile,LEXS,53
 2016,11,02 - Automobile,LEXU,24
-2016,11,02 - Automobile,LEXUS,176
+2016,11,02 - Automobile,LEXUS,175
 2016,11,02 - Automobile,LEXUS4D,1
 2016,11,02 - Automobile,LIINCOLN,4
 2016,11,02 - Automobile,LINC,29
@@ -3596,7 +3454,7 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,MAZ,2
 2016,11,02 - Automobile,MAZA,1
 2016,11,02 - Automobile,MAZD,72
-2016,11,02 - Automobile,MAZDA,175
+2016,11,02 - Automobile,MAZDA,169
 2016,11,02 - Automobile,MB,4
 2016,11,02 - Automobile,MER-BENZ,1
 2016,11,02 - Automobile,MERC,51
@@ -3650,13 +3508,13 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,SAT,1
 2016,11,02 - Automobile,SATU,17
 2016,11,02 - Automobile,SATUR,1
-2016,11,02 - Automobile,SATURN,25
+2016,11,02 - Automobile,SATURN,24
 2016,11,02 - Automobile,SCIO,3
 2016,11,02 - Automobile,SCION,62
 2016,11,02 - Automobile,SHOR,1
 2016,11,02 - Automobile,STRN,3
 2016,11,02 - Automobile,SUB,6
-2016,11,02 - Automobile,SUBA,69
+2016,11,02 - Automobile,SUBA,68
 2016,11,02 - Automobile,SUBARU,111
 2016,11,02 - Automobile,SUBU,4
 2016,11,02 - Automobile,SUBURU,4
@@ -3672,11 +3530,11 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,TOY0TA,1
 2016,11,02 - Automobile,TOYO,19
 2016,11,02 - Automobile,TOYOT,9
-2016,11,02 - Automobile,TOYOTA,1557
+2016,11,02 - Automobile,TOYOTA,1547
 2016,11,02 - Automobile,TOYOTA SCION,1
 2016,11,02 - Automobile,TOYOTOA,2
 2016,11,02 - Automobile,TOYPTA,1
-2016,11,02 - Automobile,TOYT,804
+2016,11,02 - Automobile,TOYT,798
 2016,11,02 - Automobile,TOYTA,10
 2016,11,02 - Automobile,TOYTOA,1
 2016,11,02 - Automobile,TOYTOTA,1
@@ -3691,7 +3549,7 @@ year,month,vtype,make,make
 2016,11,02 - Automobile,VOLS,1
 2016,11,02 - Automobile,VOLV,23
 2016,11,02 - Automobile,VOLVO,56
-2016,11,02 - Automobile,VW,54
+2016,11,02 - Automobile,VW,52
 2016,11,02 - Automobile,VWOLKS,9
 2016,11,02 - Automobile,YAMAHA,1
 2016,11,03 - Station Wagon,ACUR,1
@@ -3704,7 +3562,7 @@ year,month,vtype,make,make
 2016,11,03 - Station Wagon,FORD,15
 2016,11,03 - Station Wagon,GMC,9
 2016,11,03 - Station Wagon,HOND,7
-2016,11,03 - Station Wagon,HONDA,26
+2016,11,03 - Station Wagon,HONDA,17
 2016,11,03 - Station Wagon,HYUN,3
 2016,11,03 - Station Wagon,HYUNDAI,5
 2016,11,03 - Station Wagon,INFI,3
@@ -3749,7 +3607,7 @@ year,month,vtype,make,make
 2016,11,05 - Light Duty Truck,DODG,17
 2016,11,05 - Light Duty Truck,DODGE,20
 2016,11,05 - Light Duty Truck,DOGE,1
-2016,11,05 - Light Duty Truck,FORD,177
+2016,11,05 - Light Duty Truck,FORD,174
 2016,11,05 - Light Duty Truck,FREI,1
 2016,11,05 - Light Duty Truck,GMC,25
 2016,11,05 - Light Duty Truck,HOND,16
@@ -3824,7 +3682,7 @@ year,month,vtype,make,make
 2016,11,25 - Utility Trailer,SURE,6
 2016,11,27 - Farm Equipment,FORD,4
 2016,11,27 - Farm Equipment,MERZ,1
-2016,11,28 - Other,00,2
+2016,11,28 - Other,0,2
 2016,11,28 - Other,ACUR,2
 2016,11,28 - Other,ACURA,1
 2016,11,28 - Other,AUDI,1
@@ -3857,7 +3715,7 @@ year,month,vtype,make,make
 2016,11,28 - Other,MAZDA,2
 2016,11,28 - Other,MERCURY,2
 2016,11,28 - Other,MERZ,1
-2016,11,28 - Other,NISS,7
+2016,11,28 - Other,NISS,6
 2016,11,28 - Other,NISSAN,11
 2016,11,28 - Other,RANG,3
 2016,11,28 - Other,RNG ROV,1

@@ -2,7 +2,7 @@ import pandas as pd
 from pandas import ExcelWriter
 
 # Reads the CSV dataset into Pandas
-df = pd.read_csv('Traffic_Violations.csv', header=0)
+df = pd.read_csv('Traffic_Violations.csv', low_memory=False)
 # Prints the number of lines in the CSV datasets
 print("Total number of data lines in the CSV dataset:",len(df))
 print("Number of Rows, Columns :",df.shape)  # size of the data
